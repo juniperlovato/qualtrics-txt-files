@@ -1,1 +1,3 @@
-3 test
+Original English Math Word Problem: test 3
+
+Translated Math Word Problem: test 3
