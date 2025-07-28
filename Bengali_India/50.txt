@@ -1,0 +1,5 @@
+Original English Version:
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+
+Translated Version:
+اسکول کی اسکاؤٹ ٹیم کے لیے نئی وردیاں بنوائی جا رہی ہیں۔ ہر وردی میں ایک ٹوپی ہے جس کی قیمت 250 روپے ہے۔ جیکٹ کی قیمت ٹوپی کی قیمت سے تین گنا زیادہ ہے، اور پتلون کی قیمت ٹوپی اور جیکٹ کی قیمتوں کا اوسط ہے۔ بتائیں کہ ایک وردی کی کل قیمت کتنی ہوگی؟
