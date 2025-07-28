@@ -1,0 +1,5 @@
+Original English Version:
+There are 9 Fast and the Furious movies, Deepa has seen each one in the theatre three times. They have spent $216 seeing these movies. What is the average price they paid per ticket?
+
+Translated Version:
+ایک مشہور فلمی سیریز کی 9 فلمیں ہیں۔ علی نے ہر فلم سینما میں تین بار دیکھی ہے۔ اگر اُس نے اِن فلموں پر کُل 16,200 روپے خرچ کیے ہیں، تو ہر ایک ٹکٹ کی اوسط قیمت کیا تھی؟
