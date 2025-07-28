@@ -1,0 +1,5 @@
+Original English Version:
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+
+Translated Version:
+احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟

@@ -1,0 +1,5 @@
+Original English Version:
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+
+Translated Version:
+احمد کی سائیکلوں کی ایک دکان ہے۔ اس کی دکان میں تین طرح کی سائیکلیں ہیں: پہاڑی سائیکل، بچوں کی سائیکل، اور عام سائیکل۔ ایک پہاڑی سائیکل کی قیمت ۵۰۰۰ روپے ہے۔ بچوں کی سائیکل کی قیمت پہاڑی سائیکل کی قیمت سے آدھی ہے، اور ایک عام سائیکل کی قیمت ۴۵۰۰ روپے ہے۔ ایک مہینے میں، احمد نے کل ۳۰۰ سائیکلیں بیچیں۔ ان میں سے آدھی عام سائیکلیں تھیں اور ۱۵ فیصد بچوں کی سائیکلیں تھیں۔ باقی تمام سائیکلیں پہاڑی تھیں۔ بتائیں کہ احمد نے اس مہینے سائیکلیں بیچ کر کل کتنی رقم کمائی؟
