@@ -1,5 +1,5 @@
 Original English Version:
-Chris has a two-speed lawn mower. He can mow his entire lawn in "turtle" mode in 1 hour, or 40 minutes in "rabbit" mode. Today, he experimented by mowing half in turtle mode and half in rabbit mode. How many minutes did it take him to mow the lawn?
+Solo has to read 4 pages from their Science textbook, 20 pages from their Social Studies textbook, 7 pages from their History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If they have 4 more days to complete all their reading, how many pages do they need to read, on average, in one day?
 
 Translated Version:
-Text 
+علی کو اپنی سائنس کی کتاب سے 4 صفحات، معاشرتی علوم کی کتاب سے 20 صفحات، تاریخِ پاکستان کی کتاب سے 7 صفحات اور جغرافیہ کی کتاب سے 8 صفحات پڑھنے ہیں۔ علی نے پیر کو 15 صفحات پڑھ لیے۔ اگر اس کے پاس باقی پڑھائی مکمل کرنے کے لیے 4 دن اور ہیں، تو اسے اوسطاً ایک دن میں کتنے صفحات پڑھنے ہوں گے؟

@@ -1,5 +1,5 @@
 Original English Version:
-Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-Text 
+عائشہ پھولوں کی دکان پر کچھ پھول خریدنے جاتی ہے۔ ایک گلاب کی قیمت 50 روپے ہے اور ایک درجن کی قیمت 500 روپے ہے۔ اگر اس نے 15 گلاب خریدے اور اس کے پاس 1000 روپے کا ایک نوٹ تھا، اور دکاندار کے پاس صرف 25 روپے کے سکے ہیں واپسی دینے کے لیے، تو عائشہ کتنے 25 روپے کے سکے لے کر واپس جائے گی؟

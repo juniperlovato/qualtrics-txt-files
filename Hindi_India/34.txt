@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Melanie is a door-to-door saleswoman. They sold a third of their vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did they start with?
 
 Translated Version:
-Text 
+عائشہ ایک گھر گھر جا کر چیزیں بیچنے والی خاتون ہے۔ انہوں نے اپنے برقی پنکھوں کا ایک تہائی حصہ سبز رنگ کے گھر میں بیچا، 2 اور پنکھے سرخ رنگ کے گھر میں بیچے، اور جو باقی بچے تھے ان کا آدھا حصہ نارنجی رنگ کے گھر میں بیچا۔ اگر عائشہ کے پاس اب 5 برقی پنکھے باقی ہیں، تو شروع میں ان کے پاس کتنے پنکھے تھے؟

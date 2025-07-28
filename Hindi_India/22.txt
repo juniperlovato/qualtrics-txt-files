@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
 
 Translated Version:
-Text 
+علی کراچی میں ایک سائیکل کی دکان چلاتا ہے۔ اس کی اہم مصنوعات تین قسم کی سائیکلیں ہیں: پہاڑی سائیکل، بی ایم ایکس، اور شہری سائیکل۔ ایک پہاڑی سائیکل کی قیمت 50,000 روپے ہے، بی ایم ایکس کی قیمت پہاڑی سائیکل سے آدھی ہے، اور شہری سائیکل کی قیمت 45,000 روپے ہے۔ ایک مہینے میں، انہوں نے کل 300 سائیکلیں فروخت کیں۔ ان میں سے آدھی شہری سائیکلیں تھیں، اور 15 فیصد بی ایم ایکس تھیں۔ باقی فروخت شدہ سائیکلیں پہاڑی قسم کی تھیں۔ اس مہینے میں سائیکلوں کی فروخت سے انہوں نے کتنی رقم کمائی؟

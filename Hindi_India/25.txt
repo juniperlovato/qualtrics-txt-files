@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+Toula went to the bakery and bought various types of pastries. She bought 3 dozen donuts which cost $68 per dozen, 2 dozen mini cupcakes which cost $80 per dozen, and 6 dozen mini cheesecakes for $55 per dozen. How much was the total cost?
 
 Translated Version:
-Text 
+عائشہ نے بیکری سے مختلف قسم کی مٹھائیاں خریدیں۔ اس نے 3 درجن گلاب جامن خریدے جن کی قیمت 68 روپے فی درجن تھی، 2 درجن چھوٹے کپ کیک خریدے جن کی قیمت 80 روپے فی درجن تھی، اور 6 درجن چھوٹے رس ملائی خریدے جن کی قیمت 55 روپے فی درجن تھی۔ کل قیمت کتنی تھی؟

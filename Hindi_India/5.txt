@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?
 
 Translated Version:
-Text 
+احمد کے گھر ایک دن اس کے چار دوست ملنے آئے۔ پہلے دوست نے 20 مرتبہ گھر کی گھنٹی بجائی۔ دوسرے دوست نے پہلے دوست سے ایک چوتھائی (1/4) زیادہ مرتبہ گھنٹی بجائی۔ تیسرے دوست نے چوتھے دوست سے 10 مرتبہ زیادہ گھنٹی بجائی۔ اگر چوتھے دوست نے 60 مرتبہ گھنٹی بجائی، تو بتائیں کہ گھنٹی کُل کتنی مرتبہ بجی؟

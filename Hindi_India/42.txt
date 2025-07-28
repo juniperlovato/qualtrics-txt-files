@@ -1,5 +1,5 @@
 Original English Version:
-The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
 
 Translated Version:
-Text 
+احمد روزانہ 300 نان، 120 چاکلیٹ پیٹسری اور 60 پراٹھے بناتا ہے۔ ہر نان کی لمبائی 4 انچ ہے، ہر پیٹسری کی لمبائی 6 انچ ہے، اور ہر پراٹھے کی لمبائی 2 فٹ ہے۔ اگر احمد یہ تمام چیزیں ایک سیدھی قطار میں رکھے تو ان سب کی مشترکہ لمبائی کتنے فٹ ہوگی؟
