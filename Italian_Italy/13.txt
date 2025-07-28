@@ -1,0 +1,5 @@
+Original English Version:
+There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+
+Translated Version:
+ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں لکھی گئی ہیں، اور 10% انگریزی میں۔ باقی تمام کتابیں پنجابی میں لکھی گئی ہیں۔ پنجابی میں کتنی کتابیں ہیں؟

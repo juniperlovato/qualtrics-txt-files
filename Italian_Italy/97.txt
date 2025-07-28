@@ -1,0 +1,5 @@
+Original English Version:
+The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+
+Translated Version:
+جب آپ احمد کے گھر کے دروازے پر کھڑے ہوں تو بادشاہی مسجد کا گنبد زمین سے 32 ڈگری کے زاویے پر نظر آتا ہے۔ سورج احمد کے گھر کی نسبت سے گنبد کی نوک سے سیدھا اوپر کی طرف 5 ڈگری فی گھنٹہ کی رفتار سے حرکت کر رہا ہے۔ اگر سورج گنبد کی نوک سے شروع ہو اور 10 گھنٹے تک حرکت کرے، تو زمین سے سورج تک کتنے ڈگری کا زاویہ ہوگا؟
