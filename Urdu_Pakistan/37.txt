@@ -1,0 +1,5 @@
+Original English Version:
+In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+
+Translated Version:
+ایک اسکول میں 20 بچوں کی قرآن کی کلاس میں، 20% بچوں نے ناظرہ قرآن میں داخلہ لیا، باقی بچوں میں سے 25% نے حفظ قرآن میں داخلہ لیا، اور باقی بچوں نے ترجمہ قرآن میں داخلہ لیا۔ کتنے فیصد بچوں نے ترجمہ قرآن میں داخلہ لیا؟
