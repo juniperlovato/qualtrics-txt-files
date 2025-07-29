@@ -1,5 +1,5 @@
 Original English Version:
-Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-ثنا آن لائن ایک جوڑی جوتے خریدنا چاہتی ہے۔ Daraz.pk پر جوتوں کی قیمت ۱۵۰۰ روپے ہے اور ڈیلیوری کے ۲۰۰ روپے ہیں۔ ایک دوسری ویب سائٹ پر، وہی جوتے صرف ۱۴۰۰ روپے کے ہیں، لیکن ڈیلیوری کے پیسے Daraz سے دگنے ہیں۔ بتائیں کہ دوسری ویب سائٹ پر جوتے کُل ملا کر کتنے مہنگے پڑیں گے؟
+ਇੱਕ ਮਕੈਨਿਕ ਟਰੱਕਾਂ ਅਤੇ ਕਾਰਾਂ ਦੇ ਟਾਇਰ ਠੀਕ ਕਰਨ ਲਈ ਵੱਖ-ਵੱਖ ਦਰਾਂ ਲੈਂਦਾ ਹੈ। ਹਰੇਕ ਟਰੱਕ ਦੇ ਟਾਇਰ ਨੂੰ ਠੀਕ ਕਰਨ ਲਈ ਮਕੈਨਿਕ ₹500 ਲੈਂਦਾ ਹੈ ਅਤੇ ਹਰੇਕ ਕਾਰ ਦੇ ਟਾਇਰ ਲਈ ₹300 ਲੈਂਦਾ ਹੈ। ਵੀਰਵਾਰ ਨੂੰ, ਮਕੈਨਿਕ ਨੇ 6 ਟਰੱਕ ਦੇ ਟਾਇਰ ਅਤੇ 4 ਕਾਰ ਦੇ ਟਾਇਰ ਠੀਕ ਕੀਤੇ। ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ, ਮਕੈਨਿਕ ਨੇ 12 ਕਾਰ ਦੇ ਟਾਇਰ ਠੀਕ ਕੀਤੇ ਅਤੇ ਕੋਈ ਵੀ ਟਰੱਕ ਦਾ ਟਾਇਰ ਠੀਕ ਨਹੀਂ ਕੀਤਾ। ਜਿਸ ਦਿਨ ਜ਼ਿਆਦਾ ਕਮਾਈ ਹੋਈ, ਉਸ ਦਿਨ ਮਕੈਨਿਕ ਨੇ ਕਿੰਨੇ ਰੁਪਏ ਜ਼ਿਆਦਾ ਕਮਾਏ?

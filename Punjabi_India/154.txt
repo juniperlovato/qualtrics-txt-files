@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
 
 Translated Version:
-عائشہ اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس 27 کپ ہیں، اور وہ انہیں 3 قطاروں میں تقسیم کرتی ہے۔ ہر قطار میں، وہ برابر تعداد میں سبز چائے اور قہوہ کے کپ رکھتی ہے۔ باقی بچے ہوئے کپوں میں وہ کل 15 کپ دودھ پتی بناتی ہے۔ ہر قطار میں کتنے کپ قہوہ ہیں؟
+ਰਾਜੂ ਆਪਣੀ ਭੈਣ ਦੇ ਵਿਆਹ ਦੀ ਸਾਲਗਿਰਹ ਲਈ ਦੋ ਬੈਂਕੁਏਟ ਹਾਲਾਂ ਵਿੱਚੋਂ ਇੱਕ ਚੁਣਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਪਹਿਲਾ ਹਾਲ 15,000 ਰੁਪਏ ਦੀ ਇੱਕ ਫਲੈਟ ਫੀਸ ਲੈਂਦਾ ਹੈ, ਭਾਵੇਂ ਕਿੰਨੇ ਵੀ ਮਹਿਮਾਨ ਆਉਣ। ਜਦਕਿ ਦੂਜਾ ਹਾਲ ਹਰੇਕ ਮਹਿਮਾਨ ਲਈ 1,875 ਰੁਪਏ ਲੈਂਦਾ ਹੈ। ਪਰ, ਪਹਿਲੇ ਹਾਲ ਵਿੱਚ ਖਾਣਾ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ, ਜਿਸਦੀ ਲਾਗਤ ਰਾਜੂ ਦੇ ਅੰਦਾਜ਼ੇ ਅਨੁਸਾਰ ਹਰੇਕ ਮਹਿਮਾਨ ਲਈ 375 ਰੁਪਏ ਹੋਵੇਗੀ। ਦੂਜੇ ਹਾਲ ਵਿੱਚ, ਹਰੇਕ ਮਹਿਮਾਨ ਲਈ ਖਾਣਾ ਪਹਿਲਾਂ ਹੀ ਕੀਮਤ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ। ਦੋਵੇਂ ਹਾਲਾਂ ਦੀ ਲਾਗਤ ਬਰਾਬਰ ਹੋਣ ਲਈ ਕਿੰਨੇ ਮਹਿਮਾਨ ਹੋਣੇ ਜ਼ਰੂਰੀ ਹਨ?

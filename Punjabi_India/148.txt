@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+Toula went to the bakery and bought various types of pastries. She bought 3 dozen donuts which cost $68 per dozen, 2 dozen mini cupcakes which cost $80 per dozen, and 6 dozen mini cheesecakes for $55 per dozen. How much was the total cost?
 
 Translated Version:
-عائشہ اسلامیات کا امتحان دے رہی ہے۔ وہ کثیر الانتخابی سوالات کے 80٪، درست/غلط سوالات کے 90٪، اور تفصیلی سوالات کے 60٪ صحیح جواب دیتی ہے۔ کثیر الانتخابی اور درست/غلط سوالات ہر ایک 1 نمبر کے ہیں، اور تفصیلی سوالات ہر ایک 5 نمبر کے ہیں۔ اگر 10 کثیر الانتخابی سوالات، 20 درست/غلط سوالات، اور 5 تفصیلی سوالات ہیں تو عائشہ کتنے نمبر حاصل کرتی ہے؟
+ਸਿਮਰਨ ਇੱਕ ਮਠਿਆਈ ਦੀ ਦੁਕਾਨ 'ਤੇ ਗਈ। ਉਸਨੇ ₹120 ਪ੍ਰਤੀ ਦਰਜਨ ਦੇ ਹਿਸਾਬ ਨਾਲ 3 ਦਰਜਨ ਸਮੋਸੇ, ₹180 ਪ੍ਰਤੀ ਦਰਜਨ ਦੇ ਹਿਸਾਬ ਨਾਲ 2 ਦਰਜਨ ਲੱਡੂ, ਅਤੇ ₹150 ਪ੍ਰਤੀ ਦਰਜਨ ਦੇ ਹਿਸਾਬ ਨਾਲ 6 ਦਰਜਨ ਗੁਲਾਬ ਜਾਮੁਨ ਖਰੀਦੇ। ਉਸਨੇ ਦੁਕਾਨਦਾਰ ਨੂੰ ਕੁੱਲ ਕਿੰਨੇ ਪੈਸੇ ਦਿੱਤੇ?

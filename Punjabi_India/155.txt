@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
 
 Translated Version:
-ثنا اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس کل 27 کپ ہیں۔ وہ ان میں سے 15 کپ کشمیری چائے بنانے کے لیے استعمال کرتی ہے۔ باقی کپوں کو وہ 3 برابر قطاروں میں ترتیب دیتی ہے۔ ہر قطار میں، وہ سبز چائے اور دودھ پتی کے کپ برابر تعداد میں رکھتی ہے۔ بتائیں، ہر قطار میں دودھ پتی کے کتنے کپ ہیں؟
+ਇੱਕ ਛੋਟੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ 50 ਕਿਤਾਬਾਂ ਹਨ। ਉਨ੍ਹਾਂ ਵਿੱਚੋਂ ਅੱਧੀਆਂ ਕਿਤਾਬਾਂ ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਹਨ, ਤੇ 10% ਕਿਤਾਬਾਂ ਉਰਦੂ ਵਿੱਚ ਹਨ। ਬਾਕੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਪੰਜਾਬੀ ਵਿੱਚ ਹਨ। ਦੱਸੋ ਕਿ ਪੰਜਾਬੀ ਵਿੱਚ ਕਿੰਨੀਆਂ ਕਿਤਾਬਾਂ ਹਨ?

@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن کماتا ہے۔ اسے روزنامہ جنگ کی ہر کاپی پر 10 فیصد کمیشن اور روزنامہ ڈان کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر روزنامہ جنگ کی قیمت 30 روپے فی کاپی اور روزنامہ ڈان کی قیمت 50 روپے فی کاپی ہے، تو علی کو روزنامہ جنگ کی 6 کاپیاں اور روزنامہ ڈان کی 10 کاپیاں بیچنے سے کل کتنا کمیشن ملے گا؟
+ਇੱਕ ਦੁਕਾਨਦਾਰ ਨੇ ਦੋ ਯੋਜਨਾਵਾਂ ਵਿੱਚੋਂ ਇੱਕ ਦੀ ਚੋਣ ਕਰਨੀ ਹੈ: ₹5,000 ਦੇ ਗਹਿਣੇ ਖਰੀਦਣੇ ਜਾਂ ₹8,000 ਦਾ ਬਿਜਲੀ ਦਾ ਸਮਾਨ ਖਰੀਦਣਾ। ਉਸਨੂੰ ਉਮੀਦ ਹੈ ਕਿ ਤਿਉਹਾਰਾਂ ਦੇ ਮੌਸਮ ਕਾਰਨ, ਇੱਕ ਮਹੀਨੇ ਵਿੱਚ ਗਹਿਣਿਆਂ ਦੀ ਕੀਮਤ 10% ਵੱਧ ਜਾਵੇਗੀ, ਜਦੋਂ ਕਿ ਬਿਜਲੀ ਦੇ ਸਮਾਨ ਦੀ ਕੀਮਤ 5% ਵਧੇਗੀ। ਜੇਕਰ ਦੁਕਾਨਦਾਰ ਮਹੀਨੇ ਦੇ ਅੰਤ ਵਿੱਚ ਸਭ ਤੋਂ ਵੱਧ ਮੁਨਾਫਾ ਕਮਾਉਣਾ ਚਾਹੁੰਦਾ ਹੈ, ਤਾਂ ਇਹ ਵੱਧ ਤੋਂ ਵੱਧ ਮੁਨਾਫਾ ਕਿੰਨਾ ਹੋਵੇਗਾ?

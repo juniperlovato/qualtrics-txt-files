@@ -1,8 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-ایک عطر فروش، احمد بھائی، اپنی دکان میں دو طرح کے عطر بیچتے ہیں: گلاب اور چنبیلی۔
- اُن کے پاس گلاب کے عطر کی 4 مختلف قسمیں ہیں اور چنبیلی کے عطر کی 8 مختلف قسمیں ہیں۔
- دن کے آخر میں حساب کرنے پر معلوم ہوا کہ اُنہوں نے گلاب کی ہر قسم کی 5 شیشیاں فروخت کیں اور چنبیلی کی ہر قسم کی 2 شیشیاں فروخت کیں۔
- تو بتائیں کہ گلاب کی کل فروخت ہونے والی شیشیاں، چنبیلی کی کل فروخت ہونے والی شیشیوں سے کتنی زیادہ تھیں؟
+ਇੱਕ ਵਪਾਰੀ ਕੋਲ ਦੋ ਖਰੀਦ ਯੋਜਨਾਵਾਂ ਹਨ: ਸੂਨਿਆਂ ਦੇ ਗਹਿਣੇ 4,00,000 ਰੁਪਏ ਦੇ ਜਾਂ ਮੋਬਾਈਲ ਤੇ ਲੈਪਟਾਪ ਵਰਗੇ ਇਲੈਕਟ੍ਰਾਨਿਕ ਸਮਾਨ 6,00,000 ਰੁਪਏ ਦੇ। ਉਸਦੇ ਆਰਥਿਕ ਸਲਾਹਕਾਰ ਅੰਦਾਜ਼ਾ ਲਗਾਉਂਦੇ ਹਨ ਕਿ ਗਹਿਣਿਆਂ ਦੀ ਕੀਮਤ ਇਸ ਮਹੀਨੇ 2.5% ਵੱਧੇਗੀ ਤੇ ਇਲੈਕਟ੍ਰਾਨਿਕ ਸਮਾਨ ਦੀ ਕੀਮਤ ਸਿਰਫ 1.2% ਵੱਧੇਗੀ। ਜੇ ਵਪਾਰੀ ਜ਼ਿਆਦਾ ਲਾਭ ਲੈਣਾ ਚਾਹੁੰਦਾ ਹੈ, ਤਾਂ ਉਹ ਕਿਹੜਾ ਵਿਕਲਪ ਚੁਣੇ ਅਤੇ ਉਸਨੂੰ ਕਿੰਨਾ ਲਾਭ ਹੋਵੇਗਾ?
