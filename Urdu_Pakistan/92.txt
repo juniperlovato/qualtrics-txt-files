@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-ایک مستری ٹرکوں اور گاڑیوں کے ٹائر ٹھیک کرنے کی الگ الگ اجرت لیتا ہے۔ ٹرک کا ہر ٹائر ٹھیک کرنے کے لئے مستری 600 روپے لیتا ہے، اور گاڑی کا ہر ٹائر ٹھیک کرنے کے لئے 400 روپے لیتا ہے۔ جمعرات کو مستری نے 6 ٹرکوں کے ٹائر اور 4 گاڑیوں کے ٹائر ٹھیک کیے۔ جمعہ کو مستری نے 12 گاڑیوں کے ٹائر ٹھیک کیے اور کوئی ٹرک کا ٹائر ٹھیک نہیں کیا۔ بتائیں کس دن مستری نے زیادہ پیسے کمائے اور کتنے زیادہ؟
+علی یہ فیصلہ کرنے کی کوشش کر رہا ہے کہ وہ مشین اے خریدے، جو ایک گھنٹے میں 60 کھلونے بناتی ہے، یا مشین بی خریدے، جو ایک گھنٹے میں 45 کھلونے بناتی ہے۔ ہر کھلونا 600 روپے میں فروخت ہوتا ہے۔ اگر دونوں مشینیں ایک دن میں 24 گھنٹے اور ایک مہینے (30 دن) تک چلائی جائیں، تو علی کو مشین اے کے مقابلے میں مشین بی سے کتنے روپے زیادہ ملیں گے؟

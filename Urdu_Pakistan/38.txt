@@ -1,5 +1,5 @@
 Original English Version:
-In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-ایک جماعت میں 20 بچے ہیں۔ 20 فیصد بچے کرکٹ کھیلتے ہیں، باقی بچوں میں سے 25 فیصد ہاکی کھیلتے ہیں، اور جو بچے رہ گئے وہ فٹ بال کھیلتے ہیں۔ بتائیں کہ پوری جماعت کے کتنے فیصد بچے فٹ بال کھیلتے ہیں؟
+اسکول کی قومی ترانہ ٹیم نئی یونیفارم منگوا رہی ہے۔ ہر یونیفارم میں ایک ٹوپی ہے جس کی قیمت 500 روپے ہے، ایک قمیض ہے جس کی قیمت ٹوپی سے تین گنا زیادہ ہے، اور شلوار ہے جس کی قیمت ٹوپی اور قمیض کی قیمتوں کا اوسط ہے۔ ہر یونیفارم کی کل قیمت کتنی ہے؟

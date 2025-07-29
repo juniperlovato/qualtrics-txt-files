@@ -1,5 +1,5 @@
 Original English Version:
-Sean is practicing for their role in a theater production. They have to memorize their lines for two scenes and the lyrics to one solo song. Their solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are their lines. The second scene has six more lines than the song, and four-fifths of them are theirs. How many lines does Sean have to memorize?
+Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
 
 Translated Version:
-احمد ایک ڈرامہ مقابلے کے لیے تیاری کر رہا ہے۔ اُس نے دو مناظر (سین) کے اپنے مکالمے یاد کرنے ہیں اور ایک نغمے کے بول بھی یاد کرنے ہیں۔ اُس نغمے کے بول ۵۴ سطریں ہیں۔ پہلے منظر میں نغمے کے بولوں سے دو گنا زیادہ سطریں ہیں، لیکن ان میں سے صرف ایک تہائی سطریں احمد کی ہیں۔ دوسرے منظر میں نغمے کے بولوں سے چھ زیادہ سطریں ہیں، اور ان میں سے پانچ میں سے چار سطریں احمد کی ہیں۔ تو احمد کو کل کتنی سطریں یاد کرنی ہیں؟
+احمد ہر درجن سموسے بنانے کے لیے آدھا کلو گھی استعمال کرتا ہے۔ اسے 6 درجن سموسے بنانے ہیں۔ کریانہ کی دکان پر ایک پیشکش ہے کہ ایک کلو گھی خریدنے پر دوسرا کلو آدھی قیمت پر ملے گا۔ اگر گھی کی قیمت 800 روپے فی کلو ہے، تو احمد کو 3 کلو گھی خریدنے کے لیے کل کتنے روپے ادا کرنے ہوں گے؟

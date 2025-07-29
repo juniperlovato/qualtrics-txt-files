@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+علی مختلف اخبارات بیچتا ہے اور ہر اخبار کی فروخت پر کمیشن حاصل کرتا ہے۔ اسے 'جنگ' اخبار کی ہر کاپی پر 10٪ کمیشن اور 'نوائے وقت' اخبار کی ہر کاپی پر 8٪ کمیشن ملتا ہے۔ اگر علی نے 'جنگ' کی 6 کاپیاں (ہر ایک کی قیمت 200 روپے) اور 'نوائے وقت' کی 10 کاپیاں (ہر ایک کی قیمت 100 روپے) فروخت کیں، تو اسے کُل کتنا کمیشن ملے گا؟

@@ -1,5 +1,14 @@
 Original English Version:
-John plans to sell all their toys and use the money to buy video games. They have 13 lego sets and he sells them for $15 each. They end up buying 8 video games for $20 each and has $5 left. How many lego sets do they still have?
+For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?
 
 Translated Version:
-احمد اپنے تمام کھلونے بیچ کر کرکٹ کا سامان خریدنا چاہتا ہے۔ اس کے پاس 13 بلاکس کے سیٹ ہیں اور وہ ہر سیٹ 1500 روپے میں بیچتا ہے۔ وہ 2000 روپے کی 8 کرکٹ بالز خریدتا ہے اور اس کے پاس 500 روپے بچ جاتے ہیں۔ اس کے پاس ابھی بھی کتنے بلاکس کے سیٹ باقی ہیں؟
+یونیورسٹی میں داخلہ ملنے پر علی کے گھر والوں نے اسے نیا لیپ ٹاپ اور اس کا سامان خریدنے کے لیے 50,000 روپے دیئے۔ علی نے سوچا کہ وہ کچھ پیسے بچا کر اپنے لیے نئے کپڑے بھی خریدے گا۔
+ وہ کمپیوٹر کی دکان پر گیا اور مندرجہ ذیل چیزیں خریدیں:
+ 
+
+ - ایک لیپ ٹاپ: 35,000 روپے
+ - ایک پرنٹر: 8,000 روپے
+ - اسپیکر: 2,500 روپے
+ 
+
+ اب اس کے پاس اپنے کپڑوں کے لیے کتنے پیسے بچیں گے؟

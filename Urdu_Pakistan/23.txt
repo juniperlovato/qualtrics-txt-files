@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
 
 Translated Version:
-احمد کی سائیکلوں کی ایک دکان ہے۔ اس کی دکان میں تین طرح کی سائیکلیں ہیں: پہاڑی سائیکل، بچوں کی سائیکل، اور عام سائیکل۔ ایک پہاڑی سائیکل کی قیمت ۵۰۰۰ روپے ہے۔ بچوں کی سائیکل کی قیمت پہاڑی سائیکل کی قیمت سے آدھی ہے، اور ایک عام سائیکل کی قیمت ۴۵۰۰ روپے ہے۔ ایک مہینے میں، احمد نے کل ۳۰۰ سائیکلیں بیچیں۔ ان میں سے آدھی عام سائیکلیں تھیں اور ۱۵ فیصد بچوں کی سائیکلیں تھیں۔ باقی تمام سائیکلیں پہاڑی تھیں۔ بتائیں کہ احمد نے اس مہینے سائیکلیں بیچ کر کل کتنی رقم کمائی؟
+علی بیکری میں روزانہ 300 شیرمال، 120 چاکلیٹ پیٹیاں، اور 60 نان بناتا ہے۔ ہر شیرمال 4 انچ لمبا ہے، ہر چاکلیٹ پیٹی 6 انچ لمبی ہے، اور ہر نان 2 فٹ لمبا ہے۔ اگر علی تمام بیکری کی چیزوں کو ایک دوسرے کے ساتھ سرے سے سرا ملا کر رکھے، تو وہ کتنے فٹ لمبی ہوں گی؟

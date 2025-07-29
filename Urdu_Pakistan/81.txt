@@ -1,5 +1,5 @@
 Original English Version:
-Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
+Melanie is a door-to-door saleswoman. They sold a third of their vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did they start with?
 
 Translated Version:
-علی اپنی بیوی کے لیے سرپرائز پارٹی کے لیے دو مختلف جگہوں میں سے ایک کا انتخاب کرنا چاہتا ہے۔ پہلی جگہ ایک مقررہ فیس 35,000 روپے وصول کرتی ہے، چاہے مہمانوں کی تعداد جتنی بھی ہو۔ لیکن اس میں کھانے کی قیمت شامل نہیں ہے، جو علی کے حساب سے فی مہمان 800 روپے ہوگی۔ دوسری جگہ فی مہمان 3,500 روپے وصول کرتی ہے، لیکن اس میں کھانا پہلے سے شامل ہے۔ کتنے مہمان ہونے چاہئیں کہ دونوں جگہوں کی مجموعی قیمت برابر ہو جائے؟
+عائشہ ایک گھر گھر جا کر چیزیں بیچنے والی خاتون ہے۔ انہوں نے اپنے برقی پنکھوں کا ایک تہائی حصہ سبز رنگ کے گھر میں بیچا، 2 اور پنکھے سرخ رنگ کے گھر میں بیچے، اور جو باقی بچے تھے ان کا آدھا حصہ نارنجی رنگ کے گھر میں بیچا۔ اگر عائشہ کے پاس اب 5 برقی پنکھے باقی ہیں، تو شروع میں ان کے پاس کتنے پنکھے تھے؟

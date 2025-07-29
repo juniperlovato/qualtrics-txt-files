@@ -1,5 +1,5 @@
 Original English Version:
-Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
+Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
 
 Translated Version:
-عائشہ پھولوں کی دکان پر گلاب کے پھول خریدنے جاتی ہے۔ ایک گلاب کی قیمت ۳۰ روپے ہے اور ایک درجن (۱۲) گلاب ۳۰۰ روپے کے ہیں۔ اگر عائشہ نے ۱۵ گلاب خریدے اور دکاندار کو ۵۰۰ روپے کا نوٹ دیا، اور دکاندار کے پاس کھلے پیسوں میں صرف پانچ روپے کے سکے ہیں، تو اسے کتنے سکے واپس ملیں گے؟
+ثنا اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس کل 27 کپ ہیں۔ وہ ان میں سے 15 کپ کشمیری چائے بنانے کے لیے استعمال کرتی ہے۔ باقی کپوں کو وہ 3 برابر قطاروں میں ترتیب دیتی ہے۔ ہر قطار میں، وہ سبز چائے اور دودھ پتی کے کپ برابر تعداد میں رکھتی ہے۔ بتائیں، ہر قطار میں دودھ پتی کے کتنے کپ ہیں؟
