@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
 
 Translated Version:
-ایک مکینک رکشہ اور موٹر سائیکل کے پنکچر لگانے کے مختلف ریٹ لیتا ہے۔ ہر رکشہ کے ٹائر کا پنکچر لگانے کے وہ 600 روپے چارج کرتا ہے اور ہر موٹر سائیکل کے ٹائر کا پنکچر لگانے کے وہ 400 روپے چارج کرتا ہے۔ جمعرات کے دن مکینک نے 6 رکشہ کے ٹائر اور 4 موٹر سائیکل کے ٹائر کا پنکچر لگایا۔ جمعہ کے دن مکینک نے صرف 12 موٹر سائیکل کے ٹائر کا پنکچر لگایا اور کوئی رکشہ کا ٹائر نہیں لگایا۔ جس دن زیادہ آمدنی ہوئی، اُس دن مکینک نے دوسرے دن کے مقابلے میں کتنی زیادہ رقم کمائی؟
+সাহিলের বাড়ির সামনে একটি বড় মিনার রয়েছে, যেটার মাথা মাটির সাথে ৩২ ডিগ্রি কোণে দেখা যায়। সূর্য সেই মিনারের মাথা থেকে সরাসরি ওপরে উঠে প্রতি ঘণ্টায় ৫ ডিগ্রি করে ওঠে। যদি সূর্য মিনারের মাথা থেকে ওঠা শুরু করে এবং ১০ ঘণ্টা উঠে, তাহলে তখন মাটি থেকে সূর্যের কোণ কত ডিগ্রি হবে?

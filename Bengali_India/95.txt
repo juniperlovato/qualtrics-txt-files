@@ -1,5 +1,8 @@
 Original English Version:
-How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?
+Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
 
 Translated Version:
-اگر آپ نے اسکول کی کینٹین سے ایک سموسہ 20 روپے کا خریدا، اور ایک چکن رول کی قیمت سموسے سے تین گنا زیادہ ادا کی، تو آپ نے کُل کتنے پیسے خرچ کیے؟
+রাহুল তার স্ত্রীর জন্মদিনে একটি সারপ্রাইজ পার্টির আয়োজন করতে চায়। সে দুটি অনুষ্ঠান বাড়ির মধ্যে একটিকে বেছে নেওয়ার চেষ্টা করছে।
+ প্রথম অনুষ্ঠান বাড়িটির স্থির ভাড়া ৪০০০ টাকা, যতজন অতিথিই আসুক না কেন। কিন্তু, এই ভাড়ার মধ্যে খাবারের দাম ধরা নেই। রাহুল অনুমান করেছে যে প্রত্যেক অতিথির জন্য খাবারের খরচ হবে ১৫০ টাকা।
+ দ্বিতীয় অনুষ্ঠান বাড়িটিতে, প্রত্যেক অতিথির জন্য ২৫০ টাকা করে লাগে এবং এর মধ্যেই খাবারের দাম ধরা আছে।
+ কতজন অতিথি এলে দুটি অনুষ্ঠান বাড়ির মোট খরচ সমান হবে?

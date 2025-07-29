@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
 
 Translated Version:
-احمد کی سائیکلوں کی ایک دکان ہے۔ اس کی دکان میں تین طرح کی سائیکلیں ہیں: پہاڑی سائیکل، بچوں کی سائیکل، اور عام سائیکل۔ ایک پہاڑی سائیکل کی قیمت ۵۰۰۰ روپے ہے۔ بچوں کی سائیکل کی قیمت پہاڑی سائیکل کی قیمت سے آدھی ہے، اور ایک عام سائیکل کی قیمت ۴۵۰۰ روپے ہے۔ ایک مہینے میں، احمد نے کل ۳۰۰ سائیکلیں بیچیں۔ ان میں سے آدھی عام سائیکلیں تھیں اور ۱۵ فیصد بچوں کی سائیکلیں تھیں۔ باقی تمام سائیکلیں پہاڑی تھیں۔ بتائیں کہ احمد نے اس مہینے سائیکلیں بیچ کر کل کتنی رقم کمائی؟
+রাজু আর মিনা একটি মেলায় ঘুরতে গেছে। সেই মেলায় মোট ৯টি রাইড আছে। প্রতিটি রাইডের জন্য ১০ টাকার টিকিট লাগে। এছাড়া, ৭০ টাকায় একটি বিশেষ পাসও পাওয়া যায়, যা দিয়ে ৯টি রাইডই চড়া যায়। রাজু বিশেষ পাসটি কিনল আর মিনা প্রতিটি রাইডের জন্য আলাদা আলাদা টিকিট কিনল। যদি তারা দুজনেই ৯টি রাইডে চড়ে, তাহলে রাজু কত টাকা বাঁচাল?

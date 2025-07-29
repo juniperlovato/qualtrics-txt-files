@@ -1,5 +1,5 @@
 Original English Version:
-Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
+James loves to go swimming and has to swim across a 20-mile lake. They can swim at a pace of 2 miles per hour. They swim 60% of the distance. After that, they stop on an island and rests for half as long as the swimming time. They then finish the remaining distance while going half the speed. How long did it take them to get across the lake?
 
 Translated Version:
-احمد ہر درجن سموسے بنانے کے لیے آدھا کلو گھی استعمال کرتا ہے۔ اسے 6 درجن سموسے بنانے ہیں۔ کریانہ کی دکان پر ایک پیشکش ہے کہ ایک کلو گھی خریدنے پر دوسرا کلو آدھی قیمت پر ملے گا۔ اگر گھی کی قیمت 800 روپے فی کلو ہے، تو احمد کو 3 کلو گھی خریدنے کے لیے کل کتنے روپے ادا کرنے ہوں گے؟
+রাহুল সাঁতার কাটতে খুব ভালোবাসে। সে একটি ৩২ কিলোমিটার লম্বা নদী পার হতে চায়। রাহুল প্রতি ঘণ্টায় ৩ কিলোমিটার গতিতে সাঁতার কাটতে পারে। সে নদীর ৬০% পথ সাঁতার কাটে। এরপর সে একটি চরে উঠে বিশ্রাম নেয়, এবং সাঁতার কাটার সময়ের অর্ধেক সময় বিশ্রাম করে। তারপর সে বাকি পথ অর্ধেক গতিতে সাঁতার কাটে। রাহুল পুরো নদী পার হতে মোট কত সময় নিল?

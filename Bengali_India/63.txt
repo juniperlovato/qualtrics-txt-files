@@ -1,5 +1,5 @@
 Original English Version:
-John plans to sell all their toys and use the money to buy video games. They have 13 lego sets and he sells them for $15 each. They end up buying 8 video games for $20 each and has $5 left. How many lego sets do they still have?
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
 
 Translated Version:
-علی نے اپنے تمام کھلونے بیچ کر کرکٹ بیٹ خریدنے کا منصوبہ بنایا۔ اس کے پاس ۱۳ کاروں کے کھلونے ہیں اور وہ ہر کھلونا ۴۰۰ روپے میں بیچتا ہے۔ پھر وہ ۸ کرکٹ بیٹ ۷۵۰ روپے فی بیٹ کے حساب سے خریدتا ہے اور اس کے پاس ۵۰ روپے بچ جاتے ہیں۔ علی کے پاس کتنے کھلونے اب بھی باقی ہیں؟
+রাহুল প্রতিদিন ৩০০টা লুচি, ১২০টা চকলেট চপ, আর ৬০টা পাউরুটি বানায়। প্রতিটা লুচির দৈর্ঘ্য ৪ ইঞ্চি, প্রতিটা চকলেট চপের দৈর্ঘ্য ৬ ইঞ্চি, আর প্রতিটা পাউরুটির দৈর্ঘ্য ২ ফুট। যদি রাহুল সব লুচি, চপ আর পাউরুটি একটার পর একটা রেখে সারি বানায়, তাহলে মোট কত ফুট লম্বা হবে সারিটা?

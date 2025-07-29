@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+রীনার কাছে প্রথমে ২০টি ক্রিকেট কার্ড ছিল। প্রথম মাসে সে তার তিনগুণ কার্ড সংগ্রহ করল। দ্বিতীয় মাসে সে প্রথম মাসের থেকে ২০টি কার্ড কম সংগ্রহ করল। তৃতীয় মাসে সে প্রথম ও দ্বিতীয় মাসে মোট যতগুলো কার্ড সংগ্রহ করেছিল, তার দ্বিগুণ সংগ্রহ করল। এখন তার কাছে মোট কতগুলো ক্রিকেট কার্ড হল?

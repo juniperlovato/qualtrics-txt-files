@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
 
 Translated Version:
-ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں لکھی گئی ہیں، اور 10% انگریزی میں۔ باقی تمام کتابیں پنجابی میں لکھی گئی ہیں۔ پنجابی میں کتنی کتابیں ہیں؟
+রাহুল একটি সাইকেল দোকান চালায়। তার দোকানে তিন ধরনের সাইকেল পাওয়া যায়: হিরো, অ্যাটলাস এবং ফিয়ার। একটি হিরো সাইকেলের দাম ২০,০০০ টাকা, অ্যাটলাস সাইকেলের দাম হিরো সাইকেলের দামের অর্ধেক, এবং একটি ফিয়ার সাইকেলের দাম ১৮,০০০ টাকা। এক মাসে রাহুল মোট ৩০০টি সাইকেল বিক্রি করল। এর মধ্যে অর্ধেক ছিল ফিয়ার সাইকেল, ১৫% ছিল অ্যাটলাস সাইকেল, আর বাকি ছিল হিরো সাইকেল। ঐ মাসে রাহুল মোট কত টাকা আয় করল সাইকেল বিক্রি করে?

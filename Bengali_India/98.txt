@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Carrie is planning the caroling schedule. The choir plans to sing "Deck the Halls" twice and "Jingle Bells" once. If "Deck the Halls" is 150 seconds long and "Jingle Bells" is 240 seconds long, how long will they be caroling?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+রীনা স্কুলের বার্ষিক অনুষ্ঠানের জন্য গানের তালিকা তৈরি করছে। ঠিক হয়েছে যে রীনা আর তার বন্ধুরা "আমরা সবাই রাজা" গানটি দুবার গাইবে এবং "ধনধান্য পুষ্পে ভরা" গানটি একবার গাইবে। যদি "আমরা সবাই রাজা" গানটি গাইতে ১৫০ সেকেন্ড সময় লাগে এবং "ধনধান্য পুষ্পে ভরা" গানটি গাইতে ২৪০ সেকেন্ড সময় লাগে, তাহলে তারা মোট কতক্ষণ ধরে গান গাইবে?

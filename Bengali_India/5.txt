@@ -1,5 +1,5 @@
 Original English Version:
-Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?
+Melanie is a door-to-door saleswoman. They sold a third of their vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did they start with?
 
 Translated Version:
-احمد کے گھر ایک دن اس کے چار دوست ملنے آئے۔ پہلے دوست نے 20 مرتبہ گھر کی گھنٹی بجائی۔ دوسرے دوست نے پہلے دوست سے ایک چوتھائی (1/4) زیادہ مرتبہ گھنٹی بجائی۔ تیسرے دوست نے چوتھے دوست سے 10 مرتبہ زیادہ گھنٹی بجائی۔ اگر چوتھے دوست نے 60 مرتبہ گھنٹی بجائی، تو بتائیں کہ گھنٹی کُل کتنی مرتبہ بجی؟
+মালা মাটির পুতুল বিক্রি করে। তার কাছে যতগুলো পুতুল ছিল, তার তিনভাগের একভাগ সে দাসবাবুর বাড়িতে বিক্রি করল। তারপর সে বাজারে গিয়ে আরও দুটো পুতুল বিক্রি করল। এর পরে তার কাছে যা বাকি রইল, তার অর্ধেক সে গ্রামের মেলায় বিক্রি করে দিল। এখন যদি মালার কাছে ৫টা পুতুল পড়ে থাকে, তাহলে বলতো প্রথমে তার কাছে মোট কটা পুতুল ছিল?

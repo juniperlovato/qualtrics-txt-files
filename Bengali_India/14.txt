@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
 
 Translated Version:
-ایک اسکول کی لائبریری میں 50 کتابیں ہیں۔ آدھی کتابیں انگریزی کی ہیں اور 10 فیصد اردو کی ہیں۔ باقی سب کتابیں سندھی زبان کی ہیں۔ تو بتائیں کہ سندھی زبان کی کتنی کتابیں ہیں؟
+রীনার ইতিহাস পরীক্ষায়, ১০টি বহু-বিকল্প প্রশ্ন, ২০টি ঠিক/ভুল প্রশ্ন এবং ৫টি বড় প্রশ্ন ছিল। প্রতিটি বহু-বিকল্প ও ঠিক/ভুল প্রশ্নের জন্য ১ নম্বর এবং প্রতিটি বড় প্রশ্নের জন্য ৫ নম্বর করে ছিল। রীনা ৮০% বহু-বিকল্প প্রশ্নের, ৯০% ঠিক/ভুল প্রশ্নের এবং ৬০% বড় প্রশ্নের সঠিক উত্তর দিয়েছে। সে মোট কত নম্বর পেয়েছে?

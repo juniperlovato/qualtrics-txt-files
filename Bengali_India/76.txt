@@ -1,5 +1,5 @@
 Original English Version:
-Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
+Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
 
 Translated Version:
-احمد اپنے گھوڑے کو دوڑا رہا ہے اور اس نے دیکھا کہ گھوڑا جتنے کلومیٹر دوڑتا ہے، اتنا ہی چارہ کھاتا ہے۔ ایک کلومیٹر کے لیے گھوڑا آدھا گٹھا چارہ کھاتا ہے۔ ایک گٹھے کی قیمت 500 روپے ہے۔ اگر احمد کا گھوڑا 30 منٹ تک 50 کلومیٹر فی گھنٹہ کی رفتار سے دوڑے، اور احمد کے پاس چھ ہزار روپے کے نوٹ ہیں، تو چارہ خریدنے کے بعد اس کے پاس کتنے پیسے بچیں گے؟
+সুমিতা ইতিহাস পরীক্ষায় অংশ নিয়েছে। সে ১০টি বহু-বিকল্প প্রশ্নের ৮০% ঠিক উত্তর দিয়েছে, ২০টি সত্য-মিথ্যা প্রশ্নের ৯০% ঠিক উত্তর দিয়েছে এবং ৫টি বড় প্রশ্নের ৬০% ঠিক উত্তর দিয়েছে। বহু-বিকল্প এবং সত্য-মিথ্যা প্রতিটি প্রশ্নের মান ১ নম্বর, বড় প্রশ্নের মান ৫ নম্বর করে। সুমিতা মোট কত নম্বর পেয়েছে?

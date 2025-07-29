@@ -1,5 +1,5 @@
 Original English Version:
-Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-علی کے پاس شروع میں 20 کرکٹ کے کھلاڑیوں کے کارڈز تھے۔ ایک مہینے بعد اُس نے اتنے ہی کارڈز کے تین گُنا اور جمع کیے۔ دوسرے مہینے اُس نے پہلے مہینے میں جمع کیے گئے کارڈز سے 20 کم کارڈز جمع کیے۔ تیسرے مہینے میں اُس نے پہلے اور دوسرے مہینے میں جمع کیے گئے کل کارڈز کے دو گُنا کارڈز جمع کیے۔ اب علی کے پاس کل کتنے کرکٹ کے کھلاڑیوں کے کارڈز ہیں؟
+শারমিলার দিদিমা তার প্রথম দাঁত পড়ার জন্য তাকে ₹৫০ টাকা উপহার দিয়েছিলেন। এরপর, পরবর্তী তিনটি দাঁত পড়ার জন্য দিদিমা তাকে প্রতিটির জন্য ₹১০ টাকা করে দিয়েছিলেন। আর শেষ দুটি দাঁত পড়ার জন্য, দিদিমা প্রতিটি দাঁতের জন্য আগের তিনটি দাঁতের জন্য যা দিয়েছিলেন তার অর্ধেক টাকা দিয়েছিলেন। দিদিমা শারমিলাকে মোট কত টাকা দিয়েছিলেন?

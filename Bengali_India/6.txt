@@ -1,5 +1,5 @@
 Original English Version:
-Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-احمد کے چار دوست ایک دن اس کے گھر آئے۔ پہلا دوست دروازے کی گھنٹی 20 مرتبہ بجا چکا تھا جب احمد نے دروازہ کھولا۔ دوسرا دوست پہلے دوست سے 1/4 (چوتھائی) زیادہ بار گھنٹی بجا چکا تھا۔ تیسرا دوست چوتھے دوست سے 10 بار زیادہ گھنٹی بجا چکا تھا۔ اگر چوتھے دوست نے 60 بار گھنٹی بجائی، تو کل کتنی بار دروازے کی گھنٹی بجی؟
+রাহুল সিদ্ধান্ত নিতে চেষ্টা করছে সে কোনটি কিনবে — মেশিন A, যা প্রতি ঘণ্টায় ৬০টি খেলনা তৈরি করে, নাকি মেশিন B, যা প্রতি ঘণ্টায় ৪৫টি খেলনা তৈরি করে। প্রতিটি খেলনা ৫০ টাকায় বিক্রি হয়। যদি প্রতিটি মেশিন মাসে ৩০ দিন, দিনে ২৪ ঘণ্টা চলে, তাহলে রাহুল মেশিন A থেকে মেশিন B এর তুলনায় কত টাকা বেশি আয় করতে পারবে?

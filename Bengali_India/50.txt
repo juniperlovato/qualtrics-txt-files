@@ -1,5 +1,5 @@
 Original English Version:
-The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
 
 Translated Version:
-اسکول کی اسکاؤٹ ٹیم کے لیے نئی وردیاں بنوائی جا رہی ہیں۔ ہر وردی میں ایک ٹوپی ہے جس کی قیمت 250 روپے ہے۔ جیکٹ کی قیمت ٹوپی کی قیمت سے تین گنا زیادہ ہے، اور پتلون کی قیمت ٹوپی اور جیکٹ کی قیمتوں کا اوسط ہے۔ بتائیں کہ ایک وردی کی کل قیمت کتنی ہوگی؟
+রীতা নেতাজি সুভাষ প্রাথমিক বিদ্যালয়ের বার্ষিক পরীক্ষার ফলাফল সংগ্রহ করছে। ৫০০ জন তৃতীয় শ্রেণীর ছাত্রছাত্রীর মধ্যে ৩৪০ জন পাস করেছে, এবং ১০০ জন চতুর্থ শ্রেণীর ছাত্রছাত্রীর মধ্যে ৪০ জন পাস করেছে। ৪০০ জন পঞ্চম শ্রেণীর ছাত্রছাত্রীদের পাসের হার চতুর্থ শ্রেণীর পাসের হারের দ্বিগুণ ছিল। বিদ্যালয়ের সামগ্রিক পাসের হার কত?

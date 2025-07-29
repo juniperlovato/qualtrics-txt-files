@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
 
 Translated Version:
-علی بیکری میں روزانہ 300 شیرمال، 120 چاکلیٹ پیٹیاں، اور 60 نان بناتا ہے۔ ہر شیرمال 4 انچ لمبا ہے، ہر چاکلیٹ پیٹی 6 انچ لمبی ہے، اور ہر نان 2 فٹ لمبا ہے۔ اگر علی تمام بیکری کی چیزوں کو ایک دوسرے کے ساتھ سرے سے سرا ملا کر رکھے، تو وہ کتنے فٹ لمبی ہوں گی؟
+রহিমের বাড়ির দরজা থেকে দাঁড়ালে কুতুব মিনার মাটি থেকে ৩২ ডিগ্রি কোণে দেখা যায়। রহিমের বাড়ি থেকে দেখলে সূর্য কুতুব মিনারের চূড়া থেকে প্রতি ঘণ্টায় ৫ ডিগ্রি করে সোজা উপরের দিকে উঠছে। যদি সূর্য কুতুব মিনারের চূড়া থেকে শুরু করে ১০ ঘণ্টা ধরে উপরে ওঠে, তাহলে মাটি থেকে সূর্য পর্যন্ত কত ডিগ্রি কোণ হবে?

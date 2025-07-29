@@ -1,5 +1,5 @@
 Original English Version:
-Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?
+Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
 
 Translated Version:
-علی ایک اسکول میں کوچنگ کرتا ہے اور اسے ہر دن 900 روپے ملتے ہیں۔ اس نے پورے ہفتے کام کیا اور کل 3000 روپے خرچ کر دیے۔ اس کے پاس کتنے روپے باقی ہیں؟
+রিনা তার বন্ধুদের জন্য চা বানাচ্ছে। তার কাছে ২৭টি কাপ আছে, এবং সে এগুলো ৩টি সারিতে ভাগ করে। প্রতিটি সারিতে সে সমান পরিমাণে দার্জিলিং চা এবং মসলা চা বানায়। তারপর বাকি কাপগুলো দিয়ে সে মোট ১৫ কাপ আদা চা বানায়। প্রতিটি সারিতে কত কাপ মসলা চা আছে?

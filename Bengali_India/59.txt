@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?
 
 Translated Version:
-علی چالیس منٹ تک کرکٹ کھیلتا ہے۔ پہلے بیس منٹ میں، وہ 4 رنز بناتا ہے۔ دوسرے بیس منٹ میں، وہ %25 زیادہ رنز بناتا ہے۔ اُس نے کل کتنے رنز بنائے؟
+স্কুলের চড়ুইভাতির জন্য রিনা আর বিকাশকে ফল আনতে বলা হলো। রিনা ৫টা আপেল আর ৮টা কমলালেবু আনলো। বিকাশ আনলো রিনার আনা আপেলের দ্বিগুণ আর কমলালেবুর অর্ধেক। তাহলে দুজনের কাছে মোট কটা ফল আছে?

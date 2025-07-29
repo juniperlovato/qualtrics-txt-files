@@ -1,5 +1,5 @@
 Original English Version:
-Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
+A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
 
 Translated Version:
-احمد اپنے گھوڑے کو دوڑا رہا ہے۔ اس نے دیکھا کہ ہر ۵ کلومیٹر دوڑنے پر گھوڑا چارے کی ایک گٹھری کھاتا ہے۔ چارے کی ایک گٹھری کی قیمت ۲۰۰ روپے ہے۔ اگر اس کا گھوڑا ۵۰ کلومیٹر فی گھنٹہ کی رفتار سے ۳۰ منٹ تک دوڑے، اور اس کے پاس پانچ سو روپے کے تین نوٹ ہیں، تو چارہ خریدنے کے بعد اس کے پاس کتنے روپے باقی بچیں گے؟
+গোপাল-দার একটি মিষ্টির দোকান আছে। তার দোকানে ৪ রকমের সন্দেশ আর ৮ রকমের লাড্ডু আছে। দিনের শেষে দেখা গেল যে, প্রত্যেক রকমের ৫টি করে সন্দেশ বিক্রি হয়েছে এবং প্রত্যেক রকমের ২টি করে লাড্ডু বিক্রি হয়েছে। তাহলে লাড্ডুর থেকে মোট কতগুলো বেশি সন্দেশ বিক্রি হয়েছে?

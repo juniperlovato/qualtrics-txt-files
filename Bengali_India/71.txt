@@ -1,5 +1,5 @@
 Original English Version:
-Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
 
 Translated Version:
-سنا عید کے تحفے پیک کر رہی ہے۔ اسے اپنے خاندان کے لیے 6 تحفے، اپنے دوستوں کے لیے 4 تحفے، اور اپنے پڑوسیوں کے لیے 2 تحفے پیک کرنے ہیں۔ اس کے پاس 144 انچ لمبا ربن ہے اور وہ اس سے ہر تحفے کے لیے ایک پھول بنانا چاہتی ہے۔ وہ ہر تحفے کے پھول کے لیے کتنے انچ ربن استعمال کر سکتی ہے؟
+রহিম চাচা একটি সাইকেলের দোকান চালান। তাঁর দোকানে প্রধানত তিন ধরণের সাইকেল পাওয়া যায়: পাহাড়ি সাইকেল, ছোটদের সাইকেল এবং সাধারণ সাইকেল। একটি পাহাড়ি সাইকেলের দাম ৫০০০ টাকা, ছোটদের সাইকেলের দাম পাহাড়ি সাইকেলের অর্ধেক, এবং একটি সাধারণ সাইকেলের দাম ৪৫০০ টাকা। এক মাসে তিনি মোট ৩০০টি সাইকেল বিক্রি করেছেন। বিক্রি হওয়া সাইকেলের অর্ধেক ছিল সাধারণ সাইকেল এবং ১৫% ছিল ছোটদের সাইকেল। বাকিগুলো ছিল পাহাড়ি সাইকেল। ওই মাসে সাইকেল বিক্রি করে তাঁর মোট কত টাকা আয় হয়েছিল?

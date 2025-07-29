@@ -1,5 +1,5 @@
 Original English Version:
-Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-عائشہ کو ہر کلومیٹر دوڑنے کے لیے 60 ملی لیٹر پانی پینے کی ضرورت ہے۔ اگر اس کی پی ٹی ٹیچر اسے 8 چکر لگانے کو کہتی ہیں اور ہر چکر 0.25 کلومیٹر کا ہے، تو عائشہ کو کتنے ملی لیٹر پانی پینے کی ضرورت ہوگی؟
+একজন ব্যবসায়ী দুটি জিনিসের মধ্যে একটি কেনার কথা ভাবছেন: ₹৫০,০০০ টাকার গয়না অথবা ₹৮০,০০০ টাকার ইলেকট্রনিক্স জিনিস। ধরা যাক, এক মাস পরে গয়নার দাম ৫% বাড়বে এবং ইলেকট্রনিক্স জিনিসের দাম ২% বাড়বে। যদি ব্যবসায়ী সবচেয়ে বেশি লাভ করতে চান, তাহলে তাঁর সর্বোচ্চ লাভ কত টাকা হবে?

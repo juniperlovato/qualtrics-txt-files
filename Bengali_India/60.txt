@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+Sean is practicing for their role in a theater production. They have to memorize their lines for two scenes and the lyrics to one solo song. Their solo song has 54 lines in the lyrics. The first scene has twice the number of lines, but only a third of them are their lines. The second scene has six more lines than the song, and four-fifths of them are theirs. How many lines does Sean have to memorize?
 
 Translated Version:
-علی 40 منٹ تک کرکٹ کھیلتا ہے۔ پہلے 20 منٹ میں وہ 4 رنز بناتا ہے۔ اگلے 20 منٹ میں وہ 25 فیصد زیادہ رنز بناتا ہے۔ علی نے کُل کتنے رنز بنائے؟
+রিয়া একটি নাটকের অভিনয়ের জন্য প্রস্তুতি নিচ্ছে। তাকে দুটি দৃশ্যে নিজের সংলাপ এবং একটি একক গানের কথা মুখস্থ করতে হবে। তার একক গানের কথায় ৫৪টি লাইন আছে। প্রথম দৃশ্যে গানের লাইনের দ্বিগুণ লাইন আছে, কিন্তু তার মধ্যে মাত্র এক-তৃতীয়াংশ রিয়ার সংলাপ। দ্বিতীয় দৃশ্যে গানের থেকে ৬টি লাইন বেশি আছে, এবং তার মধ্যে পাঁচ ভাগের চার ভাগ রিয়ার সংলাপ। রিয়াকে মোট কতটি লাইন মুখস্থ করতে হবে?
