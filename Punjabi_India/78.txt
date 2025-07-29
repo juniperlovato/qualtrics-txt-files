@@ -1,5 +1,5 @@
 Original English Version:
-Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-احمد اپنے گھوڑے کے ساتھ دوڑ لگا رہا ہے اور دیکھتا ہے کہ ہر میل دوڑنے پر گھوڑا آدھا گٹھا چارہ کھاتا ہے۔ ایک گٹھا چارہ 800 روپے کا ہے۔ اگر اس کا گھوڑا 30 منٹ میں 50 کلومیٹر فی گھنٹہ کی رفتار سے دوڑتا ہے اور احمد کے پاس چھ 1000 روپے کے نوٹ ہیں، تو چارہ خریدنے کے بعد اس کے پاس کتنے پیسے بچیں گے؟
+ਸਕੂਲ ਦੀ ਭੰਗੜਾ ਟੀਮ ਨਵੀਆਂ ਵਰਦੀਆਂ ਮੰਗਵਾ ਰਹੀ ਹੈ। ਹਰੇਕ ਵਰਦੀ ਵਿੱਚ ਇੱਕ ਪਗੜੀ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ₹500 ਹੈ, ਇੱਕ ਕੁਰਤਾ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪਗੜੀ ਤੋਂ ਤਿੰਨ ਗੁਣਾ ਹੈ, ਅਤੇ ਇੱਕ ਚਾਦਰਾ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪਗੜੀ ਅਤੇ ਕੁਰਤੇ ਦੀ ਔਸਤ ਕੀਮਤ ਹੈ। ਹਰੇਕ ਪੂਰੀ ਵਰਦੀ ਦੀ ਕੁੱਲ ਕੀਮਤ ਕਿੰਨੀ ਹੈ?

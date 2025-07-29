@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday. If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+ਜਸਪ੍ਰੀਤ ਹਫ਼ਤੇ ਦੇ ਪੰਜ ਦਿਨ (ਸੋਮਵਾਰ ਤੋਂ ਸ਼ੁੱਕਰਵਾਰ) ਰੋਜ਼ਾਨਾ 2 ਭੰਗੜੇ ਦੀਆਂ ਕਲਾਸਾਂ ਸਿਖਾਉਂਦੀ ਹੈ, ਅਤੇ ਸ਼ਨੀਵਾਰ ਨੂੰ 3 ਕਲਾਸਾਂ ਸਿਖਾਉਂਦੀ ਹੈ। ਜੇ ਉਸਦੀ ਹਰ ਕਲਾਸ ਵਿੱਚ 10 ਵਿਦਿਆਰਥੀ ਹਨ ਅਤੇ ਉਹ ਹਰ ਵਿਦਿਆਰਥੀ ਤੋਂ ਇੱਕ ਕਲਾਸ ਲਈ ₹50 ਲੈਂਦੀ ਹੈ, ਤਾਂ ਉਹ ਇੱਕ ਹਫ਼ਤੇ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਕਮਾਉਂਦੀ ਹੈ?

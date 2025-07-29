@@ -1,5 +1,5 @@
 Original English Version:
-The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?
 
 Translated Version:
-اسکول کی اسکاؤٹ ٹیم کے لیے نئی وردیاں بنوائی جا رہی ہیں۔ ہر وردی میں ایک ٹوپی ہے جس کی قیمت 250 روپے ہے۔ جیکٹ کی قیمت ٹوپی کی قیمت سے تین گنا زیادہ ہے، اور پتلون کی قیمت ٹوپی اور جیکٹ کی قیمتوں کا اوسط ہے۔ بتائیں کہ ایک وردی کی کل قیمت کتنی ہوگی؟
+ਆਪਣੇ 30ਵੇਂ ਜਨਮਦਿਨ 'ਤੇ, ਅਮਨਦੀਪ ਨੇ ਆਪਣੇ ਪਰਿਵਾਰ ਵੱਲੋਂ 1,50,000 ਰੁਪਏ ਦੀ ਭੇਟ ਵਜੋਂ ਨਵਾਂ ਕੰਪਿਊਟਰ ਆਪਣੇ ਲਈ ਚੁਣਿਆ। ਉਹ ਸੋਚਦਾ ਹੈ ਕਿ ਕੁਝ ਪੈਸੇ ਕੱਪੜੇ ਲਈ ਵੀ ਬਚ ਜਾਣਗੇ। ਉਹ ਕੰਪਿਊਟਰ ਦੀ ਦੁਕਾਨ 'ਤੇ ਜਾਂਦਾ ਹੈ ਅਤੇ ਇੱਕ ਕੰਪਿਊਟਰ ਚੁਣਦਾ ਹੈ ਜਿਸ ਦੀ ਕੀਮਤ 1,09,000 ਰੁਪਏ ਹੈ (ਇਸ ਵਿੱਚ ਸਕਰੀਨ, ਕੀ-ਬੋਰਡ ਤੇ ਮਾਊਸ ਵੀ ਸ਼ਾਮਲ ਹਨ)। ਉਸ ਨੇ ਇੱਕ ਸਕੈਨਰ ਵੀ ਲਿਆ ਜਿਸ ਦੀ ਕੀਮਤ 15,700 ਰੁਪਏ ਹੈ, ਇੱਕ ਸੀਡੀ ਰਾਈਟਰ 7,400 ਰੁਪਏ ਦਾ ਅਤੇ ਇੱਕ ਪ੍ਰਿੰਟਰ 10,200 ਰੁਪਏ ਦਾ। ਹੁਣ ਦੱਸੋ ਕਿ ਅਮਨਦੀਪ ਦੇ ਕੋਲ ਕੱਪੜਿਆਂ ਲਈ ਕਿੰਨੇ ਰੁਪਏ ਬਚੇ?

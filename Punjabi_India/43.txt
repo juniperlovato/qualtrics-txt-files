@@ -1,5 +1,5 @@
 Original English Version:
-A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
 
 Translated Version:
-ایک تاجر دو خریداری کے منصوبوں میں سے ایک کا انتخاب کرنا چاہتا ہے: 500,000 روپے کی سونے کی جیولری یا 800,000 روپے کے موبائل فون اور لیپ ٹاپ۔ اس کا مالیاتی مشیر کہتا ہے کہ اگلے مہینے میں سونے کی قیمت میں 2.5% اضافہ ہوگا جبکہ موبائل فون اور لیپ ٹاپ کی قیمت میں 1.2% اضافہ ہوگا۔ اگر تاجر مہینے کے آخر میں زیادہ سے زیادہ منافع کمانا چاہتا ہے، تو اسے کتنا منافع ہوگا؟
+ਸਿਮਰਨ ਕੋਲ ਸ਼ੁਰੂ ਵਿੱਚ 20 ਕ੍ਰਿਕਟ ਕਾਰਡ ਸਨ। ਇੱਕ ਮਹੀਨੇ ਬਾਅਦ, ਉਸਨੇ ਉਸ ਗਿਣਤੀ ਤੋਂ ਤਿੰਨ ਗੁਣਾ ਕਾਰਡ ਇਕੱਠੇ ਕੀਤੇ। ਦੂਜੇ ਮਹੀਨੇ ਵਿੱਚ, ਉਸਨੇ ਪਹਿਲੇ ਮਹੀਨੇ ਵਿੱਚ ਇਕੱਠੇ ਕੀਤੇ ਕਾਰਡਾਂ ਤੋਂ 20 ਘੱਟ ਕਾਰਡ ਇਕੱਠੇ ਕੀਤੇ। ਤੀਜੇ ਮਹੀਨੇ ਵਿੱਚ, ਉਸਨੇ ਪਹਿਲੇ ਅਤੇ ਦੂਜੇ ਮਹੀਨੇ ਵਿੱਚ ਇਕੱਠੇ ਕੀਤੇ ਕਾਰਡਾਂ ਦੀ ਕੁੱਲ ਗਿਣਤੀ ਤੋਂ ਦੁੱਗਣੇ ਕਾਰਡ ਇਕੱਠੇ ਕੀਤੇ। ਹੁਣ ਉਸ ਕੋਲ ਕੁੱਲ ਕਿੰਨੇ ਕ੍ਰਿਕਟ ਕਾਰਡ ਹਨ?

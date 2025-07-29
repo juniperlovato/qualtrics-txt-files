@@ -1,5 +1,5 @@
 Original English Version:
-Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-علی ہر درجن سموسے بنانے کے لیے ایک پاؤنڈ مکھن استعمال کرتا ہے۔ اسے 6 درجن سموسے بنانے ہیں۔ کریانہ اسٹور پر اس وقت مکھن پر یہ آفر ہے کہ ایک پاؤنڈ خریدیں تو دوسرا پاؤنڈ آدھی قیمت پر ملتا ہے۔ اگر ایک پاؤنڈ مکھن کی قیمت 800 روپے ہے تو علی کو 6 پاؤنڈ مکھن خریدنے کے لیے کل کتنے روپے ادا کرنے ہوں گے؟
+ਅਰਜੁਨ ਵੱਖ-ਵੱਖ ਅਖ਼ਬਾਰ ਵੇਚਦਾ ਹੈ ਅਤੇ ਹਰ ਇੱਕ ਨਕਲ 'ਤੇ ਕਮਿਸ਼ਨ ਲੈਂਦਾ ਹੈ। ਉਹ 'ਪੰਜਾਬੀ ਟਾਈਮਜ਼' ਦੀ ਹਰ ਨਕਲ 'ਤੇ 10% ਕਮਿਸ਼ਨ ਲੈਂਦਾ ਹੈ ਅਤੇ 'ਦਿ ਹਿੰਦੁਸਤਾਨ ਜਰਨਲ' ਦੀ ਹਰ ਨਕਲ 'ਤੇ 8% ਕਮਿਸ਼ਨ ਲੈਂਦਾ ਹੈ। ਜੇਕਰ 'ਪੰਜਾਬੀ ਟਾਈਮਜ਼' ਦੀ ਇੱਕ ਨਕਲ ਦੀ ਕੀਮਤ ₹20 ਹੈ ਅਤੇ 'ਦਿ ਹਿੰਦੁਸਤਾਨ ਜਰਨਲ' ਦੀ ਇੱਕ ਨਕਲ ਦੀ ਕੀਮਤ ₹30 ਹੈ, ਤਾਂ ਦੱਸੋ ਕਿ ਜੇਕਰ ਅਰਜੁਨ ਨੇ 'ਪੰਜਾਬੀ ਟਾਈਮਜ਼' ਦੀਆਂ 6 ਨਕਲਾਂ ਅਤੇ 'ਦਿ ਹਿੰਦੁਸਤਾਨ ਜਰਨਲ' ਦੀਆਂ 10 ਨਕਲਾਂ ਵੇਚੀਆਂ, ਤਾਂ ਉਸਨੂੰ ਕੁੱਲ ਕਿੰਨਾ ਕਮਿਸ਼ਨ ਮਿਲੇਗਾ?

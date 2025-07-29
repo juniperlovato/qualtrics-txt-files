@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine them $120 for unauthorized road maintenance if they fix it themselves. They will also have to buy 3 buckets of asphalt that each cost $25. How much money do they save by fixing the pothole?
 
 Translated Version:
-جب آپ احمد کے گھر کے دروازے پر کھڑے ہوں تو بادشاہی مسجد کا گنبد زمین سے 32 ڈگری کے زاویے پر نظر آتا ہے۔ سورج احمد کے گھر کی نسبت سے گنبد کی نوک سے سیدھا اوپر کی طرف 5 ڈگری فی گھنٹہ کی رفتار سے حرکت کر رہا ہے۔ اگر سورج گنبد کی نوک سے شروع ہو اور 10 گھنٹے تک حرکت کرے، تو زمین سے سورج تک کتنے ڈگری کا زاویہ ہوگا؟
+ਹਰਮਨ ਆਪਣੇ ਘਰ ਦੇ ਸਾਹਮਣੇ ਸੜਕ 'ਤੇ ਬਣੇ ਇੱਕ ਵੱਡੇ ਟੋਏ ਤੋਂ ਬਹੁਤ ਪ੍ਰੇਸ਼ਾਨ ਹੈ। ਜੇਕਰ ਇਹ ਟੋਆ ਠੀਕ ਨਾ ਕੀਤਾ ਗਿਆ, ਤਾਂ ਉਸਦੀ ਕਾਰ ਦਾ ₹4500 ਦਾ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ। ਨਗਰ ਨਿਗਮ ਇਸ ਨੂੰ ਠੀਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ, ਅਤੇ ਜੇਕਰ ਹਰਮਨ ਇਸ ਨੂੰ ਖੁਦ ਠੀਕ ਕਰਦਾ ਹੈ ਤਾਂ ਉਸਨੂੰ ₹1200 ਦਾ ਜੁਰਮਾਨਾ ਦੇਣਾ ਪਵੇਗਾ। ਉਸਨੂੰ ਟੋਆ ਭਰਨ ਲਈ ਲੁੱਕ ਦੇ 3 ਥੈਲੇ ਵੀ ਖਰੀਦਣੇ ਪੈਣਗੇ, ਅਤੇ ਹਰ ਥੈਲੇ ਦੀ ਕੀਮਤ ₹250 ਹੈ। ਦੱਸੋ ਕਿ ਟੋਏ ਨੂੰ ਖੁਦ ਠੀਕ ਕਰਕੇ ਹਰਮਨ ਕਿੰਨੇ ਪੈਸੇ ਬਚਾਏਗਾ?

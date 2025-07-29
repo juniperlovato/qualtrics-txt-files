@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday. If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?
 
 Translated Version:
-ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں ہیں، اور 10 فیصد کتابیں فارسی میں ہیں۔ باقی تمام کتابیں پنجابی میں ہیں۔ پنجابی زبان کی کتنی کتابیں ہیں؟
+ਸਿਮਰਨ ਸੋਮਵਾਰ ਤੋਂ ਸ਼ੁੱਕਰਵਾਰ ਤੱਕ ਹਰ ਰੋਜ਼ 5 ਭੰਗੜਾ ਕਲਾਸਾਂ ਪੜ੍ਹਾਉਂਦੀ ਹੈ ਅਤੇ ਸ਼ਨੀਵਾਰ ਨੂੰ 8 ਕਲਾਸਾਂ ਪੜ੍ਹਾਉਂਦੀ ਹੈ। ਜੇਕਰ ਹਰ ਕਲਾਸ ਵਿੱਚ 15 ਵਿਦਿਆਰਥੀ ਹਨ ਅਤੇ ਉਹ ਹਰ ਵਿਦਿਆਰਥੀ ਤੋਂ ₹500 ਫੀਸ ਲੈਂਦੀ ਹੈ, ਤਾਂ ਉਹ 1 ਹਫ਼ਤੇ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਕਮਾਉਂਦੀ ਹੈ?

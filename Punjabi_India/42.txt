@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-احمد روزانہ 300 نان، 120 چاکلیٹ پیٹسری اور 60 پراٹھے بناتا ہے۔ ہر نان کی لمبائی 4 انچ ہے، ہر پیٹسری کی لمبائی 6 انچ ہے، اور ہر پراٹھے کی لمبائی 2 فٹ ہے۔ اگر احمد یہ تمام چیزیں ایک سیدھی قطار میں رکھے تو ان سب کی مشترکہ لمبائی کتنے فٹ ہوگی؟
+ਸਕੂਲ ਦੀ ਬੈਂਡ ਨਵੇਂ ਯੂਨੀਫਾਰਮ ਮੰਗਵਾ ਰਹੀ ਹੈ। ਹਰ ਇਕ ਯੂਨੀਫਾਰਮ ਵਿੱਚ ਇੱਕ ਪੱਗ ਹੁੰਦੀ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ₹200 ਹੈ, ਇੱਕ ਕੋਟ ਹੁੰਦਾ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪੱਗ ਤੋਂ ਤਿੰਨ ਗੁਣਾ ਹੈ, ਅਤੇ ਪੈਂਟ ਹੁੰਦੀ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪੱਗ ਅਤੇ ਕੋਟ ਦੀ ਔਸਤ ਕੀਮਤ ਦੇ ਬਰਾਬਰ ਹੈ। ਇੱਕ ਯੂਨੀਫਾਰਮ ਦੀ ਕੁੱਲ ਕੀਮਤ ਕਿੰਨੀ ਬਣਦੀ ਹੈ?

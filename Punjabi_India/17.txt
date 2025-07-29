@@ -1,5 +1,5 @@
 Original English Version:
-Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-احمد ہر درجن سموسے بنانے کے لیے آدھا کلو گھی استعمال کرتا ہے۔ اسے 6 درجن سموسے بنانے ہیں۔ کریانہ کی دکان پر ایک پیشکش ہے کہ ایک کلو گھی خریدنے پر دوسرا کلو آدھی قیمت پر ملے گا۔ اگر گھی کی قیمت 800 روپے فی کلو ہے، تو احمد کو 3 کلو گھی خریدنے کے لیے کل کتنے روپے ادا کرنے ہوں گے؟
+ਸਕੂਲ ਦੀ ਭੰਗੜਾ ਟੀਮ ਸਾਲਾਨਾ ਸਮਾਗਮ ਲਈ ਨਵੀਆਂ ਵਰਦੀਆਂ ਦਾ ਆਰਡਰ ਦੇ ਰਹੀ ਹੈ। ਹਰ ਵਰਦੀ ਵਿੱਚ ਇੱਕ ਪੱਗ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ₹250 ਹੈ, ਇੱਕ ਕੁੜਤਾ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪੱਗ ਨਾਲੋਂ ਤਿੰਨ ਗੁਣਾ ਵੱਧ ਹੈ, ਅਤੇ ਇੱਕ ਚਾਦਰਾ ਹੈ ਜਿਸਦੀ ਕੀਮਤ ਪੱਗ ਅਤੇ ਕੁੜਤੇ ਦੀ ਕੀਮਤ ਦੀ ਔਸਤ ਹੈ। ਹਰ ਇੱਕ ਪੂਰੀ ਵਰਦੀ ਦੀ ਕੁੱਲ ਕੀਮਤ ਕਿੰਨੀ ਹੈ?

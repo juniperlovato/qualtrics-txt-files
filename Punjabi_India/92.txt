@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Millie decides to open a lemonade stand. They spend $18 to buy enough supplies to make 3 pitchers of lemonade. Each pitcher holds 12 cups of lemonade. They sell each cup of lemonade for $1. They sell an average of 4 cups per hour that their lemonade stand is open. If they sell all of the lemonade, how much profit will they make per hour that they spend running the lemonade stand?
 
 Translated Version:
-ایک مستری ٹرکوں اور گاڑیوں کے ٹائر ٹھیک کرنے کی الگ الگ اجرت لیتا ہے۔ ٹرک کا ہر ٹائر ٹھیک کرنے کے لئے مستری 600 روپے لیتا ہے، اور گاڑی کا ہر ٹائر ٹھیک کرنے کے لئے 400 روپے لیتا ہے۔ جمعرات کو مستری نے 6 ٹرکوں کے ٹائر اور 4 گاڑیوں کے ٹائر ٹھیک کیے۔ جمعہ کو مستری نے 12 گاڑیوں کے ٹائر ٹھیک کیے اور کوئی ٹرک کا ٹائر ٹھیک نہیں کیا۔ بتائیں کس دن مستری نے زیادہ پیسے کمائے اور کتنے زیادہ؟
+ਸਿਮਰਨ ਨੇ ਫੁੱਲਾਂ ਦਾ ਰਸ ਬਣਾਉਣ ਦੀ ਠੇਲ੍ਹੀ ਲਗਾਈ। ਉਹ 150 ਰੁਪਏ ਖਰਚ ਕੇ 3 ਜੱਗ ਫੁੱਲਾਂ ਦਾ ਰਸ ਬਣਾਉਣ ਲਈ ਸਾਮਾਨ ਖਰੀਦਦੀ ਹੈ। ਹਰ ਜੱਗ ਵਿੱਚ 12 ਗਿਲਾਸ ਰਸ ਆਉਂਦੇ ਹਨ। ਉਹ ਹਰ ਇੱਕ ਗਿਲਾਸ ਰਸ 10 ਰੁਪਏ ਵਿੱਚ ਵੇਚਦੀ ਹੈ। ਉਹ ਹਰ ਘੰਟੇ ਵਿੱਚ ਔਸਤ 4 ਗਿਲਾਸ ਰਸ ਵੇਚਦੀ ਹੈ। ਜੇਕਰ ਉਹ ਸਾਰਾ ਰਸ ਵੇਚ ਦੇਵੇ, ਤਾਂ ਹਰ ਘੰਟੇ ਦੇ ਹਿਸਾਬ ਨਾਲ ਉਸਨੂੰ ਕਿੰਨਾ ਨਫਾ ਹੋਏਗਾ?

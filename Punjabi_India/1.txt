@@ -1,5 +1,5 @@
 Original English Version:
-Janet’s ducks lay 16 eggs per day. They eat three for breakfast every morning and bakes muffins for their friends every day with four. They sell the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars do they make every day at the farmers' market?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-عائشہ کی مرغیاں روزانہ 16 انڈے دیتی ہیں۔ وہ ہر صبح ناشتے میں تین انڈے کھاتی ہے اور اپنے پڑوسیوں کے لیے چار انڈوں سے روزانہ کیک بناتی ہے۔ باقی انڈے وہ روزانہ بازار میں 50 روپے فی انڈہ کے حساب سے بیچتی ہے۔ وہ بازار میں روزانہ کتنے روپے کماتی ہے؟
+ਹਰਪ੍ਰੀਤ ਵੱਖ-ਵੱਖ ਅਖਬਾਰਾਂ ਵੇਚ ਕੇ ਹਰ ਕਾਪੀ 'ਤੇ ਕਮਿਸ਼ਨ ਕਮਾਉਂਦਾ ਹੈ। ਉਸਨੂੰ 'ਅਜੀਤ' ਅਖਬਾਰ ਦੀ ਹਰ ਕਾਪੀ 'ਤੇ 10% ਅਤੇ 'ਦ ਟ੍ਰਿਬਿਊਨ' ਦੀ ਹਰ ਕਾਪੀ 'ਤੇ 8% ਕਮਿਸ਼ਨ ਮਿਲਦਾ ਹੈ। ਜੇਕਰ 'ਅਜੀਤ' ਦੀ ਕੀਮਤ 5 ਰੁਪਏ ਅਤੇ 'ਦ ਟ੍ਰਿਬਿਊਨ' ਦੀ ਕੀਮਤ 10 ਰੁਪਏ ਹੈ, ਤਾਂ ਉਹ 'ਅਜੀਤ' ਦੀਆਂ 6 ਕਾਪੀਆਂ ਅਤੇ 'ਦ ਟ੍ਰਿਬਿਊਨ' ਦੀਆਂ 10 ਕਾਪੀਆਂ ਵੇਚ ਕੇ ਕੁੱਲ ਕਿੰਨਾ ਕਮਿਸ਼ਨ ਕਮਾਵੇਗਾ?

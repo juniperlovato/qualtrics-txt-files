@@ -1,5 +1,5 @@
 Original English Version:
-In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-ایک کلاس میں 20 طلباء ہیں۔ 20 فیصد طلباء نے کرکٹ کلب میں داخلہ لیا، باقی میں سے 25 فیصد نے فٹبال کلب میں داخلہ لیا، اور باقی طلباء نے ہاکی کلب میں داخلہ لیا۔ پورے طلباء میں سے کتنے فیصد نے ہاکی کلب میں داخلہ لیا؟
+ਇੱਕ ਮਿਸਤਰੀ ਟਰੱਕਾਂ ਅਤੇ ਕਾਰਾਂ ਦੇ ਟਾਇਰ ਠੀਕ ਕਰਨ ਦੇ ਵੱਖ-ਵੱਖ ਪੈਸੇ ਲੈਂਦਾ ਹੈ। ਹਰ ਇੱਕ ਟਰੱਕ ਦਾ ਟਾਇਰ ਠੀਕ ਕਰਨ ਲਈ, ਮਿਸਤਰੀ 100 ਰੁਪਏ ਲੈਂਦਾ ਹੈ ਅਤੇ ਹਰ ਇੱਕ ਕਾਰ ਦਾ ਟਾਇਰ ਠੀਕ ਕਰਨ ਲਈ, 80 ਰੁਪਏ ਲੈਂਦਾ ਹੈ। ਵੀਰਵਾਰ ਨੂੰ, ਮਿਸਤਰੀ ਨੇ 6 ਟਰੱਕਾਂ ਦੇ ਟਾਇਰ ਅਤੇ 4 ਕਾਰਾਂ ਦੇ ਟਾਇਰ ਠੀਕ ਕੀਤੇ। ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ, ਮਿਸਤਰੀ ਨੇ 12 ਕਾਰਾਂ ਦੇ ਟਾਇਰ ਠੀਕ ਕੀਤੇ ਅਤੇ ਕੋਈ ਵੀ ਟਰੱਕ ਦਾ ਟਾਇਰ ਠੀਕ ਨਹੀਂ ਕੀਤਾ। ਜਿਸ ਦਿਨ ਮਿਸਤਰੀ ਦੀ ਕਮਾਈ ਜ਼ਿਆਦਾ ਹੋਈ, ਉਸ ਦਿਨ ਉਸਨੇ ਦੂਜੇ ਦਿਨ ਨਾਲੋਂ ਕਿੰਨੇ ਵੱਧ ਪੈਸੇ ਕਮਾਏ?

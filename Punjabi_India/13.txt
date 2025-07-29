@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں لکھی گئی ہیں، اور 10% انگریزی میں۔ باقی تمام کتابیں پنجابی میں لکھی گئی ہیں۔ پنجابی میں کتنی کتابیں ہیں؟
+ਸ਼ੈਰਨ ਨੇ ਆਪਣਾ ਪਹਿਲਾ ਦੰਦ ਗਵਾਇਆ ਤਾਂ ਉਸਦੀ ਮਾਂ ਨੇ ਉਸਨੂੰ 100 ਰੁਪਏ ਇਨਾਮ ਵਜੋਂ ਦਿੱਤੇ। ਫਿਰ ਅਗਲੇ ਤਿੰਨ ਦੰਦਾਂ ਲਈ, ਹਰ ਵਾਰ ਉਸਦੀ ਮਾਂ ਨੇ ਉਸਨੂੰ 20-20 ਰੁਪਏ ਦਿੱਤੇ। ਆਖ਼ਰੀ ਦੋ ਦੰਦਾਂ ਲਈ, ਹਰ ਦੰਦ ਉੱਤੇ ਉਸਦੀ ਮਾਂ ਨੇ ਪਿਛਲੇ ਤਿੰਨ ਦੰਦਾਂ ਲਈ ਦਿੱਤੀ ਰਕਮ ਦਾ ਅੱਧਾ, ਹਰ ਵਾਰ 10-10 ਰੁਪਏ ਦਿੱਤੇ। ਕੁੱਲ ਕਿੰਨੇ ਰੁਪਏ ਸ਼ੈਰਨ ਨੂੰ ਮਿਲੇ?

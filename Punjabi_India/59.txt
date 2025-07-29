@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
 
 Translated Version:
-علی چالیس منٹ تک کرکٹ کھیلتا ہے۔ پہلے بیس منٹ میں، وہ 4 رنز بناتا ہے۔ دوسرے بیس منٹ میں، وہ %25 زیادہ رنز بناتا ہے۔ اُس نے کل کتنے رنز بنائے؟
+ਅਮਨ ਹਰ 12 ਪਾਰਾਂਠਿਆਂ ਲਈ 1 ਕਿਲੋ ਘੀ ਵਰਤਦਾ ਹੈ। ਉਸ ਨੂੰ 6 ਦਰਜਨ ਪਾਰਾਂਠੇ ਬਣਾਉਣੇ ਹਨ। ਦਕਾਨ 'ਤੇ ਹੁਣ ਘੀ 'ਤੇ ਸਕੀਮ ਚੱਲ ਰਹੀ ਹੈ—ਇੱਕ ਕਿਲੋ ਘੀ ਖਰੀਦੋ, ਦੂਜਾ ਅੱਧੇ ਭਾਅ 'ਤੇ ਮਿਲੇਗਾ। ਜੇਕਰ 1 ਕਿਲੋ ਘੀ ਦੀ ਕੀਮਤ ₹320 ਹੈ, ਤਾਂ ਅਮਨ ਨੂੰ 6 ਕਿਲੋ ਘੀ ਖਰੀਦਣ ਲਈ ਕੁੱਲ ਕਿੰਨੇ ਪੈਸੇ ਲੱਗਣਗੇ?
