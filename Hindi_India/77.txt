@@ -1,5 +1,5 @@
 Original English Version:
-Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
+Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
 
 Translated Version:
-احمد اپنے گھوڑے کو دوڑا رہا ہے۔ اس نے دیکھا کہ ہر ۵ کلومیٹر دوڑنے پر گھوڑا چارے کی ایک گٹھری کھاتا ہے۔ چارے کی ایک گٹھری کی قیمت ۲۰۰ روپے ہے۔ اگر اس کا گھوڑا ۵۰ کلومیٹر فی گھنٹہ کی رفتار سے ۳۰ منٹ تک دوڑے، اور اس کے پاس پانچ سو روپے کے تین نوٹ ہیں، تو چارہ خریدنے کے بعد اس کے پاس کتنے روپے باقی بچیں گے؟
+मोहन दिवाली के लिए उपहार पैक कर रहा है। उसके पास अपने परिवार के लिए 6 उपहार, दोस्तों के लिए 4 उपहार और अपने शिक्षकों के लिए 2 उपहार पैक करने हैं। उसके पास कुल 144 इंच रिबन है और वह हर उपहार पर एक-एक सुंदर बो बनाना चाहता है। बताओ, हर एक बो के लिए मोहन कितनी इंच रिबन इस्तेमाल कर सकता है?

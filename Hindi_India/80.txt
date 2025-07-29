@@ -1,8 +1,5 @@
 Original English Version:
-Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
+Aiden and 12 of his friends are going to see a film at the cinema, and meet up with 7 more friends there. They each save a seat and then buy enough drinks and snacks to fill the seats. Each seat has enough room to hold one person, two drinks, and three snacks. If drinks and snacks cost $2 each, how much money, in dollars, has the group spent overall on snacks and drinks?
 
 Translated Version:
-احمد اپنے خاندان کے لیے ایک دعوت کا اہتمام کر رہا ہے اور اس کے پاس دو ہالوں کا انتخاب ہے۔
- ہال الف: اس ہال کا کرایہ 20,000 روپے ہے۔ کھانے کا انتظام الگ سے کرنا ہوگا جس پر فی مہمان 600 روپے لاگت آئے گی۔
- ہال ب: اس ہال کا پیکج 1,000 روپے فی مہمان ہے، جس میں کھانا بھی شامل ہے۔
- آپ یہ معلوم کریں کہ مہمانوں کی تعداد کتنی ہونی چاہیے کہ دونوں ہالوں کا کل خرچ ایک جیسا ہو؟
+आर्यन और उसके 12 दोस्त सिनेमा में फिल्म देखने जा रहे हैं, और वहाँ 7 और दोस्तों से मिलते हैं। वे सभी अपनी-अपनी सीट बुक करते हैं और फिर सीटों के हिसाब से पर्याप्त समोसे और निम्बू पानी खरीदते हैं। प्रत्येक सीट पर एक व्यक्ति, दो गिलास निम्बू पानी, और तीन समोसे रख सकते हैं। यदि एक गिलास निम्बू पानी की कीमत ₹20 है और एक समोसे की कीमत ₹15 है, तो पूरे समूह ने कुल मिलाकर समोसे और निम्बू पानी पर कितने रुपये खर्च किए?

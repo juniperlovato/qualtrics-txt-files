@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-علی کرکٹ کی پریکٹس 40 منٹ تک کرتا ہے۔ پہلے 20 منٹ میں وہ 4 رن بناتا ہے۔ دوسرے 20 منٹ میں وہ 25٪ زیادہ رن بناتا ہے۔ علی نے کل کتنے رن بنائے؟
+विद्यालय की संगीत मंडली को नए गणवेश (यूनिफॉर्म) मंगवाने हैं। हर गणवेश में एक टोपी आती है जिसकी कीमत ₹200 है, एक कोट आता है जिसकी कीमत टोपी से तीन गुना है, और एक पतलून आती है जिसकी कीमत टोपी और कोट की औसत कीमत के बराबर है। एक पूरा गणवेश कुल कितने रुपये का पड़ेगा?

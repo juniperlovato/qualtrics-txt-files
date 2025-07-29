@@ -1,5 +1,5 @@
 Original English Version:
-Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
+Solo has to read 4 pages from their Science textbook, 20 pages from their Social Studies textbook, 7 pages from their History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If they have 4 more days to complete all their reading, how many pages do they need to read, on average, in one day?
 
 Translated Version:
-علی اپنی بیوی کے لیے سرپرائز پارٹی کے لیے دو مختلف جگہوں میں سے ایک کا انتخاب کرنا چاہتا ہے۔ پہلی جگہ ایک مقررہ فیس 35,000 روپے وصول کرتی ہے، چاہے مہمانوں کی تعداد جتنی بھی ہو۔ لیکن اس میں کھانے کی قیمت شامل نہیں ہے، جو علی کے حساب سے فی مہمان 800 روپے ہوگی۔ دوسری جگہ فی مہمان 3,500 روپے وصول کرتی ہے، لیکن اس میں کھانا پہلے سے شامل ہے۔ کتنے مہمان ہونے چاہئیں کہ دونوں جگہوں کی مجموعی قیمت برابر ہو جائے؟
+रोहन को अपनी हिंदी की किताब से 20 पन्ने, गणित की किताब से 8 पन्ने, विज्ञान की किताब से 7 पन्ने और अंग्रेज़ी की किताब से 4 पन्ने पढ़ने हैं। उसने सोमवार को 15 पन्ने पढ़ लिए। अगर उसे अपना सारा काम खत्म करने के लिए 4 दिन और हैं, तो उसे बाकी दिनों में औसतन हर दिन कितने पन्ने पढ़ने होंगे?

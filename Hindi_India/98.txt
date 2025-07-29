@@ -2,4 +2,4 @@ Original English Version:
 The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+जब रोहन दिल्ली में क़ुतुब मीनार के पास खड़ा होता है, तो ज़मीन से मीनार की चोटी तक 32 डिग्री का कोण बनता है। अब सोचो कि मीनार की चोटी से एक पतंग हर घंटे 5 डिग्री सीधी ऊपर की ओर उड़ रही है। अगर पतंग मीनार की चोटी से उड़ना शुरू करे और 10 घंटे तक उड़े, तो ज़मीन से पतंग तक का कोण कितने डिग्री का हो जाएगा?

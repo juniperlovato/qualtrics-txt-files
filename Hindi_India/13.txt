@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
 
 Translated Version:
-ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں لکھی گئی ہیں، اور 10% انگریزی میں۔ باقی تمام کتابیں پنجابی میں لکھی گئی ہیں۔ پنجابی میں کتنی کتابیں ہیں؟
+सुमित अपने स्कूल, सरदार पटेल प्राथमिक विद्यालय, के वार्षिक गणित परीक्षा के परिणाम एकत्रित कर रहा है। तीसरी कक्षा के 500 छात्रों में से 340 पास हुए हैं, और चौथी कक्षा के 100 में से 40 पास हुए हैं। पाँचवीं कक्षा के 400 छात्रों का पास प्रतिशत, चौथी कक्षा के पास प्रतिशत का दोगुना है। पूरे स्कूल का कुल पास प्रतिशत कितना है?

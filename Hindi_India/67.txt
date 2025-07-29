@@ -1,5 +1,5 @@
 Original English Version:
-David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-احمد اور عائشہ عید کے میلے میں گئے جہاں 9 جھولے ہیں۔ ہر جھولے کی سواری کے لیے 2 ٹکٹ چاہیے جن کی قیمت 50 روپے فی ٹکٹ ہے۔ آپ 750 روپے میں ایک خاص پاس بھی خرید سکتے ہیں جس سے آپ تمام 9 جھولوں کی سواری کر سکتے ہیں۔ اگر احمد خاص پاس خریدتا ہے اور عائشہ ٹکٹ خریدتی ہے، اور وہ دونوں تمام 9 جھولوں کی سواری کرتے ہیں، تو احمد کتنے روپے بچاتا ہے؟
+राहुल विभिन्न अख़बार बेचता है और हर प्रति पर उसे कमीशन मिलता है। उसे 'दैनिक भास्कर' की हर प्रति पर 10% कमीशन और 'हिन्दुस्तान टाइम्स' की हर प्रति पर 8% कमीशन मिलता है। यदि उसने 'दैनिक भास्कर' की 6 प्रतियाँ (प्रत्येक ₹20) और 'हिन्दुस्तान टाइम्स' की 10 प्रतियाँ (प्रत्येक ₹25) बेचीं, तो उसे कुल मिलाकर कितना कमीशन मिलेगा?

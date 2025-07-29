@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+राहुल और प्रिया मेले में गए, जहाँ 9 झूले हैं। हर झूले के लिए 2 टिकट चाहिए और हर टिकट की कीमत ₹20 है। आप ₹300 में एक विशेष पास भी खरीद सकते हैं जिससे आप सभी 9 झूलों का आनंद ले सकते हैं। अगर राहुल विशेष पास खरीदता है और प्रिया टिकट खरीदती है, और वे सभी 9 झूलों पर जाते हैं, तो राहुल कितने रुपये बचाता है?

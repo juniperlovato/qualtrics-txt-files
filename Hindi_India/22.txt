@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+Solo has to read 4 pages from their Science textbook, 20 pages from their Social Studies textbook, 7 pages from their History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If they have 4 more days to complete all their reading, how many pages do they need to read, on average, in one day?
 
 Translated Version:
-علی کراچی میں ایک سائیکل کی دکان چلاتا ہے۔ اس کی اہم مصنوعات تین قسم کی سائیکلیں ہیں: پہاڑی سائیکل، بی ایم ایکس، اور شہری سائیکل۔ ایک پہاڑی سائیکل کی قیمت 50,000 روپے ہے، بی ایم ایکس کی قیمت پہاڑی سائیکل سے آدھی ہے، اور شہری سائیکل کی قیمت 45,000 روپے ہے۔ ایک مہینے میں، انہوں نے کل 300 سائیکلیں فروخت کیں۔ ان میں سے آدھی شہری سائیکلیں تھیں، اور 15 فیصد بی ایم ایکس تھیں۔ باقی فروخت شدہ سائیکلیں پہاڑی قسم کی تھیں۔ اس مہینے میں سائیکلوں کی فروخت سے انہوں نے کتنی رقم کمائی؟
+राहुल को अपनी विज्ञान की किताब से 4 पेज, सामाजिक विज्ञान से 20 पेज, इतिहास से 7 पेज और भूगोल से 8 पेज पढ़ने हैं। राहुल ने सोमवार को 15 पेज पढ़ लिए हैं। अगर उसके पास बाकी पढ़ाई खत्म करने के लिए 4 और दिन बचे हैं, तो उसे हर दिन औसतन कितने पेज पढ़ने होंगे?

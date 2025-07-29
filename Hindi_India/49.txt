@@ -1,5 +1,5 @@
 Original English Version:
-The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+James loves to go swimming and has to swim across a 20-mile lake. They can swim at a pace of 2 miles per hour. They swim 60% of the distance. After that, they stop on an island and rests for half as long as the swimming time. They then finish the remaining distance while going half the speed. How long did it take them to get across the lake?
 
 Translated Version:
-اسکول کی قومی ترانہ ٹیم نئی یونیفارم منگوا رہی ہے۔ ہر یونیفارم میں ایک ٹوپی ہے جس کی قیمت 500 روپے ہے، ایک قمیض ہے جس کی قیمت ٹوپی سے تین گنا زیادہ ہے، اور شلوار ہے جس کی قیمت ٹوپی اور قمیض کی قیمتوں کا اوسط ہے۔ ہر یونیفارم کی کل قیمت کتنی ہے؟
+राहुल को तैराकी करना बहुत पसंद है। उसे एक 32 किलोमीटर लंबी झील को तैरकर पार करना है। वह 4 किलोमीटर प्रति घंटे की गति से तैर सकता है। वह कुल दूरी का 60% भाग तैरता है। इसके बाद वह एक टापू पर रुकता है और जितना समय उसने तैरने में लगाया, उसका आधा समय आराम करता है। फिर वह बची हुई दूरी आधी गति (यानि 2 किलोमीटर प्रति घंटे) से तय करता है। राहुल को पूरी झील पार करने में कुल कितना समय लगा?

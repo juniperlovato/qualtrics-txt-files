@@ -1,5 +1,5 @@
 Original English Version:
-Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?
+Janet’s ducks lay 16 eggs per day. They eat three for breakfast every morning and bakes muffins for their friends every day with four. They sell the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars do they make every day at the farmers' market?
 
 Translated Version:
-علی اور فاطمہ کو پھل لانے کا کہا گیا۔ علی 5 سیب اور 8 کینو لایا، جبکہ فاطمہ علی کے مقابلے میں دو گنا سیب اور آدھے کینو لائی۔ دونوں کے پاس کل کتنے پھل ہیں؟
+सीमा की मुर्गियाँ हर दिन 16 अंडे देती हैं। उनका परिवार रोज़ नाश्ते में 3 अंडे खाता है और हर दिन 4 अंडों का हलवा अपने दोस्तों के लिए बनाती है। बाकी बचे अंडे सीमा रोज़ स्थानीय बाजार में बेचती है, जहाँ हर ताजा अंडे की कीमत ₹15 है। सीमा रोज़ बाजार में अंडे बेचकर कितने रुपये कमाती है?

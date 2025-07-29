@@ -1,5 +1,5 @@
 Original English Version:
-Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
+James loves to go swimming and has to swim across a 20-mile lake. They can swim at a pace of 2 miles per hour. They swim 60% of the distance. After that, they stop on an island and rests for half as long as the swimming time. They then finish the remaining distance while going half the speed. How long did it take them to get across the lake?
 
 Translated Version:
-عائشہ پھولوں کی دوکان پر جاتی ہے تاکہ کچھ گلاب خریدے۔ ایک گلاب کی قیمت 300 روپے ہے اور ایک درجن (12) گلاب 1800 روپے کے ہیں۔ اگر عائشہ نے 15 گلاب خریدے اور اس کے پاس پانچ 500 روپے کے نوٹ تھے، اور دکان والے کے پاس صرف 10 روپے کے سکے ہیں تو عائشہ کے پاس کتنے 10 روپے کے سکے واپس آئیں گے؟
+राहुल को गंगा नदी के एक हिस्से को पार करना है जो 20 किलोमीटर चौड़ा है। वह 2 किलोमीटर प्रति घंटे की गति से तैर सकता है। वह कुल दूरी का 60% तैरता है। उसके बाद, वह नदी के बीच में एक घाट पर रुकता है और जितनी देर तैरा था उसके आधे समय तक आराम करता है। फिर वह बाकी दूरी आधी गति से तैरकर पूरी करता है। राहुल को नदी पार करने में कुल कितना समय लगा?

@@ -1,5 +1,5 @@
 Original English Version:
-John plans to sell all their toys and use the money to buy video games. They have 13 lego sets and he sells them for $15 each. They end up buying 8 video games for $20 each and has $5 left. How many lego sets do they still have?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-علی نے اپنے تمام کھلونے بیچ کر کرکٹ بیٹ خریدنے کا منصوبہ بنایا۔ اس کے پاس ۱۳ کاروں کے کھلونے ہیں اور وہ ہر کھلونا ۴۰۰ روپے میں بیچتا ہے۔ پھر وہ ۸ کرکٹ بیٹ ۷۵۰ روپے فی بیٹ کے حساب سے خریدتا ہے اور اس کے پاس ۵۰ روپے بچ جاتے ہیں۔ علی کے پاس کتنے کھلونے اب بھی باقی ہیں؟
+एक मैकेनिक ट्रक और कार के टायर ठीक करने के लिए अलग-अलग पैसे लेता है। वह हर ट्रक का टायर ठीक करने के लिए ₹150 और हर कार का टायर ठीक करने के लिए ₹100 लेता है। गुरुवार को, मैकेनिक ने 6 ट्रक के टायर और 4 कार के टायर ठीक किए। शुक्रवार को, उसने 12 कार के टायर ठीक किए और कोई भी ट्रक का टायर ठीक नहीं किया। तो बताइए, मैकेनिक ने ज़्यादा कमाई वाले दिन, दूसरे दिन से कितने रुपये ज़्यादा कमाए?

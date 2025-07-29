@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
 
 Translated Version:
-لاہور کے بادشاہی مسجد کا مینار زمین سے 32 درجے کے زاویے پر دکھائی دیتا ہے جب آپ احمد کے گھر کے دروازے پر کھڑے ہوتے ہیں۔ سورج بادشاہی مسجد کے مینار کے سرے سے سیدھا اوپر جاتے ہوئے ہر گھنٹے میں 5 درجے اوپر جاتا ہے۔ اگر سورج مینار کی چوٹی سے اپنی حرکت شروع کرے اور 10 گھنٹے تک اوپر جائے، تو زمین سے سورج تک کتنا زاویہ بنے گا؟
+एक नृत्य कक्षा में 20 छात्र हैं। इनमें से 20% छात्रों ने कथक नृत्य में दाखिला लिया, बाकी बचे छात्रों में से 25% ने भरतनाट्यम में दाखिला लिया, और शेष छात्रों ने भांगड़ा नृत्य में दाखिला लिया। कुल छात्रों में से कितने प्रतिशत छात्रों ने भांगड़ा नृत्य में दाखिला लिया?

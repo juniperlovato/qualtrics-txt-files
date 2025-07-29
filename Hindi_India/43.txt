@@ -1,5 +1,5 @@
 Original English Version:
-A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
 
 Translated Version:
-ایک تاجر دو خریداری کے منصوبوں میں سے ایک کا انتخاب کرنا چاہتا ہے: 500,000 روپے کی سونے کی جیولری یا 800,000 روپے کے موبائل فون اور لیپ ٹاپ۔ اس کا مالیاتی مشیر کہتا ہے کہ اگلے مہینے میں سونے کی قیمت میں 2.5% اضافہ ہوگا جبکہ موبائل فون اور لیپ ٹاپ کی قیمت میں 1.2% اضافہ ہوگا۔ اگر تاجر مہینے کے آخر میں زیادہ سے زیادہ منافع کمانا چاہتا ہے، تو اسے کتنا منافع ہوگا؟
+रोहन अपनी घोड़ा-गाड़ी चलाता है। उसने ध्यान दिया कि हर 2 किलोमीटर चलने पर, उसका घोड़ा 1 गठरी घास खाता है। घास की एक गठरी की कीमत ₹40 है। अगर उसका घोड़ा 30 मिनट तक 20 किलोमीटर प्रति घंटे की रफ़्तार से चलता है, और रोहन के पास 100-100 रुपये के तीन नोट हैं, तो घास खरीदने के बाद उसके पास कितने रुपये बचेंगे?

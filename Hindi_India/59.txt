@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
 
 Translated Version:
-علی چالیس منٹ تک کرکٹ کھیلتا ہے۔ پہلے بیس منٹ میں، وہ 4 رنز بناتا ہے۔ دوسرے بیس منٹ میں، وہ %25 زیادہ رنز بناتا ہے۔ اُس نے کل کتنے رنز بنائے؟
+रमेश की एक साइकिल की दुकान है। उसकी दुकान में तीन तरह की साइकिलें हैं: पहाड़ी, बच्चों वाली और साधारण। एक पहाड़ी साइकिल की कीमत ₹5000 है, बच्चों वाली साइकिल की कीमत पहाड़ी साइकिल से आधी है, और एक साधारण साइकिल की कीमत ₹4000 है। एक महीने में, रमेश ने कुल 300 साइकिलें बेचीं। बेची गई साइकिलों में से आधी साधारण साइकिलें थीं और 15% बच्चों वाली साइकिलें थीं। बाकी बची हुई साइकिलें पहाड़ी थीं। तो बताइए कि उस महीने में साइकिलें बेचकर रमेश ने कुल कितनी कमाई की?

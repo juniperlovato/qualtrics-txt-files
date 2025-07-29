@@ -1,5 +1,5 @@
 Original English Version:
-David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
 
 Translated Version:
-علی اور عائشہ میلے میں گئے، جہاں 9 جھولے ہیں۔ ہر جھولا 2 ٹکٹوں پر چلتا ہے اور ہر ٹکٹ کی قیمت 200 روپے ہے۔ آپ ایک جھولا پیکج بھی خرید سکتے ہیں جو 1500 روپے میں 9 جھولوں کی اجازت دیتا ہے۔ اگر علی جھولا پیکج خریدے اور عائشہ ٹکٹیں خریدے، اور دونوں 9 جھولے جھولیں تو علی نے کتنے روپے بچائے؟
+रिया अपने मेहमानों के लिए चाय बना रही है। उसके पास कुल 27 कप हैं। इनमें से 15 कप मसाला चाय के लिए हैं। बाकी बचे हुए कपों को वह 3 पंक्तियों में रखती है। हर पंक्ति में, वह अदरक वाली चाय और इलायची वाली चाय के बराबर कप रखती है। तो बताइए, हर पंक्ति में इलायची वाली चाय के कितने कप हैं?

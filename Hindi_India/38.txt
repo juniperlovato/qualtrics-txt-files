@@ -1,5 +1,5 @@
 Original English Version:
-In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-ایک جماعت میں 20 بچے ہیں۔ 20 فیصد بچے کرکٹ کھیلتے ہیں، باقی بچوں میں سے 25 فیصد ہاکی کھیلتے ہیں، اور جو بچے رہ گئے وہ فٹ بال کھیلتے ہیں۔ بتائیں کہ پوری جماعت کے کتنے فیصد بچے فٹ بال کھیلتے ہیں؟
+विक्रम के पास दो मशीनें खरीदने का विकल्प है – मशीन A, जो 1 घंटे में 60 खिलौने बनाती है, और मशीन B, जो 1 घंटे में 45 खिलौने बनाती है। हर खिलौना 50 रुपये में बिकता है। अगर विक्रम अपनी मशीन को 24 घंटे रोज़, लगातार 30 दिन चलाए, तो मशीन A से मशीन B की तुलना में विक्रम को कितने रुपये ज़्यादा मिलेंगे?

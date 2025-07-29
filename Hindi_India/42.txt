@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Helga was the fastest clog dancer in all of Slovenia. With both hands at her sides, she could tap her right foot at a rate of 300 taps per minute, while simultaneously tapping her left foot at a rate of 250 taps per minute. When she raised her arms, her tap rate slowed down to 200 taps per minute with each foot. If she dances a total of 5 minutes, with her arms raised during only 2 of those minutes, what would be the combined total number of times that she taps both of her feet?
 
 Translated Version:
-احمد روزانہ 300 نان، 120 چاکلیٹ پیٹسری اور 60 پراٹھے بناتا ہے۔ ہر نان کی لمبائی 4 انچ ہے، ہر پیٹسری کی لمبائی 6 انچ ہے، اور ہر پراٹھے کی لمبائی 2 فٹ ہے۔ اگر احمد یہ تمام چیزیں ایک سیدھی قطار میں رکھے تو ان سب کی مشترکہ لمبائی کتنے فٹ ہوگی؟
+रिया एक बहुत अच्छी कथक नृत्यांगना है। जब वह हाथ नीचे रखकर नाचती है, तो वह अपना दाहिना पैर एक मिनट में 300 बार और बायां पैर एक मिनट में 250 बार थपथपा सकती है। जब वह हाथ उठाकर नाचती है, तो उसकी गति थोड़ी धीमी हो जाती है और वह हर पैर से एक मिनट में 200 बार थपथपाती है। अगर रिया कुल 5 मिनट तक नाचती है, जिसमें से केवल 2 मिनट वह हाथ उठाकर नाचती है, तो बताइए उसने अपने दोनों पैरों से कुल मिलाकर कितनी बार थपथपाया?

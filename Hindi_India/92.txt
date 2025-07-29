@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
 
 Translated Version:
-ایک مستری ٹرکوں اور گاڑیوں کے ٹائر ٹھیک کرنے کی الگ الگ اجرت لیتا ہے۔ ٹرک کا ہر ٹائر ٹھیک کرنے کے لئے مستری 600 روپے لیتا ہے، اور گاڑی کا ہر ٹائر ٹھیک کرنے کے لئے 400 روپے لیتا ہے۔ جمعرات کو مستری نے 6 ٹرکوں کے ٹائر اور 4 گاڑیوں کے ٹائر ٹھیک کیے۔ جمعہ کو مستری نے 12 گاڑیوں کے ٹائر ٹھیک کیے اور کوئی ٹرک کا ٹائر ٹھیک نہیں کیا۔ بتائیں کس دن مستری نے زیادہ پیسے کمائے اور کتنے زیادہ؟
+अजय 40 मिनट तक कैरम खेलता है। पहले 20 मिनट में उसने 4 अंक बनाए। अगले 20 मिनट में उसने पहले से 25% अधिक अंक बनाए। अजय ने कुल कितने अंक बनाए?

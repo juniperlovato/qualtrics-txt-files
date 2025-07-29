@@ -1,5 +1,5 @@
 Original English Version:
-A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-ایک تاجر دو چیزوں میں سے ایک خریدنے کا سوچ رہا ہے: 50,000 روپے مالیت کے زیورات یا 80,000 روپے مالیت کے موبائل فونز۔ اندازہ ہے کہ ایک مہینے کے اندر زیورات کی قیمت میں 2.5 فیصد اضافہ ہو جائے گا، جبکہ موبائل فونز کی قیمت 1.2 فیصد بڑھے گی۔ اگر تاجر مہینے کے آخر میں سب سے زیادہ منافع کمانا چاہتا ہے، تو اس کا یہ منافع کتنا ہوگا؟
+रीना कुछ फूल खरीदने के लिए फूलवाले के पास जाती है। गुलाब के फूल की कीमत ₹10 प्रति फूल है और एक दर्जन (12 फूल) की कीमत ₹100 है। अगर उसने 15 गुलाब के फूल खरीदे और दुकानदार को ₹200 का एक नोट दिया, और दुकानदार के पास वापस देने के लिए केवल पाँच रुपये के सिक्के हैं, तो उसे कितने सिक्के वापस मिलेंगे?

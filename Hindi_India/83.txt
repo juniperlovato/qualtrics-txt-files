@@ -1,5 +1,5 @@
 Original English Version:
-Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?
+Jerome had 4 friends who came to visit him on a certain day. The first friend pressed on the doorbell 20 times before Jerome opened, the second friend pressed on the doorbell 1/4 times more than Jerome's first friend. The third friend pressed on the doorbell 10 times more than the fourth friend. If the fourth friend pressed on the doorbell 60 times, how many doorbell rings did the doorbell make?
 
 Translated Version:
-احمد ایک کریانہ اسٹور پر کام کرتا ہے جہاں اسے روزانہ 500 روپے ملتے ہیں۔ اس نے پورے ایک ہفتے کام کیا اور کل 1000 روپے خرچ کر دیئے۔ اب اس کے پاس کتنے پیسے باقی بچے ہیں؟
+रोहन अपने चार दोस्तों के साथ मंदिर गया। पहले दोस्त ने घंटी 20 बार बजाई। दूसरे दोस्त ने पहले दोस्त की तुलना में एक-चौथाई (1/4) बार अधिक घंटी बजाई। तीसरे दोस्त ने चौथे दोस्त से 10 बार ज़्यादा घंटी बजाई। अगर चौथे दोस्त ने घंटी 60 बार बजाई, तो बताओ सब दोस्तों ने मिलकर घंटी को कुल कितनी बार बजाया?
