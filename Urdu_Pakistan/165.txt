@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-علی یہ فیصلہ کرنے کی کوشش کر رہا ہے کہ وہ مشین اے خریدے، جو ایک گھنٹے میں 60 کھلونے بناتی ہے، یا مشین بی خریدے، جو ایک گھنٹے میں 45 کھلونے بناتی ہے۔ ہر کھلونا 600 روپے میں فروخت ہوتا ہے۔ اگر دونوں مشینیں ایک دن میں 24 گھنٹے اور ایک مہینے (30 دن) تک چلائی جائیں، تو علی کو مشین اے کے مقابلے میں مشین بی سے کتنے روپے زیادہ ملیں گے؟
+ایک تاجر دو چیزوں میں سے ایک خریدنے کا سوچ رہا ہے: 50,000 روپے مالیت کے زیورات یا 80,000 روپے مالیت کے موبائل فونز۔ اندازہ ہے کہ ایک مہینے کے اندر زیورات کی قیمت میں 2.5 فیصد اضافہ ہو جائے گا، جبکہ موبائل فونز کی قیمت 1.2 فیصد بڑھے گی۔ اگر تاجر مہینے کے آخر میں سب سے زیادہ منافع کمانا چاہتا ہے، تو اس کا یہ منافع کتنا ہوگا؟

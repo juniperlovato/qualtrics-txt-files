@@ -1,5 +1,5 @@
 Original English Version:
-Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine them $120 for unauthorized road maintenance if they fix it themselves. They will also have to buy 3 buckets of asphalt that each cost $25. How much money do they save by fixing the pothole?
+The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
 
 Translated Version:
-علی اپنے گھر کے سامنے سڑک پر گڑھے سے تنگ آ چکا ہے۔ اگر یہ گڑھا نہ بھرا گیا تو اس کی گاڑی کو 45,000 روپے کا نقصان ہو سکتا ہے۔ بدقسمتی سے، میونسپل کمیٹی اس گڑھے کو بھرنے سے انکاری ہے، اور اگر علی خود گڑھا بھرے تو اسے 12,000 روپے جرمانہ بھی ادا کرنا پڑے گا۔ اس کے علاوہ اسے 3 بالٹیاں تارکول خریدنی ہوں گی، جن کی قیمت فی بالٹی 2,500 روپے ہے۔ اگر علی خود گڑھا بھر دے تو وہ کتنے پیسے بچائے گا؟
+ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟

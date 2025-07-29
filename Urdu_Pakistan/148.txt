@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
 
 Translated Version:
-عائشہ اسلامیات کا امتحان دے رہی ہے۔ وہ کثیر الانتخابی سوالات کے 80٪، درست/غلط سوالات کے 90٪، اور تفصیلی سوالات کے 60٪ صحیح جواب دیتی ہے۔ کثیر الانتخابی اور درست/غلط سوالات ہر ایک 1 نمبر کے ہیں، اور تفصیلی سوالات ہر ایک 5 نمبر کے ہیں۔ اگر 10 کثیر الانتخابی سوالات، 20 درست/غلط سوالات، اور 5 تفصیلی سوالات ہیں تو عائشہ کتنے نمبر حاصل کرتی ہے؟
+ایک اسکول میں 20 بچوں کی قرآن کی کلاس میں، 20% بچوں نے ناظرہ قرآن میں داخلہ لیا، باقی بچوں میں سے 25% نے حفظ قرآن میں داخلہ لیا، اور باقی بچوں نے ترجمہ قرآن میں داخلہ لیا۔ کتنے فیصد بچوں نے ترجمہ قرآن میں داخلہ لیا؟

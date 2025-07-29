@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Aiden and 12 of his friends are going to see a film at the cinema, and meet up with 7 more friends there. They each save a seat and then buy enough drinks and snacks to fill the seats. Each seat has enough room to hold one person, two drinks, and three snacks. If drinks and snacks cost $2 each, how much money, in dollars, has the group spent overall on snacks and drinks?
 
 Translated Version:
-علی مختلف اخبارات بیچتا ہے اور ہر اخبار کی فروخت پر کمیشن حاصل کرتا ہے۔ اسے 'جنگ' اخبار کی ہر کاپی پر 10٪ کمیشن اور 'نوائے وقت' اخبار کی ہر کاپی پر 8٪ کمیشن ملتا ہے۔ اگر علی نے 'جنگ' کی 6 کاپیاں (ہر ایک کی قیمت 200 روپے) اور 'نوائے وقت' کی 10 کاپیاں (ہر ایک کی قیمت 100 روپے) فروخت کیں، تو اسے کُل کتنا کمیشن ملے گا؟
+احمد اور اس کے 12 دوست سینما میں فلم دیکھنے جا رہے ہیں، اور وہاں 7 اور دوستوں سے ملتے ہیں۔ وہ سب اپنی سیٹیں محفوظ کرتے ہیں اور پھر سب کے لیے مشروبات اور نمکین خریدتے ہیں۔ ہر سیٹ پر ایک شخص، دو مشروبات، اور تین نمکین رکھنے کی جگہ ہے۔ اگر ہر مشروب اور نمکین کی قیمت 50 روپے ہے، تو پورے گروپ نے مشروبات اور نمکین پر کل کتنے روپے خرچ کیے؟

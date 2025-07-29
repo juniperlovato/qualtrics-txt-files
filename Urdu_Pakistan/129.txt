@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?
 
 Translated Version:
-ایک عطر بنانے والی کمپنی نئے خوشبوؤں پر کام کر رہی ہے۔ ان کے پاس پہلے سے 4 گلاب کے خوشبوؤں کی قسمیں اور 8 چمبیلی کے خوشبوؤں کی قسمیں موجود ہیں۔ وہ فیصلہ کرتے ہیں کہ جس خوشبو کی سب سے زیادہ فروخت ہو گی، اس پر مزید کام کریں گے۔ دن کے آخر میں، ہر گلاب کی خوشبو کی 5 بوتلیں اور ہر چمبیلی کی خوشبو کی 2 بوتلیں فروخت ہوتی ہیں۔ بتائیں کہ گلاب کی خوشبو کی کل کتنی زیادہ بوتلیں فروخت ہوئیں، چمبیلی کے مقابلے میں؟
+علی اور فاطمہ کو پھل لانے کا کہا گیا۔ علی 5 سیب اور 8 کینو لایا، جبکہ فاطمہ علی کے مقابلے میں دو گنا سیب اور آدھے کینو لائی۔ دونوں کے پاس کل کتنے پھل ہیں؟
