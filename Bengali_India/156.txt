@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+Janet’s ducks lay 16 eggs per day. They eat three for breakfast every morning and bakes muffins for their friends every day with four. They sell the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars do they make every day at the farmers' market?
 
 Translated Version:
-علی اپنے دوستوں کے لیے چائے بنا رہا ہے۔ اس کے پاس ۲۷ کپ ہیں، اور وہ انہیں ۳ قطاروں میں تقسیم کرتا ہے۔ ہر قطار میں برابر مقدار میں سبز چائے اور الائچی چائے کے کپ رکھتا ہے۔ باقی بچے ہوئے کپوں سے وہ ۱۵ کپ دودھ پتی بناتا ہے۔ ہر قطار میں الائچی چائے کے کتنے کپ ہیں؟
+রিনার হাঁসগুলো প্রতিদিন ১৬টা ডিম পাড়ে। প্রতিদিন সকালে তারা সকালের জলখাবারে ৩টে ডিম খায় এবং বন্ধুদের জন্য কেক বানাতে ৪টে ডিম ব্যবহার করে। বাকি ডিমগুলো সে প্রতিদিন হাটে বিক্রি করে, প্রতিটা ডিম ১০ টাকা দামে। তাহলে, হাট থেকে প্রতিদিন সে কত টাকা আয় করে?

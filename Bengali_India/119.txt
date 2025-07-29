@@ -1,5 +1,5 @@
 Original English Version:
-Helga was the fastest clog dancer in all of Slovenia. With both hands at her sides, she could tap her right foot at a rate of 300 taps per minute, while simultaneously tapping her left foot at a rate of 250 taps per minute. When she raised her arms, her tap rate slowed down to 200 taps per minute with each foot. If she dances a total of 5 minutes, with her arms raised during only 2 of those minutes, what would be the combined total number of times that she taps both of her feet?
+Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
 
 Translated Version:
-علی اپنے اسکول کا سب سے تیز طبلہ نواز ہے۔ جب وہ عام مشق کرتا ہے تو وہ اپنے دائیں ہاتھ سے ایک منٹ میں 300 تھاپیں اور اسی وقت اپنے بائیں ہاتھ سے ایک منٹ میں 250 تھاپیں بجا سکتا ہے۔ جب وہ اسکول اسمبلی کے لئے بجاتا ہے، تو اس کی رفتار کم ہو کر ہر ہاتھ سے ایک منٹ میں 200 تھاپیں رہ جاتی ہے۔ اگر وہ کل 5 منٹ تک طبلہ بجاتا ہے، اور ان میں سے صرف 2 منٹ اسکول اسمبلی کے لئے بجاتا ہے، تو بتائیں کہ اس نے دونوں ہاتھوں سے کل ملا کر کتنی تھاپیں بجائیں؟
+সুমিতা তার বন্ধুদের জন্য চা বানাচ্ছে। তার কাছে মোট ২৭টি কাপ আছে, এবং সে এগুলো ৩টি সারিতে ভাগ করে। প্রতিটি সারিতে সমান সংখ্যক এলাচ ও আদা চা রাখে। এরপর বাকি কাপগুলো দিয়ে সে মোট ১৫ কাপ দারচিনি চা বানায়। তাহলে প্রতিটি সারিতে কতটি আদা চা আছে?

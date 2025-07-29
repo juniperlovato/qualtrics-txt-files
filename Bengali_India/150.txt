@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+Morisette and Kael were asked to bring fruits. Morisette brought 5 apples and 8 oranges, while Kael brought twice the amount of apples and half the number of oranges than Morisette. How many fruits do they have in total?
 
 Translated Version:
-علی ایک تاریخ کے امتحان میں حصہ لے رہا ہے۔ اس نے 80٪ کثیر الانتخاب سوالات، 90٪ صحیح/غلط سوالات، اور 60٪ طویل جواب والے سوالات درست حل کیے۔ کثیر الانتخاب اور صحیح/غلط سوالات ہر ایک کے 1 نمبر کے ہیں، جبکہ ہر طویل جواب والے سوال کے 5 نمبر ہیں۔ اگر امتحان میں 10 کثیر الانتخاب سوالات، 20 صحیح/غلط سوالات، اور 5 طویل جواب والے سوالات ہیں، تو علی نے کل کتنے نمبر حاصل کیے؟
+রীনা এবং অর্জুন স্কুলের সরস্বতী পূজার জন্য ফল আনতে বলা হয়েছিল। রীনা ৫টি আম এবং ৮টি কমলালেবু এনেছিল, আর অর্জুন রীনার চেয়ে দ্বিগুণ আম এবং অর্ধেক সংখ্যক কমলালেবু এনেছিল। তাদের মোট কতগুলি ফল আছে?

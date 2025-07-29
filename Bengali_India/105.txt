@@ -1,5 +1,5 @@
 Original English Version:
-Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?
+Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
 
 Translated Version:
-مریم ایک جوڑا جوتے آن لائن خریدنا چاہتی ہے۔ دراز پر جوتوں کی قیمت 2000 روپے ہے اور ڈیلیوری چارجز 500 روپے ہیں۔ دوسری طرف OLX پر وہی جوتے 1700 روپے کے مل رہے ہیں، لیکن OLX پر ڈیلیوری چارجز دراز سے دوگنے ہیں۔ بتائیں کہ OLX پر جوتے خریدنا کتنے روپے زیادہ مہنگا پڑے گا؟
+রিনা তার ভাইয়ের জন্মদিনের অনুষ্ঠানে খাবারের ব্যবস্থা করছে এবং ১৬ জনকে নিমন্ত্রণ করেছে। ১০ জন চিকেন বিরিয়ানি খেতে চায় যার দাম প্রতি জনের জন্য ₹১৫০ এবং ৬ জন ভেজ পুলাও খেতে চায় যার দাম প্রতি জনের জন্য ₹১২০। রিনা খাবারের জন্য মোট কত টাকা খরচ করবে?

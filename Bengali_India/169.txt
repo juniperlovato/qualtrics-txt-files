@@ -1,5 +1,5 @@
 Original English Version:
-Jasmine's teacher gives stickers for reward. They was given 15 stickers for participating in class, but they lost 7 stickers during playtime. However, their teacher gave them another 5 stickers for helping her classmates. How many stickers do they have at the end?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-عائشہ کی استانی اچھے کام کے لیے ستارے دیتی ہیں۔ اسے کلاس میں حصہ لینے کے لیے 15 ستارے ملے، لیکن تفریح کے وقت اس کے 7 ستارے گم ہو گئے۔ تاہم، اس کی استانی نے اسے اپنے ساتھیوں کی مدد کرنے پر مزید 5 ستارے دیے۔ آخر میں اس کے پاس کتنے ستارے ہیں؟
+একজন মিস্ত্রি ট্রাক এবং গাড়ির টায়ার মেরামত করার জন্য আলাদা আলাদা দাম নেন। প্রতিটি ট্রাকের টায়ার মেরামত করার জন্য তিনি ₹500 টাকা নেন এবং প্রতিটি গাড়ির টায়ার মেরামত করার জন্য ₹300 টাকা নেন। বৃহস্পতিবার, মিস্ত্রি 6টি ট্রাকের টায়ার এবং 4টি গাড়ির টায়ার মেরামত করেন। শুক্রবার, তিনি 12টি গাড়ির টায়ার মেরামত করেন এবং কোনো ট্রাকের টায়ার মেরামত করেন না। যে দিন বেশি আয় হয়েছে সেদিন মিস্ত্রি কত টাকা বেশি আয় করেছেন?

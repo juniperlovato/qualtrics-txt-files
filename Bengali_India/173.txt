@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+A charity group decides to do a yard sale. 10 people donate 5 boxes of stuff each. They also have 10 boxes of stuff already. They can fit 2 boxes worth of stuff per table. If they already own 15 tables, how many new tables do they need?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن حاصل کرتا ہے۔ اسے جنگ اخبار کی ہر کاپی پر 10 فیصد اور ڈان اخبار کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر جنگ اخبار کی قیمت 20 روپے اور ڈان اخبار کی قیمت 30 روپے ہو، تو وہ جنگ اخبار کی 6 کاپیاں اور ڈان اخبار کی 10 کاپیاں بیچ کر کل کتنا کمیشن کمائے گا؟
+একটি স্বেচ্ছাসেবী সংস্থা একটি বইমেলা আয়োজন করেছে। ১০ জন ব্যক্তি প্রত্যেকে ৫টি করে বইয়ের বাক্স দান করেছেন। তাদের কাছে আগে থেকেই ১০টি বইয়ের বাক্স ছিল। প্রতিটি টেবিলে ২টি বাক্সের বই রাখা যায়। তাদের নিজের ১৫টি টেবিল আগে থেকেই আছে। তাহলে, আরও কতটি নতুন টেবিল প্রয়োজন হবে?

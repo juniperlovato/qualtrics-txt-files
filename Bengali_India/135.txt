@@ -1,5 +1,5 @@
 Original English Version:
-Carrie is planning the caroling schedule. The choir plans to sing "Deck the Halls" twice and "Jingle Bells" once. If "Deck the Halls" is 150 seconds long and "Jingle Bells" is 240 seconds long, how long will they be caroling?
+David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
 
 Translated Version:
-عائشہ اسکول کی اسمبلی میں نعت پڑھنے کا پروگرام بنا رہی ہے۔ نعت کمیٹی نے فیصلہ کیا ہے کہ 'تاجدارِ حرم' دو بار اور 'مدینے کو جانے والا' ایک بار پڑھی جائے گی۔ اگر 'تاجدارِ حرم' پڑھنے میں 150 سیکنڈ لگتے ہیں اور 'مدینے کو جانے والا' پڑھنے میں 240 سیکنڈ لگتے ہیں، تو کل کتنا وقت لگے گا؟
+রাহুল এবং প্রিয়া দুর্গাপুজার মেলায় গিয়েছিল, যেখানে ৯টি রাইড আছে। প্রতিটি রাইডের জন্য ২টি টিকিট লাগে এবং প্রতি টিকিটের দাম ₹২০। তুমি ₹৩০০ দিয়ে একটি বিশেষ পাস কিনতে পারো যা দিয়ে ৯টি রাইড করা যায়। যদি রাহুল বিশেষ পাস কেনে এবং প্রিয়া টিকিট কেনে, এবং তারা দুজনেই ৯টি রাইড করে, তাহলে রাহুল কত টাকা বাঁচায়?

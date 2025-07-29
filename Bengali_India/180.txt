@@ -1,5 +1,5 @@
 Original English Version:
-Dylan attended a wedding where there were 100 guests in the reception. Each guest brought a plate of 15 cookies. The bride decided to give 1/2 of the cookies to the church next door as a thank you for helping in the wedding reception. If each person in the church next door got 15 cookies, how many people were in the church next door?
+Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
 
 Translated Version:
-احمد ایک شادی میں گیا جہاں استقبالیہ میں 100 مہمان تھے۔ ہر مہمان اپنے ساتھ 15 بسکٹ لایا۔ دلہن نے فیصلہ کیا کہ وہ آدھے بسکٹ قریب کی مسجد کو شکریہ کے طور پر دے دے گی کیونکہ مسجد نے شادی کے انتظامات میں مدد کی تھی۔ اگر مسجد میں ہر شخص کو 15 بسکٹ ملے، تو مسجد میں کتنے لوگ تھے؟
+রিয়া একটি ইতিহাস পরীক্ষা দিচ্ছে। সে বহুনির্বাচনী প্রশ্নের ৮০%, সত্য/মিথ্যা প্রশ্নের ৯০% এবং রচনামূলক প্রশ্নের ৬০% সঠিকভাবে উত্তর দিয়েছে। বহুনির্বাচনী এবং সত্য/মিথ্যা প্রশ্নের প্রতিটির মান ১ নম্বর এবং রচনামূলক প্রশ্নের প্রতিটির মান ৫ নম্বর। যদি ১০টি বহুনির্বাচনী প্রশ্ন, ২০টি সত্য/মিথ্যা প্রশ্ন এবং ৫টি রচনামূলক প্রশ্ন থাকে, তাহলে রিয়া মোট কত নম্বর পেয়েছে?

@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Elaine initially had 20 Pokemon cards. After a month, she collected three times that number. In the second month, she collected 20 fewer cards than those she collected in the first month. In the third month, she collected twice the combined number of pokemon cards she collected in the first and second months. How many pokemon cards does she have now in total?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن کماتا ہے۔ اسے روزنامہ جنگ کی ہر کاپی پر 10 فیصد کمیشن اور روزنامہ ڈان کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر روزنامہ جنگ کی قیمت 30 روپے فی کاپی اور روزنامہ ڈان کی قیمت 50 روپے فی کاپی ہے، تو علی کو روزنامہ جنگ کی 6 کاپیاں اور روزنامہ ڈان کی 10 کاپیاں بیچنے سے کل کتنا کمیشن ملے گا؟
+রিনা প্রথমে ২০টি ক্রিকেট কার্ড সংগ্রহ করেছিল। এক মাস পরে, সে ঐ সংখ্যার তিনগুণ কার্ড সংগ্রহ করল। দ্বিতীয় মাসে, সে প্রথম মাসে সংগ্রহ করা কার্ডের চেয়ে ২০টি কম কার্ড সংগ্রহ করল। তৃতীয় মাসে, সে প্রথম ও দ্বিতীয় মাসে সংগ্রহ করা মোট কার্ডের দ্বিগুণ সংখ্যক কার্ড সংগ্রহ করল। এখন তার কাছে মোট কতগুলি ক্রিকেট কার্ড আছে?

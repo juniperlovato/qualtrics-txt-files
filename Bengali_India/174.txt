@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Solo has to read 4 pages from their Science textbook, 20 pages from their Social Studies textbook, 7 pages from their History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If they have 4 more days to complete all their reading, how many pages do they need to read, on average, in one day?
 
 Translated Version:
-علی مختلف اخبارات بیچتا ہے اور ہر اخبار کی فروخت پر کمیشن حاصل کرتا ہے۔ اسے 'جنگ' اخبار کی ہر کاپی پر 10٪ کمیشن اور 'نوائے وقت' اخبار کی ہر کاپی پر 8٪ کمیشن ملتا ہے۔ اگر علی نے 'جنگ' کی 6 کاپیاں (ہر ایک کی قیمت 200 روپے) اور 'نوائے وقت' کی 10 کاپیاں (ہر ایک کی قیمت 100 روپے) فروخت کیں، تو اسے کُل کتنا کمیشن ملے گا؟
+রিয়া তার বিজ্ঞান বই থেকে ৪ পৃষ্ঠা, সমাজপাঠ বই থেকে ২০ পৃষ্ঠা, ইতিহাস বই থেকে ৭ পৃষ্ঠা এবং ভূগোল বই থেকে ৮ পৃষ্ঠা পড়তে হবে। সোমবার সে ১৫ পৃষ্ঠা পড়েছে। যদি তার সব পড়া শেষ করার জন্য আরও ৪ দিন থাকে, তাহলে প্রতিদিন গড়ে কত পৃষ্ঠা পড়তে হবে?

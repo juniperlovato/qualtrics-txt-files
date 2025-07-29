@@ -1,5 +1,5 @@
 Original English Version:
-A three-ounce box of flavored jello makes 10 small jello cups. Greg wants to make small jello cups for his son's outdoor birthday party. There will be 30 kids and he wants to have enough so that each kid can have 4 jello cups. Jello is currently on sale for $1.25. How much will he spend on jello?
+The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
 
 Translated Version:
-جیلی کے ایک پیکٹ سے 10 چھوٹی پیالیاں بنتی ہیں۔ احمد اپنے بیٹے کی سالگرہ کی تقریب کے لیے جیلی کی چھوٹی پیالیاں بنانا چاہتا ہے۔ تقریب میں 30 بچے آئیں گے اور وہ چاہتا ہے کہ ہر بچہ 4 پیالیاں کھا سکے۔ اگر جیلی کے ایک پیکٹ کی قیمت 60 روپے ہے، تو بتائیں کہ احمد کا جیلی پر کل کتنا خرچ آئے گا؟
+স্কুলের বার্ষিক সাংস্কৃতিক অনুষ্ঠানের জন্য নাচের দল নতুন পোশাক অর্ডার করছে। প্রতিটি পোশাকে একটি ঘুঙুর আছে যার দাম ₹২৫০, একটি কুর্তা আছে যার দাম ঘুঙুরের তিনগুণ, এবং একটি চুড়িদার আছে যার দাম ঘুঙুর ও কুর্তার দামের গড়। প্রতিটি সম্পূর্ণ পোশাকের মোট দাম কত?

@@ -1,8 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-ایک عطر فروش، احمد بھائی، اپنی دکان میں دو طرح کے عطر بیچتے ہیں: گلاب اور چنبیلی۔
- اُن کے پاس گلاب کے عطر کی 4 مختلف قسمیں ہیں اور چنبیلی کے عطر کی 8 مختلف قسمیں ہیں۔
- دن کے آخر میں حساب کرنے پر معلوم ہوا کہ اُنہوں نے گلاب کی ہر قسم کی 5 شیشیاں فروخت کیں اور چنبیلی کی ہر قسم کی 2 شیشیاں فروخت کیں۔
- تو بتائیں کہ گلاب کی کل فروخت ہونے والی شیشیاں، چنبیلی کی کل فروخت ہونے والی شیشیوں سے کتنی زیادہ تھیں؟
+রাজু বিভিন্ন খবরের কাগজ বিক্রি করে প্রতিটি বিক্রিত কপির ওপর কমিশন পায়। সে প্রতিটি আনন্দবাজার পত্রিকার ওপর ১০% এবং প্রতিটি দ্য স্টেটসম্যানের ওপর ৮% কমিশন পায়। যদি প্রতিটি আনন্দবাজার পত্রিকার দাম ১০ টাকা এবং প্রতিটি দ্য স্টেটসম্যানের দাম ১৫ টাকা হয়, তাহলে ৬টি আনন্দবাজার পত্রিকা এবং ১০টি দ্য স্টেটসম্যান বিক্রি করে সে মোট কত টাকা কমিশন পাবে?

@@ -1,5 +1,5 @@
 Original English Version:
-A charity group decides to do a yard sale. 10 people donate 5 boxes of stuff each. They also have 10 boxes of stuff already. They can fit 2 boxes worth of stuff per table. If they already own 15 tables, how many new tables do they need?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-ایک فلاحی تنظیم نے غریبوں کی مدد کے لیے سامان جمع کرنے کا فیصلہ کیا۔ 10 لوگوں نے کپڑوں کے 5، 5 ڈبے عطیہ کیے۔ تنظیم کے پاس پہلے سے بھی کپڑوں کے 10 ڈبے موجود تھے۔ سامان رکھنے کے لیے، ہر میز پر 2 ڈبے رکھے جا سکتے ہیں۔ اگر تنظیم کے پاس پہلے سے 15 میزیں ہیں، تو انہیں مزید کتنی میزوں کی ضرورت ہو گی؟
+রিনা ফুলের দোকানে কিছু ফুল কিনতে যায়। গোলাপ ফুলের দাম প্রতিটি ₹20 এবং এক ডজনের দাম ₹150। সে যদি 15টি গোলাপ কিনে এবং পাঁচটি ₹100 টাকার নোট নিয়ে যায় এবং দোকানদারের কাছে শুধু ₹5 এর কয়েন খুচরা হিসেবে থাকে, তাহলে সে কয়টি ₹5 এর কয়েন নিয়ে ফিরবে?

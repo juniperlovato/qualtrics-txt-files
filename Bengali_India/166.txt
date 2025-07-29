@@ -1,5 +1,5 @@
 Original English Version:
-James loves to go swimming and has to swim across a 20-mile lake. They can swim at a pace of 2 miles per hour. They swim 60% of the distance. After that, they stop on an island and rests for half as long as the swimming time. They then finish the remaining distance while going half the speed. How long did it take them to get across the lake?
+Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine them $120 for unauthorized road maintenance if they fix it themselves. They will also have to buy 3 buckets of asphalt that each cost $25. How much money do they save by fixing the pothole?
 
 Translated Version:
-علی کو تیراکی کا بہت شوق ہے اور اسے 20 کلومیٹر چوڑی جھیل پار کرنی ہے۔ وہ 2 کلومیٹر فی گھنٹہ کی رفتار سے تیر سکتا ہے۔ وہ کل فاصلے کا 60 فیصد تیر کر طے کرتا ہے۔ اس کے بعد وہ ایک جزیرے پر رک کر اتنا آرام کرتا ہے جتنا اس نے تیراکی میں آدھا وقت لگایا تھا۔ پھر وہ باقی فاصلہ آدھی رفتار سے طے کرتا ہے۔ اسے جھیل پار کرنے میں کل کتنا وقت لگا؟
+রনি বাবু তাঁর বাড়ির সামনের রাস্তার গর্তটা নিয়ে খুব বিরক্ত। যদি গর্তটা সারানো না হয়, তাহলে তাঁর গাড়ির ৪৫০০ টাকার ক্ষতি হয়ে যাবে। কিন্তু পৌরসভা থেকে রাস্তাটা সারানো হচ্ছে না। যদি তিনি নিজে থেকে রাস্তা সারান, তাহলে পৌরসভা তাঁকে ১২০০ টাকা জরিমানা করবে। এছাড়া, তাঁকে ২৫০ টাকা করে ৩ বস্তা পিচঢালাইয়ের মশলা কিনতে হবে। তাহলে, গর্তটা নিজে সারিয়ে ফেললে রনি বাবুর মোট কত টাকা বাঁচবে?
