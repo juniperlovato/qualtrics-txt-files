@@ -1,5 +1,5 @@
 Original English Version:
-Jasmine's teacher gives stickers for reward. They was given 15 stickers for participating in class, but they lost 7 stickers during playtime. However, their teacher gave them another 5 stickers for helping her classmates. How many stickers do they have at the end?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-فاطمہ کی استانی صاحبہ انعام میں اسٹیکرز دیتی ہیں۔ اُنہیں کلاس میں حصہ لینے پر 15 اسٹیکرز ملے۔ لیکن کھیل کے دوران اُن سے 7 اسٹیکرز گُم ہو گئے۔ پھر، استانی صاحبہ نے اُنہیں اپنے دوستوں کی مدد کرنے پر مزید 5 اسٹیکرز دیئے۔ اب بتائیں، آخر میں فاطمہ کے پاس کُل کتنے اسٹیکرز ہیں؟
+فاطمه اهو فيصلو ڪرڻ جي ڪوشش ڪري رهي آهي ته هوءَ ٻن مشينن مان ڪهڙي خريد ڪري. پهرين مشين هڪ ڪلاڪ ۾ 60 چوڙيون ٺاهي ٿي، جڏهن ته ٻي مشين هڪ ڪلاڪ ۾ 45 چوڙيون ٺاهي ٿي. هر هڪ چوڙي 10 رُپين ۾ وڪرو ٿئي ٿي. جيڪڏهن مشينون 30 ڏينهن واري مهيني ۾ روزانو 24 ڪلاڪ هلن، ته فاطمه پهرين مشين مان ٻي مشين جي ڀيٽ ۾ ڪيترا وڌيڪ پئسا ڪمائيندي؟

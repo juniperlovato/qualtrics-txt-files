@@ -1,5 +1,5 @@
 Original English Version:
-A charity group decides to do a yard sale. 10 people donate 5 boxes of stuff each. They also have 10 boxes of stuff already. They can fit 2 boxes worth of stuff per table. If they already own 15 tables, how many new tables do they need?
+James loves to go swimming and has to swim across a 20-mile lake. They can swim at a pace of 2 miles per hour. They swim 60% of the distance. After that, they stop on an island and rests for half as long as the swimming time. They then finish the remaining distance while going half the speed. How long did it take them to get across the lake?
 
 Translated Version:
-ایک فلاحی تنظیم نے ایک بازار لگانے کا فیصلہ کیا ہے۔ 10 لوگ ہر ایک 5 ڈبے چیزیں عطیہ کرتے ہیں۔ ان کے پاس پہلے سے ہی 10 ڈبے چیزیں موجود ہیں۔ ایک میز پر 2 ڈبوں کی چیزیں رکھی جا سکتی ہیں۔ اگر ان کے پاس پہلے سے 15 میزیں موجود ہیں، تو انہیں مزید کتنی نئی میزیں درکار ہوں گی؟
+علي کي پنهنجي ڳوٺ کان شهر تائين 20 ڪلوميٽرن جو مفاصلو پنڌ ڪرڻو آهي. هو 4 ڪلوميٽر في ڪلاڪ جي رفتار سان پنڌ ڪري ٿو. هو 60 سيڪڙو مفاصلو طئي ڪري ٿو. ان کانپوءِ، هو هڪ چاءِ جي هوٽل تي رڪجي ٿو ۽ پنڌ ۾ لڳل وقت جي اڌ جيترو وقت آرام ڪري ٿو. پوءِ هو پنهنجي اڳوڻي رفتار جي اڌ رفتار سان هلندي باقي بچيل مفاصلو پورو ڪري ٿو. ٻڌايو ته هن کي شهر پهچڻ ۾ ڪُل ڪيترو وقت لڳو؟

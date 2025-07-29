@@ -2,4 +2,4 @@ Original English Version:
 A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
 
 Translated Version:
-ایک عطر بنانے والی کمپنی نئے خوشبوؤں پر کام کر رہی ہے۔ ان کے پاس پہلے سے 4 گلاب کے خوشبوؤں کی قسمیں اور 8 چمبیلی کے خوشبوؤں کی قسمیں موجود ہیں۔ وہ فیصلہ کرتے ہیں کہ جس خوشبو کی سب سے زیادہ فروخت ہو گی، اس پر مزید کام کریں گے۔ دن کے آخر میں، ہر گلاب کی خوشبو کی 5 بوتلیں اور ہر چمبیلی کی خوشبو کی 2 بوتلیں فروخت ہوتی ہیں۔ بتائیں کہ گلاب کی خوشبو کی کل کتنی زیادہ بوتلیں فروخت ہوئیں، چمبیلی کے مقابلے میں؟
+هڪ عطر جي دڪان تي، گلاب جا 4 مختلف قسم جا عطر ۽ انب جا 8 مختلف قسم جا عطر موجود آهن. ڏينهن جي آخر ۾، دڪاندار گلاب جي هر قسم جون 5 شيشيون ۽ انب جي هر قسم جون 2 شيشيون وڪرو ڪيون. ٻڌايو ته گلاب وارا عطر انب وارن عطرن کان ڪيترا وڌيڪ وڪرو ٿيا؟

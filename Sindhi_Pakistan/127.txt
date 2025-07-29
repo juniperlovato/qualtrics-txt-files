@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
 
 Translated Version:
-ایک عطر کی دکان عید کے لیے نئی خوشبوئیں بنانے کی کوشش کر رہی ہے۔ ان کے پاس پہلے سے 4 کیولڑے کی خوشبوئیں اور 8 پھلوں کی خوشبوئیں موجود ہیں۔ انہیں فیصلہ کرنا ہے کہ کس قسم کی خوشبو پر زیادہ توجہ دیں۔ وہ فیصلہ کرتے ہیں کہ جو خوشبو سب سے زیادہ بکے گی اس پر توجہ دیں گے۔ دن کے اختتام تک، وہ ہر کیولڑے کی خوشبو میں سے 5 بوتلیں اور ہر پھل کی خوشبو میں سے 2 بوتلیں فروخت کرتے ہیں۔ پھلوں کی خوشبوؤں کے مقابلے میں کیولڑے کی کتنی زیادہ خوشبوئیں فروخت ہوئیں؟
+آمنه عيدالفطر لاءِ تحفا ويڙهي رهي آهي. هن وٽ پنهنجي گهروارن لاءِ 6 تحفا، دوستن لاءِ 4 تحفا ۽ استادن لاءِ 2 تحفا آهن. آمنه وٽ 144 انچ ربن آهي ۽ هوءَ چاهي ٿي ته هر تحفي لاءِ هڪ ڦول ٺاهيس. ٻڌايو ته هر تحفي جي ڦول لاءِ هوءَ ڪيترا انچ ربن استعمال ڪري سگهي ٿي؟

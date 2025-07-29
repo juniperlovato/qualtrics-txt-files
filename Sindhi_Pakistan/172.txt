@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن کماتا ہے۔ اسے روزنامہ جنگ کی ہر کاپی پر 10 فیصد کمیشن اور روزنامہ ڈان کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر روزنامہ جنگ کی قیمت 30 روپے فی کاپی اور روزنامہ ڈان کی قیمت 50 روپے فی کاپی ہے، تو علی کو روزنامہ جنگ کی 6 کاپیاں اور روزنامہ ڈان کی 10 کاپیاں بیچنے سے کل کتنا کمیشن ملے گا؟
+عائشہ گل فروش وٽ گل خريدڻ وئي آهي. گلاب هر هڪ 50 رپيا آهي ۽ هڪ درجن 350 رپيا ۾ ملن ٿا. جيڪڏهن عائشہ 15 گلاب خريديا ۽ وٽس پنج 500 رپين جا نوٽ هئا، ۽ واپسي ۾ دڪاندار وٽ رڳو 5 رپين وارا سڪا آهن، ته عائشہ کي واپسي ۾ ڪيترا 5 رپين وارا سڪا ملندا؟
