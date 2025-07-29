@@ -1,5 +1,5 @@
 Original English Version:
-Rita hand-picks Junebugs off of her plants every summer. On Monday, she removed 39 Junebugs. On both Tuesday and Wednesday, she removed twice as many Junebugs as she did on Monday. Thursday she removed 48 and on Friday she removed 57. What is the average number of Junebugs that she removes per day?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-فاطمہ ہر گرمیوں میں اپنے باغ سے چنبیلی کے پھول چنتی ہے۔ پیر والے دن، اس نے 39 پھول چنے۔ منگل اور بدھ، دونوں دن اس نے پیر کی نسبت دُگنے پھول چنے۔ جمعرات کو اس نے 48 اور جمعہ کو 57 پھول چنے۔ یہ بتائیں کہ اس نے ہر دن اوسطاً کتنے پھول چنے؟
+Un commerciante vuole scegliere tra due piani di acquisto: gioielli del valore di 5.000€ o dispositivi elettronici del valore di 8.000€. Il suo consulente finanziario prevede che il mercato dei gioielli salirà del 2,5% mentre il mercato dei dispositivi elettronici aumenterà dell'1,2% entro lo stesso mese. Se il commerciante vuole massimizzare il profitto alla fine di questo mese facendo una scelta, quale sarà il profitto?

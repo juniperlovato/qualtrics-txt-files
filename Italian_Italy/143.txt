@@ -1,5 +1,5 @@
 Original English Version:
-While on vacation in Bali, Thea bought a hat from a craftsman worth $70. If they gave the craftsman four $20 bills, how much change did they get?
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
 
 Translated Version:
-ثناء چھٹیوں میں مری گھومنے گئیں۔ وہاں انہوں نے ایک کاریگر سے سات سو روپے کی ایک روایتی ٹوپی خریدی۔ اگر انہوں نے کاریگر کو سو روپے کے آٹھ نوٹ دیے، تو انہیں کتنے روپے واپس ملے؟
+Giovanni è un panettiere e ogni giorno nel suo forno prepara 300 panini, 120 cornetti al cioccolato e 60 filoni di pane. Ogni panino è lungo 10 centimetri, ogni cornetto è lungo 15 centimetri e ogni filone di pane è lungo 60 centimetri. Se Giovanni mettesse tutti i prodotti da forno in fila, uno dopo l'altro, quale sarebbe la lunghezza totale in metri?

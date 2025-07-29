@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Solo has to read 4 pages from their Science textbook, 20 pages from their Social Studies textbook, 7 pages from their History textbook and 8 pages from his Geography textbook. Solo read 15 pages on Monday. If they have 4 more days to complete all their reading, how many pages do they need to read, on average, in one day?
 
 Translated Version:
-ایک عطر بنانے والی کمپنی نئے خوشبوؤں پر کام کر رہی ہے۔ ان کے پاس پہلے سے 4 گلاب کے خوشبوؤں کی قسمیں اور 8 چمبیلی کے خوشبوؤں کی قسمیں موجود ہیں۔ وہ فیصلہ کرتے ہیں کہ جس خوشبو کی سب سے زیادہ فروخت ہو گی، اس پر مزید کام کریں گے۔ دن کے آخر میں، ہر گلاب کی خوشبو کی 5 بوتلیں اور ہر چمبیلی کی خوشبو کی 2 بوتلیں فروخت ہوتی ہیں۔ بتائیں کہ گلاب کی خوشبو کی کل کتنی زیادہ بوتلیں فروخت ہوئیں، چمبیلی کے مقابلے میں؟
+Marco deve leggere 4 pagine dal suo libro di Scienze, 20 pagine dal libro di Italiano, 7 pagine da quello di Storia e 8 pagine da quello di Geografia. Lunedì, Marco ha già letto 15 pagine. Se ha ancora 4 giorni per finire di leggere tutto, quante pagine dovrà leggere in media ogni giorno?

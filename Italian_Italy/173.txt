@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن حاصل کرتا ہے۔ اسے جنگ اخبار کی ہر کاپی پر 10 فیصد اور ڈان اخبار کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر جنگ اخبار کی قیمت 20 روپے اور ڈان اخبار کی قیمت 30 روپے ہو، تو وہ جنگ اخبار کی 6 کاپیاں اور ڈان اخبار کی 10 کاپیاں بیچ کر کل کتنا کمیشن کمائے گا؟
+Marco sta facendo correre il suo cavallo e nota che per ogni chilometro che il cavallo percorre, mangia 1/2 balla di fieno. Una balla di fieno costa 3 euro. Se il suo cavallo corre per 30 minuti a 50 km/h, e Marco ha sei banconote da 5 euro, quanto resto riceve dopo aver comprato il fieno?

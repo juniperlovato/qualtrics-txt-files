@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
 
 Translated Version:
-ثنا اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس کل 27 کپ ہیں۔ وہ ان میں سے 15 کپ کشمیری چائے بنانے کے لیے استعمال کرتی ہے۔ باقی کپوں کو وہ 3 برابر قطاروں میں ترتیب دیتی ہے۔ ہر قطار میں، وہ سبز چائے اور دودھ پتی کے کپ برابر تعداد میں رکھتی ہے۔ بتائیں، ہر قطار میں دودھ پتی کے کتنے کپ ہیں؟
+Una gelateria sta cercando di creare nuovi gusti. Hanno già 4 gusti alla vaniglia e 8 gusti alla frutta disponibili e devono decidere su quale tipo di gusto concentrarsi. Decidono di concentrarsi sul gusto che vende di più e monitorano il numero di vendite come parte della loro ricerca. Alla fine della giornata, vendono 5 di ogni gusto alla vaniglia e 2 di ogni gusto alla frutta disponibile. Quanti gusti alla vaniglia sono stati venduti in più rispetto ai gusti alla frutta?

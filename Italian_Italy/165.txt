@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
 
 Translated Version:
-علی یہ فیصلہ کرنے کی کوشش کر رہا ہے کہ وہ مشین اے خریدے، جو ایک گھنٹے میں 60 کھلونے بناتی ہے، یا مشین بی خریدے، جو ایک گھنٹے میں 45 کھلونے بناتی ہے۔ ہر کھلونا 600 روپے میں فروخت ہوتا ہے۔ اگر دونوں مشینیں ایک دن میں 24 گھنٹے اور ایک مہینے (30 دن) تک چلائی جائیں، تو علی کو مشین اے کے مقابلے میں مشین بی سے کتنے روپے زیادہ ملیں گے؟
+Una gelateria in piazza vuole scoprire quali gusti di gelato sono i più amati. Ha 4 diversi gusti alla crema (come vaniglia e nocciola) e 8 gusti alla frutta (come limone e fragola). A fine giornata, il gelataio conta i coni venduti: ha venduto 5 coni per ciascun gusto alla crema e 2 coni per ciascun gusto alla frutta. Quanti coni gelato alla crema sono stati venduti in più rispetto a quelli alla frutta?

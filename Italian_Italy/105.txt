@@ -1,5 +1,5 @@
 Original English Version:
-Marilyn wants to buy a pair of boots online. On Amazon.com, the boots cost $16 and shipping costs $4. On eBay, those same pair of shoes are only $13, but shipping costs twice as much as it does on Amazon. How much more expensive do the boots work out to be on eBay?
+Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
 
 Translated Version:
-مریم ایک جوڑا جوتے آن لائن خریدنا چاہتی ہے۔ دراز پر جوتوں کی قیمت 2000 روپے ہے اور ڈیلیوری چارجز 500 روپے ہیں۔ دوسری طرف OLX پر وہی جوتے 1700 روپے کے مل رہے ہیں، لیکن OLX پر ڈیلیوری چارجز دراز سے دوگنے ہیں۔ بتائیں کہ OLX پر جوتے خریدنا کتنے روپے زیادہ مہنگا پڑے گا؟
+Giovanni prepara 300 panini, 120 cornetti al cioccolato e 60 filoni di pane ogni giorno. Ogni panino è lungo 10 centimetri, ogni cornetto è lungo 15 centimetri e ogni filone è lungo 60 centimetri. Se Giovanni mette tutti i prodotti da forno uno dopo l'altro, quanto sarà lunga la fila in metri?

@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-فاطمہ کے پاس دو مشینوں میں سے ایک خریدنے کا انتخاب ہے۔ پہلی مشین 'سموسہ میکر 3000' ہے جو ایک گھنٹے میں 60 سموسے بناتی ہے، اور دوسری مشین 'سموسہ ماسٹر 9000' ہے جو ایک گھنٹے میں 45 سموسے بناتی ہے۔ ہر سموسہ 6 روپے میں بکتا ہے۔ اگر فاطمہ مشین کو 30 دن کے مہینے میں روزانہ 24 گھنٹے چلائے تو 'سموسہ میکر 3000' سے 'سموسہ ماسٹر 9000' کے مقابلے میں کتنے زیادہ روپے کمائے گی؟
+Giulia va dal fioraio per comprare dei fiori. Le rose costano 2 euro l'una e 18 euro per una dozzina (cioè 12 rose). Se Giulia compra 15 rose e paga con tre banconote da 10 euro, e il fioraio ha solo monete da 50 centesimi per darle il resto, con quante monete da 50 centesimi torna a casa?
