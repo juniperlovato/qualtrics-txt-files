@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?
 
 Translated Version:
-ایک عطر بنانے والی کمپنی نئے خوشبوؤں پر کام کر رہی ہے۔ ان کے پاس پہلے سے 4 گلاب کے خوشبوؤں کی قسمیں اور 8 چمبیلی کے خوشبوؤں کی قسمیں موجود ہیں۔ وہ فیصلہ کرتے ہیں کہ جس خوشبو کی سب سے زیادہ فروخت ہو گی، اس پر مزید کام کریں گے۔ دن کے آخر میں، ہر گلاب کی خوشبو کی 5 بوتلیں اور ہر چمبیلی کی خوشبو کی 2 بوتلیں فروخت ہوتی ہیں۔ بتائیں کہ گلاب کی خوشبو کی کل کتنی زیادہ بوتلیں فروخت ہوئیں، چمبیلی کے مقابلے میں؟
+प्रिया को हर किलोमीटर दौड़ने के लिए 60 मिलीलीटर पानी पीना चाहिए। अगर उसकी पीटी टीचर उसे स्कूल के मैदान के 8 चक्कर लगाने को कहती है और हर चक्कर 0.25 किलोमीटर का है, तो प्रिया को कितने मिलीलीटर पानी पीना होगा?

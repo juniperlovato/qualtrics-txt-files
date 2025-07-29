@@ -1,5 +1,5 @@
 Original English Version:
-While on vacation in Bali, Thea bought a hat from a craftsman worth $70. If they gave the craftsman four $20 bills, how much change did they get?
+A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
 
 Translated Version:
-ثناء چھٹیوں میں مری گھومنے گئیں۔ وہاں انہوں نے ایک کاریگر سے سات سو روپے کی ایک روایتی ٹوپی خریدی۔ اگر انہوں نے کاریگر کو سو روپے کے آٹھ نوٹ دیے، تو انہیں کتنے روپے واپس ملے؟
+एक मिठाई की दुकान में 4 अलग-अलग तरह के लड्डू हैं और 8 अलग-अलग तरह की जलेबियाँ हैं। दुकानदार यह देखना चाहता है कि कौन सी मिठाई ज़्यादा बिकती है। दिन के अंत तक, हर तरह के 5 लड्डू बिक गए और हर तरह की 2 जलेबियाँ बिक गईं। तो बताइए, जलेबियों की तुलना में कितने ज़्यादा लड्डू बिके?

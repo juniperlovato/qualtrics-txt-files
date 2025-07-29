@@ -1,5 +1,5 @@
 Original English Version:
-Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-علی مختلف اخبارات بیچ کر ہر کاپی پر کمیشن حاصل کرتا ہے۔ اسے جنگ اخبار کی ہر کاپی پر 10 فیصد اور ڈان اخبار کی ہر کاپی پر 8 فیصد کمیشن ملتا ہے۔ اگر جنگ اخبار کی قیمت 20 روپے اور ڈان اخبار کی قیمت 30 روپے ہو، تو وہ جنگ اخبار کی 6 کاپیاں اور ڈان اخبار کی 10 کاپیاں بیچ کر کل کتنا کمیشن کمائے گا؟
+फर्न दो मशीनों में से एक खरीदने के बारे में सोच रही है - 'मिठाई मेकर 3000' जो एक घंटे में 60 लड्डू बनाती है, और 'मिठाई मास्टर 9000' जो एक घंटे में 45 लड्डू बनाती है। हर लड्डू ₹6 में बिकता है। अगर मशीन 30 दिनों के महीने में हर दिन 24 घंटे चलती है, तो फर्न 'मिठाई मेकर 3000' से 'मिठाई मास्टर 9000' की तुलना में कितने ज्यादा रुपये कमाएगी?

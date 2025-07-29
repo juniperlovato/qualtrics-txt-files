@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine them $120 for unauthorized road maintenance if they fix it themselves. They will also have to buy 3 buckets of asphalt that each cost $25. How much money do they save by fixing the pothole?
 
 Translated Version:
-علی یہ فیصلہ کرنے کی کوشش کر رہا ہے کہ وہ مشین اے خریدے، جو ایک گھنٹے میں 60 کھلونے بناتی ہے، یا مشین بی خریدے، جو ایک گھنٹے میں 45 کھلونے بناتی ہے۔ ہر کھلونا 600 روپے میں فروخت ہوتا ہے۔ اگر دونوں مشینیں ایک دن میں 24 گھنٹے اور ایک مہینے (30 دن) تک چلائی جائیں، تو علی کو مشین اے کے مقابلے میں مشین بی سے کتنے روپے زیادہ ملیں گے؟
+रोहन अपने घर के सामने वाले गड्ढे से परेशान है। अगर यह गड्ढा ठीक नहीं हुआ, तो उसकी गाड़ी को ₹4500 का नुकसान हो सकता है। नगर निगम इसे ठीक नहीं कर रहा है, और अगर रोहन खुद इसे ठीक करता है तो वे उस पर ₹500 का जुर्माना लगा देंगे। उसे गड्ढा भरने के लिए 3 बोरी सीमेंट भी खरीदनी पड़ेगी, जिसमें हर बोरी की कीमत ₹250 है। तो बताइए, गड्ढे को खुद ठीक करके रोहन कितने पैसे बचाएगा?

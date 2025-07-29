@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
 
 Translated Version:
-فاطمہ کے پاس دو مشینوں میں سے ایک خریدنے کا انتخاب ہے۔ پہلی مشین 'سموسہ میکر 3000' ہے جو ایک گھنٹے میں 60 سموسے بناتی ہے، اور دوسری مشین 'سموسہ ماسٹر 9000' ہے جو ایک گھنٹے میں 45 سموسے بناتی ہے۔ ہر سموسہ 6 روپے میں بکتا ہے۔ اگر فاطمہ مشین کو 30 دن کے مہینے میں روزانہ 24 گھنٹے چلائے تو 'سموسہ میکر 3000' سے 'سموسہ ماسٹر 9000' کے مقابلے میں کتنے زیادہ روپے کمائے گی؟
+रिया अपने भाई की जन्मदिन की पार्टी के लिए 16 मेहमानों को बुला रही है। 10 मेहमानों को छोले भटूरे खाने हैं, जिसकी एक प्लेट की कीमत ₹75 है। बाकी 6 मेहमानों को पाव भाजी खानी है, जिसकी एक प्लेट की कीमत ₹60 है। बताइए, रिया को खाने के लिए कुल कितने रुपये देने होंगे?

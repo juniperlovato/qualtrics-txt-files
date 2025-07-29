@@ -1,5 +1,5 @@
 Original English Version:
-Helga was the fastest clog dancer in all of Slovenia. With both hands at her sides, she could tap her right foot at a rate of 300 taps per minute, while simultaneously tapping her left foot at a rate of 250 taps per minute. When she raised her arms, her tap rate slowed down to 200 taps per minute with each foot. If she dances a total of 5 minutes, with her arms raised during only 2 of those minutes, what would be the combined total number of times that she taps both of her feet?
+Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday. If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?
 
 Translated Version:
-عائشہ پاکستان کی سب سے تیز دھمال کرنے والی لڑکی تھی۔ جب وہ دونوں ہاتھوں کو نیچے رکھتی، تو اپنے دائیں پیر سے ایک منٹ میں 300 بار زمین پر ٹھک ٹھک کرتی اور بائیں پیر سے ایک منٹ میں 250 بار۔ لیکن جب وہ اپنے ہاتھ اوپر اٹھا لیتی، تو دونوں پیروں سے فی پیر صرف 200 بار فی منٹ ٹھک ٹھک کرتی۔ اگر عائشہ نے کل 5 منٹ دھمال کی، جس میں سے صرف 2 منٹ اُس نے ہاتھ اوپر اٹھا کر دھمال کی، تو اُس نے دونوں پیروں سے مل کر کل کتنی بار زمین پر ٹھک ٹھک کی؟
+सुमन दीदी हर सोमवार से शुक्रवार तक रोज़ 5 डांस क्लास लेती हैं और शनिवार को 8 क्लास लेती हैं। हर क्लास में 15 बच्चे होते हैं और वह हर बच्चे से 300 रुपये फीस लेती हैं। बताओ, सुमन दीदी एक हफ्ते में कुल कितने रुपये कमाती हैं?

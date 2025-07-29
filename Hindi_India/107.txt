@@ -1,5 +1,5 @@
 Original English Version:
-Steve loves playing video games. His parents get him a console along with 5 games for his birthday. He saves up enough money to buy 1 game per month for a year, and then the following year he starts buying 2 games a month. For the third year he buys 4 games a month as he has a new part-time job that makes him more money. He also gets 5 games for Christmas every year. How many games does Steve have after 3 years?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-علی کو ویڈیو گیمز کھیلنا بہت پسند ہے۔ اس کی سالگرہ پر اس کے امی ابو نے اسے ایک کنسول اور 5 گیمیں تحفے میں دیں۔ اس نے اپنے جیب خرچ سے پیسے بچا کر ایک سال تک ہر مہینے 1 گیم خریدی۔ پھر اگلے سال وہ ہر مہینے 2 گیمیں خریدنے لگا۔ تیسرے سال اس کے ابو نے اس کا جیب خرچ بڑھا دیا، جس کی وجہ سے وہ ہر مہینے 4 گیمیں خریدنے لگا۔ اس کے علاوہ، اسے ہر سال عید پر 5 گیمیں تحفے میں ملتیں۔ بتائیں، تین سال بعد علی کے پاس کل کتنی گیمیں ہوں گی؟
+रोहन अखबार बेचकर कमीशन कमाता है। उसे 'टाइम्स ऑफ इंडिया' की हर प्रति पर 10% और 'दैनिक भास्कर' की हर प्रति पर 8% कमीशन मिलता है। यदि 'टाइम्स ऑफ इंडिया' की एक प्रति की कीमत ₹5 और 'दैनिक भास्कर' की एक प्रति की कीमत ₹15 है, तो 'टाइम्स ऑफ इंडिया' की 6 प्रतियाँ और 'दैनिक भास्कर' की 10 प्रतियाँ बेचने पर वह कुल कितना कमीशन कमाएगा?

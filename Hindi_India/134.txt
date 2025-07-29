@@ -1,5 +1,5 @@
 Original English Version:
-Carrie is planning the caroling schedule. The choir plans to sing "Deck the Halls" twice and "Jingle Bells" once. If "Deck the Halls" is 150 seconds long and "Jingle Bells" is 240 seconds long, how long will they be caroling?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-فاطمہ اسکول کی اسمبلی کے لیے ملی نغموں کا پروگرام بنا رہی ہے۔ اسکول کے بچے "سوہنی دھرتی" دو بار اور "دل دل پاکستان" ایک بار گائیں گے۔ اگر "سوہنی دھرتی" گانے میں 150 سیکنڈ لگتے ہیں اور "دل دل پاکستان" میں 240 سیکنڈ لگتے ہیں، تو بتائیں وہ کل کتنی دیر تک گائیں گے؟
+रोहन एक मिठाई की दुकान का मालिक है। वह दो लड्डू बनाने वाली मशीनों में से एक खरीदने की सोच रहा है: 'लड्डू एक्सप्रेस', जो एक घंटे में 60 लड्डू बनाती है, और 'लड्डू मास्टर', जो एक घंटे में 45 लड्डू बनाती है। हर लड्डू ₹10 का बिकता है। अगर मशीन 30 दिनों के एक महीने तक, दिन में 24 घंटे चलती है, तो रोहन 'लड्डू एक्सप्रेस' से 'लड्डू मास्टर' की तुलना में कितने ज़्यादा पैसे कमाएगा?

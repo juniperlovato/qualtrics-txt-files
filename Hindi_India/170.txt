@@ -1,5 +1,5 @@
 Original English Version:
-Jasmine's teacher gives stickers for reward. They was given 15 stickers for participating in class, but they lost 7 stickers during playtime. However, their teacher gave them another 5 stickers for helping her classmates. How many stickers do they have at the end?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-فاطمہ کی استانی صاحبہ انعام میں اسٹیکرز دیتی ہیں۔ اُنہیں کلاس میں حصہ لینے پر 15 اسٹیکرز ملے۔ لیکن کھیل کے دوران اُن سے 7 اسٹیکرز گُم ہو گئے۔ پھر، استانی صاحبہ نے اُنہیں اپنے دوستوں کی مدد کرنے پر مزید 5 اسٹیکرز دیئے۔ اب بتائیں، آخر میں فاطمہ کے پاس کُل کتنے اسٹیکرز ہیں؟
+शिवानी को उसके पहले दूध के दाँत के गिरने पर उसकी दादी ने 50 रुपये दिए। फिर, अगले तीन दाँत गिरने पर दादी ने हर दाँत के लिए उसे 10-10 रुपये दिए। और आखिरी दो दाँतों के लिए, दादी ने हर दाँत के लिए उतने रुपये का आधा दिया, जितना पिछले तीन दाँतों के लिए देती थीं। बताओ, शिवानी को उसकी दादी ने कुल कितने रुपये दिए?

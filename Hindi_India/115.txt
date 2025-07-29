@@ -1,5 +1,5 @@
 Original English Version:
-Judy teaches 5 dance classes, every day, on the weekdays and 8 classes on Saturday. If each class has 15 students and she charges $15.00 per student, how much money does she make in 1 week?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-عائشہ ہفتے کے دنوں میں روزانہ 5 قرآن کی کلاسیں پڑھاتی ہے اور ہفتہ کے دن 8 کلاسیں پڑھاتی ہے۔ اگر ہر کلاس میں 15 طالب علم ہیں اور وہ ہر طالب علم سے 500 روپے فیس لیتی ہے، تو وہ 1 ہفتے میں کتنے پیسے کماتی ہے؟
+कमल विभिन्न अखबार बेचकर प्रत्येक प्रति पर कमीशन कमाता है। उसे हिंदुस्तान टाइम्स की प्रत्येक प्रति पर 10% कमीशन और द टाइम्स ऑफ इंडिया की प्रत्येक प्रति पर 8% कमीशन मिलता है। यदि हिंदुस्तान टाइम्स की प्रत्येक प्रति ₹20 की है और द टाइम्स ऑफ इंडिया की प्रत्येक प्रति ₹25 की है, तो 6 हिंदुस्तान टाइम्स और 10 द टाइम्स ऑफ इंडिया की प्रतियों की बिक्री से उसे कुल कितना कमीशन मिलेगा?

@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-علی اپنے دوستوں کے لیے چائے بنا رہا ہے۔ اس کے پاس ۲۷ کپ ہیں، اور وہ انہیں ۳ قطاروں میں تقسیم کرتا ہے۔ ہر قطار میں برابر مقدار میں سبز چائے اور الائچی چائے کے کپ رکھتا ہے۔ باقی بچے ہوئے کپوں سے وہ ۱۵ کپ دودھ پتی بناتا ہے۔ ہر قطار میں الائچی چائے کے کتنے کپ ہیں؟
+राधा के पहले दूध के दांत गिरने पर उसकी दादी जी ने उसे ₹100 दिए। फिर अगले तीन दांत गिरने पर दादी जी ने हर दांत के लिए ₹20 दिए। और आखिरी 2 दांत गिरने पर, दादी जी ने हर दांत के लिए पिछले तीन दांतों की तुलना में आधे पैसे दिए। दादी जी ने राधा को कुल कितने रुपये दिए?

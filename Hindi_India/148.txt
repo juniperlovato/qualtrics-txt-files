@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+Melanie is a door-to-door saleswoman. They sold a third of their vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did they start with?
 
 Translated Version:
-عائشہ اسلامیات کا امتحان دے رہی ہے۔ وہ کثیر الانتخابی سوالات کے 80٪، درست/غلط سوالات کے 90٪، اور تفصیلی سوالات کے 60٪ صحیح جواب دیتی ہے۔ کثیر الانتخابی اور درست/غلط سوالات ہر ایک 1 نمبر کے ہیں، اور تفصیلی سوالات ہر ایک 5 نمبر کے ہیں۔ اگر 10 کثیر الانتخابی سوالات، 20 درست/غلط سوالات، اور 5 تفصیلی سوالات ہیں تو عائشہ کتنے نمبر حاصل کرتی ہے؟
+मीना एक दरवाजे-दरवाजे पर सामान बेचने वाली विक्रेता है। उसने अपने एक तिहाई प्रेशर कुकर हरे घर में बेच दिए, फिर लाल घर में 2 और प्रेशर कुकर बेच दिए, और शेष में से आधे नारंगी घर में बेच दिए। अब मीना के पास 5 प्रेशर कुकर बचे हैं। बताइए मीना के पास शुरू में कुल कितने प्रेशर कुकर थे?

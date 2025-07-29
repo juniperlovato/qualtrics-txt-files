@@ -1,5 +1,5 @@
 Original English Version:
-A charity group decides to do a yard sale. 10 people donate 5 boxes of stuff each. They also have 10 boxes of stuff already. They can fit 2 boxes worth of stuff per table. If they already own 15 tables, how many new tables do they need?
+Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
 
 Translated Version:
-ایک فلاحی تنظیم نے غریبوں کی مدد کے لیے سامان جمع کرنے کا فیصلہ کیا۔ 10 لوگوں نے کپڑوں کے 5، 5 ڈبے عطیہ کیے۔ تنظیم کے پاس پہلے سے بھی کپڑوں کے 10 ڈبے موجود تھے۔ سامان رکھنے کے لیے، ہر میز پر 2 ڈبے رکھے جا سکتے ہیں۔ اگر تنظیم کے پاس پہلے سے 15 میزیں ہیں، تو انہیں مزید کتنی میزوں کی ضرورت ہو گی؟
+दीपक हर दर्जन समोसे बनाने के लिए 1 किलो घी का उपयोग करता है। उसे 6 दर्जन समोसे बनाने हैं। किराना दुकान में इस समय एक ऑफर चल रहा है - एक किलो घी खरीदो और दूसरे पर आधी छूट पाओ। अगर घी की कीमत ₹320 प्रति किलो है, तो 6 किलो घी खरीदने में उसे कितने रुपये खर्च करने होंगे?

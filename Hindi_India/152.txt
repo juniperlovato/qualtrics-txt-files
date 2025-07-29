@@ -1,5 +1,5 @@
 Original English Version:
-There are 9 Fast and the Furious movies, Deepa has seen each one in the theatre three times. They have spent $216 seeing these movies. What is the average price they paid per ticket?
+Dennis uses 1 pound of butter for every dozen croissants that he makes. He needs to make 6 dozen croissants. The grocery store currently has a promotion for buy one pound of butter get one half off. If the butter costs $4.00 a pound, how much will it cost him to purchase 6 pounds of butter?
 
 Translated Version:
-ایک مشہور فلمی سیریز کی 9 فلمیں ہیں۔ علی نے ہر فلم سینما میں تین بار دیکھی ہے۔ اگر اُس نے اِن فلموں پر کُل 16,200 روپے خرچ کیے ہیں، تو ہر ایک ٹکٹ کی اوسط قیمت کیا تھی؟
+रमेश हर दर्जन समोसे बनाने के लिए 1 किलो घी का इस्तेमाल करता है। उसे 6 दर्जन समोसे बनाने हैं। किराने की दुकान पर घी पर ऑफर चल रहा है—एक किलो घी खरीदो, दूसरा आधे दाम में पाओ। अगर एक किलो घी की कीमत 320 रुपये है, तो रमेश को 6 किलो घी खरीदने में कुल कितना खर्च आएगा?

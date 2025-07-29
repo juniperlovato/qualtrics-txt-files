@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+Toula went to the bakery and bought various types of pastries. She bought 3 dozen donuts which cost $68 per dozen, 2 dozen mini cupcakes which cost $80 per dozen, and 6 dozen mini cheesecakes for $55 per dozen. How much was the total cost?
 
 Translated Version:
-ثنا اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس کل 27 کپ ہیں۔ وہ ان میں سے 15 کپ کشمیری چائے بنانے کے لیے استعمال کرتی ہے۔ باقی کپوں کو وہ 3 برابر قطاروں میں ترتیب دیتی ہے۔ ہر قطار میں، وہ سبز چائے اور دودھ پتی کے کپ برابر تعداد میں رکھتی ہے۔ بتائیں، ہر قطار میں دودھ پتی کے کتنے کپ ہیں؟
+तोला बाजार गई और उसने तरह-तरह की मिठाइयाँ खरीदीं। उसने 3 दर्जन गुलाब जामुन खरीदे, जिनकी कीमत प्रति दर्जन ₹68 थी। उसने 2 दर्जन रसगुल्ले खरीदे, जिनकी कीमत प्रति दर्जन ₹80 थी। साथ ही उसने 6 दर्जन बर्फी खरीदी, जिनकी कीमत प्रति दर्जन ₹55 थी। कुल मिलाकर तोला ने कितने रुपये खर्च किए?
