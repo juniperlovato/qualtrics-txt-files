@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Monica is wrapping Christmas gifts. She has 6 gifts to wrap for her family, 4 gifts to wrap for her friends and 2 gifts to wrap for her teachers. She has 144 inches of ribbon and wants to make a bow for each gift with it. How many inches of ribbon can she use for each gift bow?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+Monica sta mpacchettannu rigali pi Natali. Ha 6 rigali pi la so famigghia, 4 rigali pi l’amici e 2 rigali pi li maestri. Ha 366 centìmetri di nastru e voli fari na coccarda pi ogni rigalu. Quanti centìmetri di nastru pò usari pi ogni coccarda?

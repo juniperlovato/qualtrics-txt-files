@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?
 
 Translated Version:
-علی بیکری میں روزانہ 300 شیرمال، 120 چاکلیٹ پیٹیاں، اور 60 نان بناتا ہے۔ ہر شیرمال 4 انچ لمبا ہے، ہر چاکلیٹ پیٹی 6 انچ لمبی ہے، اور ہر نان 2 فٹ لمبا ہے۔ اگر علی تمام بیکری کی چیزوں کو ایک دوسرے کے ساتھ سرے سے سرا ملا کر رکھے، تو وہ کتنے فٹ لمبی ہوں گی؟
+Carmela avi a vìviri 60 ml d'acqua pi ogni chilòmitru chi curri. Si a prufissurissa di ginàstica ci dici di fari 8 giri dû campettu di scola e ogni giru è 0,25 km, quanti millilitri d'acqua avi a vìviri Carmela?

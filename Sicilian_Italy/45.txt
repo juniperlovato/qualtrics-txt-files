@@ -1,5 +1,5 @@
 Original English Version:
-A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
+Tyler wants to buy a dictionary that costs $18, a dinosaur book that costs $13, and a children's cookbook that costs $8. He has saved $14 from his allowance. If Tyler earns $5 per hour, how many hours does he have to work to afford his books?
 
 Translated Version:
-ایک تاجر کے پاس دو خریداری کے منصوبے ہیں: یا تو وہ 5,000 روپے کے سونے کے زیورات خریدے یا 8,000 روپے کے موبائل فونز خریدے۔ اس کے مالی مشیر کا خیال ہے کہ اس مہینے کے آخر تک سونے کے زیورات کی قیمت میں 2.5 فیصد اضافہ ہوگا جبکہ موبائل فونز کی قیمت میں 1.2 فیصد اضافہ ہوگا۔ اگر تاجر زیادہ سے زیادہ منافع حاصل کرنا چاہتا ہے تو اسے کون سا منصوبہ منتخب کرنا چاہیے اور اس کا منافع کتنا ہوگا؟
+Pippo voli accattari un modellinu di na Fiat 500 ca costa 18€, un libru supra i leggendi siciliani ca costa 13€, e un fumettu ca costa 8€. Iddu havi già misu i latu 14€. Sò nonnu ci duna 5€ ogni vota ca l'aiuta ntô jardinu. Quanti voti havi a aiutari a sò nonnu pi putìrisi accattari tutti sti cosi?

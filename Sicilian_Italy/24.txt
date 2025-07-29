@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
 
 Translated Version:
-علی ایک سائیکلوں کی دکان چلاتا ہے۔ اس کی دکان پر تین قسم کی سائیکلیں ملتی ہیں: پہاڑی سائیکل (MTB)، بی ایم ایکس سائیکل (BMX)، اور سیر کرنے والی سائیکل (Trekking)۔ ایک MTB کی قیمت 90,000 روپے ہے، BMX کی قیمت MTB کی آدھی ہے، اور Trekking سائیکل کی قیمت 80,000 روپے ہے۔ ایک مہینے میں علی نے کل 300 سائیکلیں فروخت کیں۔ ان میں سے آدھی Trekking سائیکلیں تھیں اور 15 فیصد BMX سائیکلیں تھیں۔ باقی MTB سائیکلیں تھیں۔ بتائیں کہ علی نے اس مہینے سائیکلیں بیچ کر کُل کتنے پیسے کمائے؟
+Sofia sta priparannu a festa di compleannu pi so soru Giulia e ci sunnu 16 invitati. Pi manciari, 10 pirsuni vonnu l'arancini e l'àutri 6 pirsuni vonnu i pizzetti. N'arancinu costa 2€ e 50, mentri na pizzetta costa 2€. Quantu spenni Sofia 'n tutali pi accattari tuttu?

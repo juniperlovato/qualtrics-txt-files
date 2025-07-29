@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Carrie is planning the caroling schedule. The choir plans to sing "Deck the Halls" twice and "Jingle Bells" once. If "Deck the Halls" is 150 seconds long and "Jingle Bells" is 240 seconds long, how long will they be caroling?
 
 Translated Version:
-ایک اسکول کی لائبریری میں 50 کتابیں ہیں۔ آدھی کتابیں انگریزی کی ہیں اور 10 فیصد اردو کی ہیں۔ باقی سب کتابیں سندھی زبان کی ہیں۔ تو بتائیں کہ سندھی زبان کی کتنی کتابیں ہیں؟
+Giuseppina sta organizzannu lu prugramma di li canti di Natali. Lu cori pensa di cantari 'Tu scendi dalle stelle' du voti e 'Astro del ciel' na vota. Si 'Tu scendi dalle stelle' dura 180 sicunni e 'Astro del ciel' dura 210 sicunni, quantu tempu ci mittunu a cantari tutti li canti?

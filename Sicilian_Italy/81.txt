@@ -1,5 +1,5 @@
 Original English Version:
-Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
+In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
 
 Translated Version:
-علی اپنی بیوی کے لیے سرپرائز پارٹی کے لیے دو مختلف جگہوں میں سے ایک کا انتخاب کرنا چاہتا ہے۔ پہلی جگہ ایک مقررہ فیس 35,000 روپے وصول کرتی ہے، چاہے مہمانوں کی تعداد جتنی بھی ہو۔ لیکن اس میں کھانے کی قیمت شامل نہیں ہے، جو علی کے حساب سے فی مہمان 800 روپے ہوگی۔ دوسری جگہ فی مہمان 3,500 روپے وصول کرتی ہے، لیکن اس میں کھانا پہلے سے شامل ہے۔ کتنے مہمان ہونے چاہئیں کہ دونوں جگہوں کی مجموعی قیمت برابر ہو جائے؟
+N'un gruppu di 20 nonni stannu priparannu i cosi duci p'a festa d'u paisi. U 20% di tutti i nonni fa i cannola. D'i nonni ca rèstanu, u 25% fa i cassati siciliani. Tutti l'àutri fannu i pasticcini di mènnula. Chi pircintuali di tutti i 20 nonni fa i pasticcini di mènnula?

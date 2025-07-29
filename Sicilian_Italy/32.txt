@@ -1,5 +1,5 @@
 Original English Version:
-Nissa hires 60 seasonal workers to play elves in their department store's Santa village. A third of the elves quit after children vomit on them, then 10 of the remaining elves quit after kids kick their shins. How many elves are left?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-علی نے گاؤں کے میلے میں اپنی دکان پر کام کرنے کے لیے 60 مددگاروں کو رکھا۔ ان میں سے ایک تہائی مددگار گرمی کی وجہ سے تھک کر گھر چلے گئے۔ پھر باقی مددگاروں میں سے 10 کو کسی ضروری کام سے دوسرے گاؤں جانا پڑا۔ اب دکان پر کل کتنے مددگار باقی ہیں؟
+Un miccanicu a Palermu fa pagari prezzi diversi pi cunzari i roti di camion e machini. Pi ogni rota di camion chi cunza, u miccanicu fa pagari 60 euro e pi ogni rota di machina chi cunza, fa pagari 40 euro. Jovi, u miccanicu cunzò 6 roti di camion e 4 roti di machina. Venniri, u miccanicu cunzò 12 roti di machina e nudda rota di camion. Quantu cchiù soddi fici u miccanicu nta dda jurnata unni guadagnò cchiù assai?

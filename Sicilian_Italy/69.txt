@@ -1,5 +1,5 @@
 Original English Version:
-David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?
 
 Translated Version:
-علی اور عائشہ میلے میں گئے، جہاں 9 جھولے ہیں۔ ہر جھولا 2 ٹکٹوں پر چلتا ہے اور ہر ٹکٹ کی قیمت 200 روپے ہے۔ آپ ایک جھولا پیکج بھی خرید سکتے ہیں جو 1500 روپے میں 9 جھولوں کی اجازت دیتا ہے۔ اگر علی جھولا پیکج خریدے اور عائشہ ٹکٹیں خریدے، اور دونوں 9 جھولے جھولیں تو علی نے کتنے روپے بچائے؟
+Pi so trentesimu cumpleannu, Carmela ricivìu €1500 di tutta a famigghia pi accattarisi nu computer novu cu tutti l'accessori. Pensa ca ci ristassi quarchi sordu pi accattarisi nu vistitu novu pi a festa. Va nta nu negoziu d'informatica e scegghi nu computer ca costa €1090 cu schermo, tastiera e mouse. Puru si pigghia nu scanner pi €157, nu masterizzaturi di CD ca costa €74 e na stampanti pi €102. Quantu sordi ci ristanu pi accattarisi u vistitu?

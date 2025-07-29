@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+A three-ounce box of flavored jello makes 10 small jello cups. Greg wants to make small jello cups for his son's outdoor birthday party. There will be 30 kids and he wants to have enough so that each kid can have 4 jello cups. Jello is currently on sale for $1.25. How much will he spend on jello?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+U signuri Giuseppe voli priparari a granita pi la festa di compleannu di sò figghiu. A festa si fa all'apertu e ci sunnu 30 picciriddi. Cu na bustina di preparatu pi la granita si ponnu fari 10 bicchierini. U signuri Giuseppe voli ca ogni picciriddu si mancia 4 bicchierini di granita. Si ogni bustina di preparatu, ca è in offerta, costa €1,25, quantu spenni in tutali u signuri Giuseppe?

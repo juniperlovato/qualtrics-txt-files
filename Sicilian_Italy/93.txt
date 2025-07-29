@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Jim spends 2 hours watching TV and then decides to go to bed and reads for half as long. He does this 3 times a week. How many hours does he spend on TV and reading in 4 weeks?
 
 Translated Version:
-ایک مکینک رکشہ اور موٹر سائیکل کے پنکچر لگانے کے مختلف ریٹ لیتا ہے۔ ہر رکشہ کے ٹائر کا پنکچر لگانے کے وہ 600 روپے چارج کرتا ہے اور ہر موٹر سائیکل کے ٹائر کا پنکچر لگانے کے وہ 400 روپے چارج کرتا ہے۔ جمعرات کے دن مکینک نے 6 رکشہ کے ٹائر اور 4 موٹر سائیکل کے ٹائر کا پنکچر لگایا۔ جمعہ کے دن مکینک نے صرف 12 موٹر سائیکل کے ٹائر کا پنکچر لگایا اور کوئی رکشہ کا ٹائر نہیں لگایا۔ جس دن زیادہ آمدنی ہوئی، اُس دن مکینک نے دوسرے دن کے مقابلے میں کتنی زیادہ رقم کمائی؟
+Pippu talia a televisioni pi 2 uri e poi si nni va a curcari e leggi pi a mità dû tempu. Fa chistu 3 voti a simana. Quanti uri passa taliannu a televisioni e liggennu 'n 4 simani?
