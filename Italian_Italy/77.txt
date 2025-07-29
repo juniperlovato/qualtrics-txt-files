@@ -1,5 +1,5 @@
 Original English Version:
-Michael is racing their horse and notices that for every mile the horse runs, they eat 1/2 a bail of hay. A bail of hay costs $3. If their horse runs for 30 minutes at 32MPH, and they have six 5 dollar bills, how much change do they have after they buy the hay?
+David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
 
 Translated Version:
-احمد اپنے گھوڑے کو دوڑا رہا ہے۔ اس نے دیکھا کہ ہر ۵ کلومیٹر دوڑنے پر گھوڑا چارے کی ایک گٹھری کھاتا ہے۔ چارے کی ایک گٹھری کی قیمت ۲۰۰ روپے ہے۔ اگر اس کا گھوڑا ۵۰ کلومیٹر فی گھنٹہ کی رفتار سے ۳۰ منٹ تک دوڑے، اور اس کے پاس پانچ سو روپے کے تین نوٹ ہیں، تو چارہ خریدنے کے بعد اس کے پاس کتنے روپے باقی بچیں گے؟
+Marco e Giulia sono andati al luna park, dove ci sono 9 giostre. Ogni giostra costa 2 gettoni da 2€ l'uno. Si può anche comprare un braccialetto giornaliero a 30€ che permette di fare tutte le 9 giostre. Se Marco compra il braccialetto e Giulia compra i gettoni, e fanno tutte le 9 giostre, quanti euro risparmia Marco?

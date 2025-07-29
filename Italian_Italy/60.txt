@@ -1,5 +1,5 @@
 Original English Version:
-Mike plays ping pong for 40 minutes. In the first 20 minutes, he scores 4 points. In the second 20 minutes, he scores 25% more points. How many total points did he score?
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
 
 Translated Version:
-علی 40 منٹ تک کرکٹ کھیلتا ہے۔ پہلے 20 منٹ میں وہ 4 رنز بناتا ہے۔ اگلے 20 منٹ میں وہ 25 فیصد زیادہ رنز بناتا ہے۔ علی نے کُل کتنے رنز بنائے؟
+La Dottoressa Rossi, la dirigente scolastica dell'Istituto Comprensivo 'Leonardo da Vinci', sta analizzando i risultati delle verifiche di matematica di fine anno. Su 500 alunni delle classi terze, 340 hanno superato la verifica. Su 100 alunni delle classi quarte, l'hanno superata in 40. I 400 alunni delle classi quinte hanno registrato una percentuale di promossi doppia rispetto a quella delle classi quarte. Qual è la percentuale complessiva di alunni promossi in tutto l'istituto?

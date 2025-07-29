@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+Jenny goes to the florist to buy some flowers. Roses cost $2 each and $15 for a dozen. If she bought 15 roses and arrived with five 5 dollar bills and they only have quarters for change, how many quarters does she leave with?
 
 Translated Version:
-ایک مکینک ٹرکوں اور کاروں کے ٹائر مرمت کرنے کے لیے مختلف ریٹ لیتا ہے۔ ہر ٹرک کے ٹائر کی مرمت کے لیے وہ 3000 روپے اور ہر کار کے ٹائر کی مرمت کے لیے 2000 روپے لیتا ہے۔ جمعرات کو مکینک نے 6 ٹرک کے ٹائر اور 4 کار کے ٹائر مرمت کیے۔ جمعہ کو مکینک نے 12 کار کے ٹائر مرمت کیے اور کوئی ٹرک کا ٹائر مرمت نہیں کیا۔ زیادہ آمدنی والے دن مکینک نے کتنے زیادہ روپے کمائے؟
+Giulia va dal fioraio per comprare dei fiori. Le rose costano 2 euro ciascuna oppure 15 euro per una dozzina. Se ha comprato 15 rose e ha pagato con cinque banconote da 5 euro, e il fioraio ha solo monete da 50 centesimi per il resto, quante monete da 50 centesimi riceve di resto?

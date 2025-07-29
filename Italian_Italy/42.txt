@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Carrie is planning the caroling schedule. The choir plans to sing "Deck the Halls" twice and "Jingle Bells" once. If "Deck the Halls" is 150 seconds long and "Jingle Bells" is 240 seconds long, how long will they be caroling?
 
 Translated Version:
-احمد روزانہ 300 نان، 120 چاکلیٹ پیٹسری اور 60 پراٹھے بناتا ہے۔ ہر نان کی لمبائی 4 انچ ہے، ہر پیٹسری کی لمبائی 6 انچ ہے، اور ہر پراٹھے کی لمبائی 2 فٹ ہے۔ اگر احمد یہ تمام چیزیں ایک سیدھی قطار میں رکھے تو ان سب کی مشترکہ لمبائی کتنے فٹ ہوگی؟
+Giulia sta organizzando il programma del coro. Il coro canterà 'Tu scendi dalle stelle' due volte e 'Astro del ciel' una volta. Se 'Tu scendi dalle stelle' dura 150 secondi e 'Astro del ciel' dura 240 secondi, quanto tempo canteranno in totale?

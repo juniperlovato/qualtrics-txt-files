@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Hannah needs to drink 60 ml of water for each kilometer she runs. If her gym teacher tells her to run 8 laps and each lap is 0.25 km, how many milliliters of water will Hannah need to drink?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+Giulia deve bere 60 ml di acqua per ogni chilometro che corre. Se la sua insegnante di educazione fisica le dice di correre 8 giri del campo sportivo e ogni giro è di 0,25 km, quanti millilitri di acqua dovrà bere Giulia?

@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+Giulia sta raccogliendo i risultati delle prove INVALSI della Scuola Primaria Leonardo da Vinci. 340 alunni su 500 della terza classe hanno superato la prova, insieme a 40 su 100 alunni della quarta classe. I 400 alunni della quinta classe hanno avuto un tasso di superamento pari al doppio di quello della quarta classe. Qual è la percentuale totale di alunni che ha superato la prova nella scuola?

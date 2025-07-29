@@ -1,5 +1,5 @@
 Original English Version:
-In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
+Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
 
 Translated Version:
-ایک کلاس میں 20 طلباء ہیں۔ 20 فیصد طلباء نے کرکٹ کلب میں داخلہ لیا، باقی میں سے 25 فیصد نے فٹبال کلب میں داخلہ لیا، اور باقی طلباء نے ہاکی کلب میں داخلہ لیا۔ پورے طلباء میں سے کتنے فیصد نے ہاکی کلب میں داخلہ لیا؟
+Il signor Mario è un bravissimo panettiere e nel suo negozio ha due forni. Il primo è un Forno Super-veloce, che cuoce 60 panini all'ora. Il secondo è un Forno Tradizionale, un po' più lento, che cuoce 45 panini all'ora. Il signor Mario vende ogni panino a 2 euro. Se i forni rimangono accesi per tutto il giorno (24 ore) per un mese di 30 giorni, quale sarà il guadagno in più del Forno Super-veloce rispetto a quello Tradizionale?

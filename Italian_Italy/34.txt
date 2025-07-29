@@ -1,5 +1,5 @@
 Original English Version:
-Melanie is a door-to-door saleswoman. They sold a third of their vacuum cleaners at the green house, 2 more to the red house, and half of what was left at the orange house. If Melanie has 5 vacuum cleaners left, how many did they start with?
+Mark is trying to choose between two venues for a surprise party for his wife. The first venue charges a flat fee of $200, regardless of how many guests attend. While the second charges, $25 per person who attends. However, the first venue does not include food, which Mark estimates will cost $5 for each person who attends. At the second venue, food for each guest is already included in the price. How many guests are necessary for the two venues to be equal in cost?
 
 Translated Version:
-عائشہ ایک گھر گھر جا کر چیزیں بیچنے والی خاتون ہے۔ انہوں نے اپنے برقی پنکھوں کا ایک تہائی حصہ سبز رنگ کے گھر میں بیچا، 2 اور پنکھے سرخ رنگ کے گھر میں بیچے، اور جو باقی بچے تھے ان کا آدھا حصہ نارنجی رنگ کے گھر میں بیچا۔ اگر عائشہ کے پاس اب 5 برقی پنکھے باقی ہیں، تو شروع میں ان کے پاس کتنے پنکھے تھے؟
+Marco sta organizzando una festa di compleanno a sorpresa per sua moglie e deve scegliere tra due locali. Il primo locale, un agriturismo, chiede un costo fisso di 200 € per l'affitto della sala. A questa spesa, Marco deve aggiungere il costo del rinfresco, che è di 15 € per ogni invitato. Il secondo locale, una pizzeria, offre un menù completo a 25 € per persona. Qual è il numero di invitati necessario perché il costo totale della festa sia lo stesso per entrambi i locali?

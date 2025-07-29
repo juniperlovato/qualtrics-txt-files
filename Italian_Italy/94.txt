@@ -1,5 +1,5 @@
 Original English Version:
-How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-آج اگر آپ دوپہر کے کھانے میں ایک فٹ لانگ چکن ٹکہ رول کے لیے 400 روپے ادا کریں اور اس سے تین گنا زیادہ قیمت ایک چھوٹے سائز کے بیف کباب رول کے لیے ادا کریں تو آپ کو کل کتنے پیسے خرچ کرنے پڑیں گے؟
+Il signor Mario, che di mestiere fa il gommista, ha prezzi diversi per riparare le gomme dei camion e quelle delle auto. Per ogni gomma da camion riparata chiede 60 €, mentre per ogni gomma da auto chiede 40 €. Giovedì, il signor Mario ripara 6 gomme da camion e 4 gomme da auto. Venerdì, invece, ripara 12 gomme da auto e nessuna da camion. Quanto ha incassato in più il signor Mario nel giorno con l'incasso maggiore?

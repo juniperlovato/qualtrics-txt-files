@@ -1,5 +1,5 @@
 Original English Version:
-A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
+There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
 
 Translated Version:
-ایک مکینک رکشہ اور موٹر سائیکل کے پنکچر لگانے کے مختلف ریٹ لیتا ہے۔ ہر رکشہ کے ٹائر کا پنکچر لگانے کے وہ 600 روپے چارج کرتا ہے اور ہر موٹر سائیکل کے ٹائر کا پنکچر لگانے کے وہ 400 روپے چارج کرتا ہے۔ جمعرات کے دن مکینک نے 6 رکشہ کے ٹائر اور 4 موٹر سائیکل کے ٹائر کا پنکچر لگایا۔ جمعہ کے دن مکینک نے صرف 12 موٹر سائیکل کے ٹائر کا پنکچر لگایا اور کوئی رکشہ کا ٹائر نہیں لگایا۔ جس دن زیادہ آمدنی ہوئی، اُس دن مکینک نے دوسرے دن کے مقابلے میں کتنی زیادہ رقم کمائی؟
+In una piccola biblioteca ci sono 50 libri. La metà di essi sono scritti in italiano, e il 10% in inglese. Tutti gli altri sono scritti in francese. Quanti libri francesi ci sono?

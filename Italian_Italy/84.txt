@@ -1,5 +1,5 @@
 Original English Version:
-Gerald works at a daycare that pays him $30 every day. He worked for an entire week and spent a total of $100. How much does he have left?
+A mechanic charges different rates to repair the tires of trucks and cars. For each truck tire that is repaired, the mechanic will charge $60 and for each car tire that is repaired, the mechanic will charge $40. On Thursday, the mechanic repairs 6 truck tires and 4 car tires. On Friday, the mechanic repairs 12 car tries and doesn't repair any truck tires. How much more revenue did the mechanic earn on the day with higher revenue?
 
 Translated Version:
-علی ایک اسکول میں کوچنگ کرتا ہے اور اسے ہر دن 900 روپے ملتے ہیں۔ اس نے پورے ہفتے کام کیا اور کل 3000 روپے خرچ کر دیے۔ اس کے پاس کتنے روپے باقی ہیں؟
+Un meccanico applica tariffe diverse per riparare le gomme di camion e automobili. Per ogni gomma di camion riparata, il meccanico addebita 60 euro e per ogni gomma di automobile riparata, addebita 40 euro. Giovedì, il meccanico ripara 6 gomme di camion e 4 gomme di automobile. Venerdì, il meccanico ripara 12 gomme di automobile e non ripara nessuna gomma di camion. Quanto ha guadagnato in più il meccanico nel giorno con il ricavo maggiore?

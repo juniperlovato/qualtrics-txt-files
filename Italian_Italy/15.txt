@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Molly is catering a birthday party for her sister and invited 16 people. 10 people want the chicken salad which is $6.50 per person and 6 people want the pasta salad at $6 per person. What is the total amount Molly will pay for the catering?
 
 Translated Version:
-ایک چھوٹی سی لائبریری میں 50 کتابیں ہیں۔ ان میں سے آدھی کتابیں اردو میں ہیں، اور 10 فیصد کتابیں فارسی میں ہیں۔ باقی تمام کتابیں پنجابی میں ہیں۔ پنجابی زبان کی کتنی کتابیں ہیں؟
+Giulia sta organizzando una festa di compleanno per sua sorella e ha invitato 16 persone. 10 persone vogliono la pizza margherita che costa 6,50 € a persona e 6 persone vogliono la pasta al pomodoro che costa 6 € a persona. Qual è la spesa totale che Giulia dovrà pagare per il catering?

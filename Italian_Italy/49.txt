@@ -1,5 +1,5 @@
 Original English Version:
-The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-اسکول کی قومی ترانہ ٹیم نئی یونیفارم منگوا رہی ہے۔ ہر یونیفارم میں ایک ٹوپی ہے جس کی قیمت 500 روپے ہے، ایک قمیض ہے جس کی قیمت ٹوپی سے تین گنا زیادہ ہے، اور شلوار ہے جس کی قیمت ٹوپی اور قمیض کی قیمتوں کا اوسط ہے۔ ہر یونیفارم کی کل قیمت کتنی ہے؟
+La fatina dei denti ha lasciato a Sara 5,00 € in cambio del primo dentino che ha perso. Poi, la fatina dei denti ha dato a Sara 1,00 € per ciascuno dei tre dentini successivi che ha perso. E per ciascuno degli ultimi 2 dentini che Sara ha perso, la fatina dei denti le ha dato la metà dei soldi per dente rispetto a quanto Sara aveva ricevuto per ciascuno dei tre denti precedenti. Quanti soldi in totale ha lasciato la fatina dei denti a Sara, in euro?

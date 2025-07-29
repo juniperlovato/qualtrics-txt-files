@@ -1,5 +1,5 @@
 Original English Version:
-David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
+Aiden and 12 of his friends are going to see a film at the cinema, and meet up with 7 more friends there. They each save a seat and then buy enough drinks and snacks to fill the seats. Each seat has enough room to hold one person, two drinks, and three snacks. If drinks and snacks cost $2 each, how much money, in dollars, has the group spent overall on snacks and drinks?
 
 Translated Version:
-احمد اور عائشہ عید کے میلے میں گئے جہاں 9 جھولے ہیں۔ ہر جھولے کی سواری کے لیے 2 ٹکٹ چاہیے جن کی قیمت 50 روپے فی ٹکٹ ہے۔ آپ 750 روپے میں ایک خاص پاس بھی خرید سکتے ہیں جس سے آپ تمام 9 جھولوں کی سواری کر سکتے ہیں۔ اگر احمد خاص پاس خریدتا ہے اور عائشہ ٹکٹ خریدتی ہے، اور وہ دونوں تمام 9 جھولوں کی سواری کرتے ہیں، تو احمد کتنے روپے بچاتا ہے؟
+Luca e 12 suoi amici stanno andando a vedere un film al cinema e lì si incontrano con altri 7 amici. Ognuno occupa un posto e poi comprano abbastanza bibite e snack per riempire tutti i posti. Ogni posto ha spazio per una persona, due bibite e tre snack. Se una bibita o uno snack costa 2 euro ciascuno, quanti euro in totale spende il gruppo per bibite e snack?
