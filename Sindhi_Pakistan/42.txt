@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+A merchant wants to make a choice of purchase between 2 purchase plans: jewelry worth $5,000 or electronic gadgets worth $8,000. His financial advisor speculates that the jewelry market will go up 2.5% while the electronic gadgets market will rise 1.2% within the same month. If the merchant is looking to maximize profit at the end of this month by making a choice, how much profit would this be?
 
 Translated Version:
-احمد روزانہ 300 نان، 120 چاکلیٹ پیٹسری اور 60 پراٹھے بناتا ہے۔ ہر نان کی لمبائی 4 انچ ہے، ہر پیٹسری کی لمبائی 6 انچ ہے، اور ہر پراٹھے کی لمبائی 2 فٹ ہے۔ اگر احمد یہ تمام چیزیں ایک سیدھی قطار میں رکھے تو ان سب کی مشترکہ لمبائی کتنے فٹ ہوگی؟
+هڪ واپاري وٽ ٻه خريداري جا منصوبا آهن: سونَ جا زيور 14 لک رپين جا يا موبائل فون ۽ اليڪٽرانڪ شيون 22 لک 40 هزار رپين جون. سندس مالي صلاحڪار جو چوڻ آهي ته سونَ جي بازار هن مهيني ۾ 2.5٪ وڌندي ۽ اليڪٽرانڪ شين جي بازار 1.2٪ وڌندي. جيڪڏهن واپاري هن مهيني جي آخر ۾ وڌ کان وڌ نفعي لاءِ هڪ منصوبي جو انتخاب ڪرڻ چاهي ٿو، ته اُهو ڪيترو نفعو ڪمائيندو؟

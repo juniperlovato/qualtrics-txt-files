@@ -1,5 +1,5 @@
 Original English Version:
-Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
+In a dance class of 20 students, 20% enrolled in contemporary dance, 25% of the remaining enrolled in jazz dance, and the rest enrolled in hip-hop dance. What percentage of the entire students enrolled in hip-hop dance?
 
 Translated Version:
-علی ایک سائیکلوں کی دکان چلاتا ہے۔ اس کی دکان پر تین قسم کی سائیکلیں ملتی ہیں: پہاڑی سائیکل (MTB)، بی ایم ایکس سائیکل (BMX)، اور سیر کرنے والی سائیکل (Trekking)۔ ایک MTB کی قیمت 90,000 روپے ہے، BMX کی قیمت MTB کی آدھی ہے، اور Trekking سائیکل کی قیمت 80,000 روپے ہے۔ ایک مہینے میں علی نے کل 300 سائیکلیں فروخت کیں۔ ان میں سے آدھی Trekking سائیکلیں تھیں اور 15 فیصد BMX سائیکلیں تھیں۔ باقی MTB سائیکلیں تھیں۔ بتائیں کہ علی نے اس مہینے سائیکلیں بیچ کر کُل کتنے پیسے کمائے؟
+هڪ اسڪول ۾ 20 شاگرد آهن. 20٪ شاگردن ڪرڪيٽ ڪلاس ۾ داخل ٿيا، باقي مان 25٪ شاگردن فٽبال ڪلاس ۾ داخل ٿيا، ۽ باقي سڀ شاگرد هاکي ڪلاس ۾ داخل ٿيا. پڇيو ته سڀني شاگردن مان ڪيترا سيڪڙو شاگرد هاکي ڪلاس ۾ داخل ٿيا؟

@@ -1,5 +1,5 @@
 Original English Version:
-There are 50 books in a small library. Half of them are written in English, and 10% in German. All others are written in Spanish. How many Spanish books are there?
+Marcel runs a bicycle store. Their main products are three types of bikes: MTB, BMX, and Trekking. The price of one MTB is $500, BMX is half the price of an MTB, and a Trekking bike is $450. In one month, they sold a total of 300 bikes among the types listed. Half of them were Trekking bikes, and 15% were BMX bikes. The rest of the sold bikes were MTB type. How much did they earn from selling bicycles during that month?
 
 Translated Version:
-ایک اسکول کی لائبریری میں 50 کتابیں ہیں۔ آدھی کتابیں انگریزی کی ہیں اور 10 فیصد اردو کی ہیں۔ باقی سب کتابیں سندھی زبان کی ہیں۔ تو بتائیں کہ سندھی زبان کی کتنی کتابیں ہیں؟
+علي جو هڪ سائيڪل جو دڪان آهي جتي هو ٽن قسمن جون سائيڪلون وڪڻي ٿو: ريسنگ، عام ۽ ٻارن واريون. هڪ ريسنگ سائيڪل جي قيمت 20,000 رپيا، هڪ عام سائيڪل جي قيمت 15,000 رپيا ۽ ٻارن واري سائيڪل جي قيمت ريسنگ سائيڪل کان اڌ آهي. هڪ مهيني ۾ هن ڪُل 300 سائيڪلون وڪيون، جن مان اڌ عام سائيڪلون، 15 سيڪڙو ٻارن واريون ۽ باقي ريسنگ سائيڪلون هيون. ٻڌايو ته علي ان مهيني سائيڪلون وڪڻي ڪُل ڪيتري ڪمائي ڪئي؟

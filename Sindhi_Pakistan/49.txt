@@ -1,5 +1,5 @@
 Original English Version:
-The marching band is ordering new uniforms. Each uniform comes with a hat that costs $25, a jacket that costs three times as much as the hat, and pants that cost the average of the costs of the hat and jacket. How much does each uniform cost total?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-اسکول کی قومی ترانہ ٹیم نئی یونیفارم منگوا رہی ہے۔ ہر یونیفارم میں ایک ٹوپی ہے جس کی قیمت 500 روپے ہے، ایک قمیض ہے جس کی قیمت ٹوپی سے تین گنا زیادہ ہے، اور شلوار ہے جس کی قیمت ٹوپی اور قمیض کی قیمتوں کا اوسط ہے۔ ہر یونیفارم کی کل قیمت کتنی ہے؟
+علي مختلف اخبارون وڪڻي هر ڪاپي تي ڪميشن حاصل ڪري ٿو. هن کي ’روزاني جنگ‘ جي هر ڪاپي تي 10 سيڪڙو ۽ ’ڊان‘ اخبار جي هر ڪاپي تي 8 سيڪڙو ڪميشن ملي ٿي. هو ’روزاني جنگ‘ جون 6 ڪاپيون ۽ ’ڊان‘ اخبار جون 10 ڪاپيون وڪڻڻ کانپوءِ ڪُل ڪيتري ڪميشن ڪمائيندو، جيڪڏهن هر اخبار جي قيمت ترتيبوار 30 روپيا ۽ 50 روپيا آهي؟

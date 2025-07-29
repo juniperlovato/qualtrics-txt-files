@@ -1,5 +1,5 @@
 Original English Version:
-The great pyramids sit at an angle of 32 degrees from the ground when you stand at the entrance of Sahir's house. The sun is moving at 5 degrees an hour straight upward from the pyramid relative to Sahir's house. If the sun starts at the tip of the pyramid and moves for 10 hours, how many degrees will there be from the ground to the sun?
+Dylan attended a wedding where there were 100 guests in the reception. Each guest brought a plate of 15 cookies. The bride decided to give 1/2 of the cookies to the church next door as a thank you for helping in the wedding reception. If each person in the church next door got 15 cookies, how many people were in the church next door?
 
 Translated Version:
-ساحر کے گھر سے دیکھنے پر مینارِ پاکستان کی چوٹی زمین سے 32 ڈگری کے زاویے پر نظر آتی ہے۔ سورج مینار کی چوٹی سے سیدھا اوپر کی طرف حرکت کرنا شروع کرتا ہے، جس کی وجہ سے زاویہ ہر گھنٹے 5 ڈگری بڑھ جاتا ہے۔ اگر سورج 10 گھنٹے تک اسی طرح حرکت کرتا رہے، تو زمین سے سورج کا نیا زاویہ کتنے ڈگری ہوگا؟
+علي جي ڀيڻ جي شادي ۾ 100 مهمان آيا. هر مهمان 15 مٺايون کڻي آيو. دلهن فيصلو ڪيو ته اڌيون مٺايون ڀرسان واري مسجد ۾ ڏيندي، ڇاڪاڻ ته مسجد وارن شادي جي تياري ۾ مدد ڪئي هئي. جيڪڏهن مسجد ۾ هر ماڻهوءَ کي 15 مٺايون مليون، ته مسجد ۾ ڪيترا ماڻهو هئا؟

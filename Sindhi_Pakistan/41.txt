@@ -1,5 +1,5 @@
 Original English Version:
-Bill bakes 300 rolls, 120 chocolate croissants, and 60 baguettes every day. Each roll is 4 inches long, each croissant is 6 inches long, and each baguette is two feet long. If Bill puts all the baked goods end to end, how long will they be in feet?
+The tooth fairy left Sharon $5.00 in exchange for the first tooth Sharon lost. Then, the tooth fairy gave Sharon $1.00 for each of the next three teeth Sharon lost. And for each of the last 2 teeth Sharon lost, the tooth fairy gave Sharon half the amount of money per tooth as Sharon had received for each of the previous three teeth. How much money did the tooth fairy leave Sharon, in dollars?
 
 Translated Version:
-احمد روزانہ ۳۰۰ نان، ۱۲۰ سموسے اور ۶۰ شیرمال بناتا ہے۔ ہر نان ۸ انچ لمبا، ہر سموسہ ۶ انچ لمبا اور ہر شیرمال ۱ فٹ لمبا ہے۔ اگر احمد ان تمام اشیاء کو سرے سے سرا ملا کر ایک قطار میں رکھے تو ان کی کل لمبائی کتنے فٹ ہو گی؟
+عذرا جي والدين انعام طور تي عذرا کي پهريون ڀيرو سندس ڏند ڪڍڻ تي 500 رپيا ڏنا. پوءِ، ايندڙ ٽن ڏندن لاءِ، هر ڏند تي عذرا کي 100 رپيا ڏنا ويا. آخري ٻن ڏندن لاءِ، عذرا کي هر ڏند تي ايترا رپيا ڏنا ويا، جيڪي پوئين ٽن ڏندن جي رقم جو اڌ هئا. مجموعي طور تي عذرا کي ڪيترا رپيا مليا؟
