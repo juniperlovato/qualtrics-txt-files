@@ -1,5 +1,5 @@
 Original English Version:
-Lana is brewing cups of tea for her friends. She has 27 cups, and she divides these into 3 rows. In each row, she creates equal amounts of chamomile and mint tea cups. She then uses the remaining cups to brew a total of 15 cups of cinnamon tea. How many cups of mint tea are in each row?
+Ron is fed up with the pothole in front of his house. If it doesn't get fixed, it's going to do $450 worth of damage to his car. Unfortunately, the city council refuses to fix it, and will fine them $120 for unauthorized road maintenance if they fix it themselves. They will also have to buy 3 buckets of asphalt that each cost $25. How much money do they save by fixing the pothole?
 
 Translated Version:
-ثنا اپنے مہمانوں کے لیے چائے بنا رہی ہے۔ اس کے پاس کل 27 کپ ہیں۔ وہ ان میں سے 15 کپ کشمیری چائے بنانے کے لیے استعمال کرتی ہے۔ باقی کپوں کو وہ 3 برابر قطاروں میں ترتیب دیتی ہے۔ ہر قطار میں، وہ سبز چائے اور دودھ پتی کے کپ برابر تعداد میں رکھتی ہے۔ بتائیں، ہر قطار میں دودھ پتی کے کتنے کپ ہیں؟
+Salvaturi è stufu di la buca davanti a so casa. Si nun si cunza, ci farà 450 euru di dannu a so machina. Purtroppu, u cumuni nun voli cunzalla, e ci farà pagari 120 euru di multa si a cunzanu iddi stissi senza pirmissu. Avissi a accattari puru 3 sicchi di asfaltu chi custanu 25 euru ognunu. Quantu dinari risparmia Salvaturi cunzannu iddu stissu a buca?

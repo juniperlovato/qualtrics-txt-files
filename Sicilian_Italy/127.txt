@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+How much does it cost you for lunch today at Subway if you pay $40 for a foot-long fish sub and thrice as much for a six-inch cold-cut combo sub?
 
 Translated Version:
-ایک عطر کی دکان عید کے لیے نئی خوشبوئیں بنانے کی کوشش کر رہی ہے۔ ان کے پاس پہلے سے 4 کیولڑے کی خوشبوئیں اور 8 پھلوں کی خوشبوئیں موجود ہیں۔ انہیں فیصلہ کرنا ہے کہ کس قسم کی خوشبو پر زیادہ توجہ دیں۔ وہ فیصلہ کرتے ہیں کہ جو خوشبو سب سے زیادہ بکے گی اس پر توجہ دیں گے۔ دن کے اختتام تک، وہ ہر کیولڑے کی خوشبو میں سے 5 بوتلیں اور ہر پھل کی خوشبو میں سے 2 بوتلیں فروخت کرتے ہیں۔ پھلوں کی خوشبوؤں کے مقابلے میں کیولڑے کی کتنی زیادہ خوشبوئیں فروخت ہوئیں؟
+Quantu ti costa u pranzu oggi alla rosticceria si pi un paninu cu sardi longu paghi 4 euro e pi un paninu cu salumi nicu paghi tri voti di cchiù?

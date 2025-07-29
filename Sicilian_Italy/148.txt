@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+John plans to sell all their toys and use the money to buy video games. They have 13 lego sets and he sells them for $15 each. They end up buying 8 video games for $20 each and has $5 left. How many lego sets do they still have?
 
 Translated Version:
-عائشہ اسلامیات کا امتحان دے رہی ہے۔ وہ کثیر الانتخابی سوالات کے 80٪، درست/غلط سوالات کے 90٪، اور تفصیلی سوالات کے 60٪ صحیح جواب دیتی ہے۔ کثیر الانتخابی اور درست/غلط سوالات ہر ایک 1 نمبر کے ہیں، اور تفصیلی سوالات ہر ایک 5 نمبر کے ہیں۔ اگر 10 کثیر الانتخابی سوالات، 20 درست/غلط سوالات، اور 5 تفصیلی سوالات ہیں تو عائشہ کتنے نمبر حاصل کرتی ہے؟
+Giuvanni voli vìnniri tutti i so pupazzi pi accattari videogiochi. Iddu havi 13 scatuli di Lego e i vìnniri pi 15 euro ognuna. Poi accatta 8 videogiochi a 20 euro ciascunu e ci restanu 5 euro. Quanti scatuli di Lego ci ristaru a Giuvanni?

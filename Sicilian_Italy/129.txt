@@ -1,5 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Janet is collecting the results of Herbert Hoover Elementary School's annual standardized test. 340 out of 500 third-graders passed, along with 40 out of 100 fourth graders. The 400 fifth graders had a pass rate that was twice the fourth grades' pass rate. What is the school's overall pass rate?
 
 Translated Version:
-ایک عطر بنانے والی کمپنی نئے خوشبوؤں پر کام کر رہی ہے۔ ان کے پاس پہلے سے 4 گلاب کے خوشبوؤں کی قسمیں اور 8 چمبیلی کے خوشبوؤں کی قسمیں موجود ہیں۔ وہ فیصلہ کرتے ہیں کہ جس خوشبو کی سب سے زیادہ فروخت ہو گی، اس پر مزید کام کریں گے۔ دن کے آخر میں، ہر گلاب کی خوشبو کی 5 بوتلیں اور ہر چمبیلی کی خوشبو کی 2 بوتلیں فروخت ہوتی ہیں۔ بتائیں کہ گلاب کی خوشبو کی کل کتنی زیادہ بوتلیں فروخت ہوئیں، چمبیلی کے مقابلے میں؟
+Maria sta ricugghiennu i risultati di l'esami finali di la scola elementari Giuseppe Garibaldi. 340 di 500 picciriddi di terza elementari hannu passatu, nzemmula cu 40 di 100 picciriddi di quarta. I 400 picciriddi di quinta hannu avutu na percentuali di successu ca era u duppiu di chidda di la quarta. Qual'è a percentuali di successu tutali di la scola?

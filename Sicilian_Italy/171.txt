@@ -1,5 +1,5 @@
 Original English Version:
-Jasmine's teacher gives stickers for reward. They was given 15 stickers for participating in class, but they lost 7 stickers during playtime. However, their teacher gave them another 5 stickers for helping her classmates. How many stickers do they have at the end?
+For his 30th birthday, Elvira chose a new computer with many accessories as a gift. She has a budget of €1500 donated by her whole family and thinks that she will be able to keep a little money to afford a garment. She goes to a computer store and chooses a machine that costs €1090 with a screen, keyboard and mouse. She also takes a scanner for €157, a CD burner worth €74 and a printer for €102. How much money will she have left for her clothing?
 
 Translated Version:
-علی کے استاد نے اسے اچھی کارکردگی پر انعام کے طور پر اسٹیکرز دیے۔ علی کو کلاس میں حصہ لینے پر 15 اسٹیکرز ملے، لیکن کھیل کے دوران اس کے 7 اسٹیکرز گم ہوگئے۔ پھر استاد نے اسے اپنے دوستوں کی مدد کرنے پر مزید 5 اسٹیکرز دیے۔ آخر میں علی کے پاس کتنے اسٹیکرز باقی ہیں؟
+Pi lu so' cumpliannu di 30 anni, Elvira scelse di accattari nu computer novu cu tanti accessori comu rigalu. Teni na bugettu di 1500 euro ca ci fici tutta a so famigghia e pensa ca ci po' ristari quarchi soldi pi accattari na vesta nova. Va a nu negoziu di elettronica e sceglie na machina ca costa 1090 euro cu schermo, tastiera e mus. Accatta puru nu scanner pi 157 euro, nu masterizzaturi di CD pi 74 euro e na stampanti pi 102 euro. Quanti soldi ci restunu a Elvira pi accattari a vesta?

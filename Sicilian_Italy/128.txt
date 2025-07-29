@@ -1,8 +1,5 @@
 Original English Version:
-A perfume company is trying to create new scents. They already have 4 vanilla scents and 8 fruity scents available and they need to decide which kind of scent to focus on. They decide to focus on whichever scent sells the most and monitor their number of sales as part of their research. By the end of the day, they sell 5 of each of the vanilla scents and 2 of each of the fruity scents available. How many more vanilla scents sold compared with the fruity scents?
+Leila buys 3 cucumbers from the market. Cucumbers are $2 each. Jack buys 5 tomatoes from the grocery store. Tomatoes are $1 each. Chase buys 1 head of lettuce from the farmer’s market. Lettuce cost $3 each. Together, how much did the three of them spend to make a salad for the potluck?
 
 Translated Version:
-ایک عطر فروش، احمد بھائی، اپنی دکان میں دو طرح کے عطر بیچتے ہیں: گلاب اور چنبیلی۔
- اُن کے پاس گلاب کے عطر کی 4 مختلف قسمیں ہیں اور چنبیلی کے عطر کی 8 مختلف قسمیں ہیں۔
- دن کے آخر میں حساب کرنے پر معلوم ہوا کہ اُنہوں نے گلاب کی ہر قسم کی 5 شیشیاں فروخت کیں اور چنبیلی کی ہر قسم کی 2 شیشیاں فروخت کیں۔
- تو بتائیں کہ گلاب کی کل فروخت ہونے والی شیشیاں، چنبیلی کی کل فروخت ہونے والی شیشیوں سے کتنی زیادہ تھیں؟
+Giulia accatta 3 cucummari dû mircatu. I cucummari custanu 2 euro l'unu. Peppe accatta 5 pumadori dâ putìa. I pumadori custanu 1 euro l'unu. Carmela accatta 1 lattuca dû mircatu di li cuntadini. A lattuca costa 3 euro. 'Nzemmula, quantu spinneru pi fari 'na 'nzalata pâ festa di quarteri?

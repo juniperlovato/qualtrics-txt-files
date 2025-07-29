@@ -1,5 +1,5 @@
 Original English Version:
-Fern is trying to decide between buying the Widgeteer 3000, which makes 60 widgets an hour, and the WidgetMaster 9000, which makes 45 widgets an hour. Each widget sells for $6. How much more money will Fern make from the Widgeteer 3000 vs. the WidgetMaster 9000 if it runs 24 hours a day for a month with 30 days?
+David and Dasha went to the carnival, where there are 9 rides. Each ride costs 2 ride tickets at $2 per ticket. You can also buy a ride bracelet for $30 which gives you 9 rides. If David buys a ride bracelet and Dasha buys tickets, and they ride all 9 rides, how much money does David save?
 
 Translated Version:
-فاطمہ کے پاس دو مشینوں میں سے ایک خریدنے کا انتخاب ہے۔ پہلی مشین 'سموسہ میکر 3000' ہے جو ایک گھنٹے میں 60 سموسے بناتی ہے، اور دوسری مشین 'سموسہ ماسٹر 9000' ہے جو ایک گھنٹے میں 45 سموسے بناتی ہے۔ ہر سموسہ 6 روپے میں بکتا ہے۔ اگر فاطمہ مشین کو 30 دن کے مہینے میں روزانہ 24 گھنٹے چلائے تو 'سموسہ میکر 3000' سے 'سموسہ ماسٹر 9000' کے مقابلے میں کتنے زیادہ روپے کمائے گی؟
+Davide e Dàscia vannu â fiera di paese, unni ci su 9 giostri. Ogni giostra costa 2 biglietti, e ogni bigliettu costa 2 euro. Si pò accattari puru un braccialettu pi 30 euro ca ti fa jiri su tutti i 9 giostri. Si Davide accatta u braccialettu e Dàscia accatta li biglietti, e fannu tutti e 9 giostri, quantu risparmia Davide?

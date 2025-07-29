@@ -1,5 +1,5 @@
 Original English Version:
-Amy is taking a history test. They correctly answers 80% of the multiple-choice questions, 90% of the true/false questions, and 60% of the long-answer questions. The multiple-choice and true/false questions are worth 1 point each, and the long answer questions are worth 5 points each. How many points does Amy score if there are 10 multiple-choice questions, 20 true/false questions, and 5 long answer questions?
+Cayley markets various newspapers to get a commission on each copy sold. He gets a 10% commission on each copy of the New York Times and an 8% commission on each of the Wall Street Journal. How much commission will he earn in total from the sales of 6 copies of the New York Times and 10 copies of Wall Street Journal if each costs $5 and $15 respectively?
 
 Translated Version:
-علی اسلامیات کا ایک امتحان دے رہا ہے۔ اس نے 80% کثیر الانتخابی سوالات، 90% صحیح/غلط سوالات، اور 60% تفصیلی سوالات کے صحیح جوابات دیئے۔ ہر کثیر الانتخابی اور صحیح/غلط سوال کا 1 نمبر ہے، اور ہر تفصیلی سوال کے 5 نمبر ہیں۔ اگر امتحان میں 10 کثیر الانتخابی سوالات، 20 صحیح/غلط سوالات، اور 5 تفصیلی سوالات ہوں تو علی نے کل کتنے نمبر حاصل کیے؟
+Carmelu vinni diversi giurnali e pigghia na cummissioni pi ogni copia vinnuta. Iddu pigghia u 10% di cummissioni pi ogni copia dû Corriere della Sera e l'8% di cummissioni pi ogni copia da Gazzetta dello Sport. Quantu cummissioni guadagna 'n tuttu dâ vinnita di 6 copii dû Corriere della Sera e 10 copii dâ Gazzetta dello Sport si ognuna costa €3 e €2 rispittivamenti?
